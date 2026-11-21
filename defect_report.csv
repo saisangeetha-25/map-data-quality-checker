@@ -1,0 +1,1708 @@
+Defect_ID,Check_ID,Check_Name,Severity,Record_ID,Name,Lat,Lon,Expected,Actual
+DEF-001,QC01,Required fields present,High,320410525,,17.4234775,78.4245152,No missing fields,Missing: name
+DEF-002,QC01,Required fields present,High,321709784,,17.4408307,78.4870942,No missing fields,Missing: name
+DEF-003,QC01,Required fields present,High,321709797,,17.4387971,78.4888125,No missing fields,Missing: name
+DEF-004,QC01,Required fields present,High,321711262,,17.3512905,78.4521274,No missing fields,Missing: name
+DEF-005,QC01,Required fields present,High,321711265,,17.3610022,78.4748414,No missing fields,Missing: name
+DEF-006,QC01,Required fields present,High,321711823,,17.4427323,78.5064355,No missing fields,Missing: name
+DEF-007,QC01,Required fields present,High,321712775,,17.4271001,78.5303137,No missing fields,Missing: name
+DEF-008,QC01,Required fields present,High,321714718,,17.4182146,78.5267599,No missing fields,Missing: name
+DEF-009,QC01,Required fields present,High,321714824,,17.4246679,78.5349143,No missing fields,Missing: name
+DEF-010,QC01,Required fields present,High,321715860,,17.4272721,78.531421,No missing fields,Missing: name
+DEF-011,QC01,Required fields present,High,321718013,,17.4115729,78.4825661,No missing fields,Missing: name
+DEF-012,QC01,Required fields present,High,349267744,,17.4405212,78.3916995,No missing fields,Missing: name
+DEF-013,QC01,Required fields present,High,352750007,,17.4424723,78.4426473,No missing fields,Missing: name
+DEF-014,QC01,Required fields present,High,355647267,,17.4418452,78.4453112,No missing fields,Missing: name
+DEF-015,QC01,Required fields present,High,355649675,,17.4406888,78.3923457,No missing fields,Missing: name
+DEF-016,QC01,Required fields present,High,538425762,,17.4417252,78.4459528,No missing fields,Missing: name
+DEF-017,QC01,Required fields present,High,626897212,,17.3662351,78.4946292,No missing fields,Missing: name
+DEF-018,QC01,Required fields present,High,626897218,,17.3655267,78.4999031,No missing fields,Missing: name
+DEF-019,QC01,Required fields present,High,626897291,,17.3714465,78.4820816,No missing fields,Missing: name
+DEF-020,QC01,Required fields present,High,626897376,,17.3764606,78.4755269,No missing fields,Missing: name
+DEF-021,QC01,Required fields present,High,626910648,,17.3672884,78.4828651,No missing fields,Missing: name
+DEF-022,QC01,Required fields present,High,634125053,,17.4020866,78.5093523,No missing fields,Missing: name
+DEF-023,QC06,Name formatting,Low,635573665,HDFC BANK ATM,17.4083957,78.4977836,"Trimmed, not ALL CAPS",'HDFC BANK ATM'
+DEF-024,QC01,Required fields present,High,635574643,,17.40581,78.513264,No missing fields,Missing: name
+DEF-025,QC06,Name formatting,Low,677298885,YMCA,17.3954875,78.4912152,"Trimmed, not ALL CAPS",'YMCA'
+DEF-026,QC01,Required fields present,High,703543252,,17.4265322,78.5493729,No missing fields,Missing: name
+DEF-027,QC01,Required fields present,High,708303186,,17.4411848,78.3917482,No missing fields,Missing: name
+DEF-028,QC01,Required fields present,High,739455669,,17.4218125,78.4256435,No missing fields,Missing: name
+DEF-029,QC01,Required fields present,High,813570415,,17.4333035,78.405506,No missing fields,Missing: name
+DEF-030,QC01,Required fields present,High,813570962,,17.4452017,78.4641516,No missing fields,Missing: name
+DEF-031,QC01,Required fields present,High,813570986,,17.4452093,78.4645808,No missing fields,Missing: name
+DEF-032,QC01,Required fields present,High,813571022,,17.4447551,78.4645902,No missing fields,Missing: name
+DEF-033,QC01,Required fields present,High,813571472,,17.4427994,78.5042129,No missing fields,Missing: name
+DEF-034,QC01,Required fields present,High,813571613,,17.4378187,78.5108106,No missing fields,Missing: name
+DEF-035,QC01,Required fields present,High,813571662,,17.4352319,78.5144447,No missing fields,Missing: name
+DEF-036,QC01,Required fields present,High,813571878,,17.428384,78.5279463,No missing fields,Missing: name
+DEF-037,QC01,Required fields present,High,813692120,,17.4349234,78.383632,No missing fields,Missing: name
+DEF-038,QC01,Required fields present,High,813692342,,17.4341863,78.3885278,No missing fields,Missing: name
+DEF-039,QC01,Required fields present,High,817354478,,17.4445563,78.4670675,No missing fields,Missing: name
+DEF-040,QC06,Name formatting,Low,886337163,ISKCON,17.442076,78.5055212,"Trimmed, not ALL CAPS",'ISKCON'
+DEF-041,QC01,Required fields present,High,888544512,,17.468298,78.366808,No missing fields,Missing: name
+DEF-042,QC01,Required fields present,High,888544513,,17.4682264,78.3667329,No missing fields,Missing: name
+DEF-043,QC01,Required fields present,High,890105031,,17.4235862,78.4635981,No missing fields,Missing: name
+DEF-044,QC01,Required fields present,High,928692475,,17.4223157,78.4649177,No missing fields,Missing: name
+DEF-045,QC06,Name formatting,Low,942495902,IDBI,17.4444859,78.3529879,"Trimmed, not ALL CAPS",'IDBI'
+DEF-046,QC01,Required fields present,High,986848593,,17.4347862,78.4883576,No missing fields,Missing: name
+DEF-047,QC01,Required fields present,High,1038395539,,17.4211388,78.4839215,No missing fields,Missing: name
+DEF-048,QC01,Required fields present,High,1038397148,,17.439912,78.4880414,No missing fields,Missing: name
+DEF-049,QC01,Required fields present,High,1041920536,,17.4443518,78.3803001,No missing fields,Missing: name
+DEF-050,QC01,Required fields present,High,1043522237,,17.4293338,78.3418803,No missing fields,Missing: name
+DEF-051,QC01,Required fields present,High,1050793165,,17.4639047,78.4575336,No missing fields,Missing: name
+DEF-052,QC01,Required fields present,High,1050793702,,17.4638945,78.4572868,No missing fields,Missing: name
+DEF-053,QC01,Required fields present,High,1058611114,,17.4260406,78.5346675,No missing fields,Missing: name
+DEF-054,QC01,Required fields present,High,1152688354,,17.4073584,78.4555516,No missing fields,Missing: name
+DEF-055,QC01,Required fields present,High,1166215301,,17.4665149,78.4270626,No missing fields,Missing: name
+DEF-056,QC06,Name formatting,Low,1215214084,LEAF HOSPITAL,17.4629614,78.3673949,"Trimmed, not ALL CAPS",'LEAF HOSPITAL'
+DEF-057,QC01,Required fields present,High,1215742611,,17.4625754,78.3670074,No missing fields,Missing: name
+DEF-058,QC01,Required fields present,High,1215742614,,17.4593336,78.3663932,No missing fields,Missing: name
+DEF-059,QC01,Required fields present,High,1215744389,,17.4647297,78.3656126,No missing fields,Missing: name
+DEF-060,QC01,Required fields present,High,1215744398,,17.4649832,78.3651673,No missing fields,Missing: name
+DEF-061,QC01,Required fields present,High,1215747407,,17.4642643,78.3667284,No missing fields,Missing: name
+DEF-062,QC01,Required fields present,High,1215766445,,17.4625142,78.364588,No missing fields,Missing: name
+DEF-063,QC01,Required fields present,High,1215774381,,17.4642128,78.3670717,No missing fields,Missing: name
+DEF-064,QC01,Required fields present,High,1215782305,,17.4321596,78.3447962,No missing fields,Missing: name
+DEF-065,QC01,Required fields present,High,1223134025,,17.4728982,78.371855,No missing fields,Missing: name
+DEF-066,QC01,Required fields present,High,1224523174,,17.4433747,78.3624211,No missing fields,Missing: name
+DEF-067,QC01,Required fields present,High,1224523184,,17.4436204,78.3625498,No missing fields,Missing: name
+DEF-068,QC01,Required fields present,High,1224549878,,17.4414203,78.3585633,No missing fields,Missing: name
+DEF-069,QC01,Required fields present,High,1224549896,,17.4413077,78.3588154,No missing fields,Missing: name
+DEF-070,QC01,Required fields present,High,1224549901,,17.4392089,78.3616271,No missing fields,Missing: name
+DEF-071,QC01,Required fields present,High,1242117887,,17.4375304,78.4447858,No missing fields,Missing: name
+DEF-072,QC01,Required fields present,High,1242161760,,17.4908162,78.3930704,No missing fields,Missing: name
+DEF-073,QC01,Required fields present,High,1242169223,,17.4430424,78.4896911,No missing fields,Missing: name
+DEF-074,QC01,Required fields present,High,1242176694,,17.4412511,78.4952808,No missing fields,Missing: name
+DEF-075,QC01,Required fields present,High,1242249956,,17.4392097,78.4316282,No missing fields,Missing: name
+DEF-076,QC01,Required fields present,High,1242250014,,17.4392276,78.4302871,No missing fields,Missing: name
+DEF-077,QC01,Required fields present,High,1242250251,,17.4386416,78.431596,No missing fields,Missing: name
+DEF-078,QC01,Required fields present,High,1257939506,,17.4502886,78.3733802,No missing fields,Missing: name
+DEF-079,QC01,Required fields present,High,1257939538,,17.4498331,78.3736162,No missing fields,Missing: name
+DEF-080,QC01,Required fields present,High,1259088726,,17.4115781,78.4610668,No missing fields,Missing: name
+DEF-081,QC01,Required fields present,High,1271894841,,17.4943184,78.5125806,No missing fields,Missing: name
+DEF-082,QC01,Required fields present,High,1271901255,,17.4995159,78.5135253,No missing fields,Missing: name
+DEF-083,QC01,Required fields present,High,1306268402,,17.483877,78.4986341,No missing fields,Missing: name
+DEF-084,QC01,Required fields present,High,1306288565,,17.4837927,78.4982954,No missing fields,Missing: name
+DEF-085,QC01,Required fields present,High,1306289182,,17.483744,78.498359,No missing fields,Missing: name
+DEF-086,QC01,Required fields present,High,1320755820,,17.3920444,78.4859606,No missing fields,Missing: name
+DEF-087,QC01,Required fields present,High,1347504456,,17.4897519,78.3635115,No missing fields,Missing: name
+DEF-088,QC01,Required fields present,High,1347504902,,17.4946996,78.3639995,No missing fields,Missing: name
+DEF-089,QC01,Required fields present,High,1384409240,,17.4346043,78.3423124,No missing fields,Missing: name
+DEF-090,QC01,Required fields present,High,1384409241,,17.43507,78.3423338,No missing fields,Missing: name
+DEF-091,QC01,Required fields present,High,1384409242,,17.4362697,78.3414627,No missing fields,Missing: name
+DEF-092,QC01,Required fields present,High,1384409243,,17.4339937,78.3379522,No missing fields,Missing: name
+DEF-093,QC01,Required fields present,High,1416856504,,17.4458641,78.4451337,No missing fields,Missing: name
+DEF-094,QC01,Required fields present,High,1435298922,,17.4504012,78.5356217,No missing fields,Missing: name
+DEF-095,QC01,Required fields present,High,1435322427,,17.4506458,78.5323638,No missing fields,Missing: name
+DEF-096,QC01,Required fields present,High,1435322428,,17.450697,78.5324094,No missing fields,Missing: name
+DEF-097,QC01,Required fields present,High,1435322780,,17.4505716,78.532565,No missing fields,Missing: name
+DEF-098,QC06,Name formatting,Low,1437398686,ICICI ATM,17.4567294,78.5362929,"Trimmed, not ALL CAPS",'ICICI ATM'
+DEF-099,QC01,Required fields present,High,1438258194,,17.4456214,78.5354455,No missing fields,Missing: name
+DEF-100,QC01,Required fields present,High,1447172190,,17.3996995,78.4789587,No missing fields,Missing: name
+DEF-101,QC01,Required fields present,High,1447172236,,17.3963958,78.4848351,No missing fields,Missing: name
+DEF-102,QC01,Required fields present,High,1447172245,,17.3950615,78.4855725,No missing fields,Missing: name
+DEF-103,QC01,Required fields present,High,1447172269,,17.3921759,78.4890271,No missing fields,Missing: name
+DEF-104,QC01,Required fields present,High,1447172272,,17.3918892,78.4892112,No missing fields,Missing: name
+DEF-105,QC01,Required fields present,High,1447172299,,17.3942194,78.4842629,No missing fields,Missing: name
+DEF-106,QC01,Required fields present,High,1474078028,,17.4709053,78.5389293,No missing fields,Missing: name
+DEF-107,QC01,Required fields present,High,1474078029,,17.471944,78.5392673,No missing fields,Missing: name
+DEF-108,QC01,Required fields present,High,1474078031,,17.4687306,78.5388971,No missing fields,Missing: name
+DEF-109,QC01,Required fields present,High,1474078032,,17.4720054,78.5392566,No missing fields,Missing: name
+DEF-110,QC01,Required fields present,High,1474078035,,17.4720822,78.5392512,No missing fields,Missing: name
+DEF-111,QC01,Required fields present,High,1475752362,,17.4076181,78.5122287,No missing fields,Missing: name
+DEF-112,QC01,Required fields present,High,1475758746,,17.4077819,78.5119846,No missing fields,Missing: name
+DEF-113,QC01,Required fields present,High,1475764330,,17.4086239,78.5100427,No missing fields,Missing: name
+DEF-114,QC01,Required fields present,High,1475764332,,17.4087775,78.5096162,No missing fields,Missing: name
+DEF-115,QC01,Required fields present,High,1475764333,,17.4086316,78.5099837,No missing fields,Missing: name
+DEF-116,QC01,Required fields present,High,1475766492,,17.4085497,78.5098684,No missing fields,Missing: name
+DEF-117,QC01,Required fields present,High,1475769964,,17.4084729,78.5105926,No missing fields,Missing: name
+DEF-118,QC01,Required fields present,High,1538238476,,17.4248884,78.5476825,No missing fields,Missing: name
+DEF-119,QC01,Required fields present,High,1611088566,,17.4410803,78.4931204,No missing fields,Missing: name
+DEF-120,QC01,Required fields present,High,1779029058,,17.4040544,78.4638899,No missing fields,Missing: name
+DEF-121,QC06,Name formatting,Low,1779592755,NGRI,17.4151571,78.5516319,"Trimmed, not ALL CAPS",'NGRI'
+DEF-122,QC01,Required fields present,High,1883398390,,17.4265507,78.4171207,No missing fields,Missing: name
+DEF-123,QC01,Required fields present,High,1883470320,,17.4300426,78.4388525,No missing fields,Missing: name
+DEF-124,QC01,Required fields present,High,1883470586,,17.4300286,78.4389088,No missing fields,Missing: name
+DEF-125,QC01,Required fields present,High,1883470893,,17.4299684,78.4389048,No missing fields,Missing: name
+DEF-126,QC01,Required fields present,High,1883471333,,17.4299415,78.4391362,No missing fields,Missing: name
+DEF-127,QC01,Required fields present,High,1883475016,,17.4305838,78.4410218,No missing fields,Missing: name
+DEF-128,QC01,Required fields present,High,1883501408,,17.4298122,78.4321238,No missing fields,Missing: name
+DEF-129,QC01,Required fields present,High,1885687073,,17.4284545,78.4396807,No missing fields,Missing: name
+DEF-130,QC01,Required fields present,High,1935524551,,17.5009627,78.3893515,No missing fields,Missing: name
+DEF-131,QC06,Name formatting,Low,1987954929,KPHB,17.4939602,78.4008412,"Trimmed, not ALL CAPS",'KPHB'
+DEF-132,QC01,Required fields present,High,2031332799,,17.3833178,78.4032485,No missing fields,Missing: name
+DEF-133,QC01,Required fields present,High,2052621892,,17.4031013,78.4624993,No missing fields,Missing: name
+DEF-134,QC01,Required fields present,High,2062758122,,17.4299365,78.428122,No missing fields,Missing: name
+DEF-135,QC01,Required fields present,High,2062764404,,17.430083,78.425145,No missing fields,Missing: name
+DEF-136,QC01,Required fields present,High,2062765002,,17.430414,78.425311,No missing fields,Missing: name
+DEF-137,QC01,Required fields present,High,2177960405,,17.4362628,78.4291105,No missing fields,Missing: name
+DEF-138,QC01,Required fields present,High,2177976503,,17.4360708,78.4320663,No missing fields,Missing: name
+DEF-139,QC01,Required fields present,High,2185045481,,17.3785289,78.4843675,No missing fields,Missing: name
+DEF-140,QC01,Required fields present,High,2192962587,,17.403662,78.4695286,No missing fields,Missing: name
+DEF-141,QC01,Required fields present,High,2197048453,,17.3846266,78.488919,No missing fields,Missing: name
+DEF-142,QC01,Required fields present,High,2199508167,,17.3438412,78.5554592,No missing fields,Missing: name
+DEF-143,QC01,Required fields present,High,2199508168,,17.3850823,78.4880982,No missing fields,Missing: name
+DEF-144,QC01,Required fields present,High,2199524799,,17.3405818,78.562031,No missing fields,Missing: name
+DEF-145,QC01,Required fields present,High,2208176524,,17.4260043,78.4570033,No missing fields,Missing: name
+DEF-146,QC01,Required fields present,High,2208177415,,17.423256,78.4608764,No missing fields,Missing: name
+DEF-147,QC01,Required fields present,High,2208179772,,17.4212137,78.462357,No missing fields,Missing: name
+DEF-148,QC06,Name formatting,Low,2217950104,ICICI,17.3285711,78.5994206,"Trimmed, not ALL CAPS",'ICICI'
+DEF-149,QC01,Required fields present,High,2217950112,,17.3522003,78.546734,No missing fields,Missing: name
+DEF-150,QC01,Required fields present,High,2217950115,,17.3498038,78.5483031,No missing fields,Missing: name
+DEF-151,QC01,Required fields present,High,2217950150,,17.3718818,78.511122,No missing fields,Missing: name
+DEF-152,QC06,Name formatting,Low,2217950153,OZONE HOSPITALS,17.3594287,78.5450683,"Trimmed, not ALL CAPS",'OZONE HOSPITALS'
+DEF-153,QC01,Required fields present,High,2217950159,,17.3687338,78.5331538,No missing fields,Missing: name
+DEF-154,QC06,Name formatting,Low,2217950165,HDFC,17.3303532,78.5940267,"Trimmed, not ALL CAPS",'HDFC'
+DEF-155,QC06,Name formatting,Low,2217950173,AXIS,17.3284458,78.5996995,"Trimmed, not ALL CAPS",'AXIS'
+DEF-156,QC01,Required fields present,High,2217950182,,17.3362933,78.5803072,No missing fields,Missing: name
+DEF-157,QC06,Name formatting,Low,2217950187,IDBI,17.3684513,78.5373811,"Trimmed, not ALL CAPS",'IDBI'
+DEF-158,QC06,Name formatting,Low,2217950194,HDFC,17.3370589,78.5734836,"Trimmed, not ALL CAPS",'HDFC'
+DEF-159,QC01,Required fields present,High,2217960491,,17.3393988,78.5657244,No missing fields,Missing: name
+DEF-160,QC01,Required fields present,High,2217960493,,17.3681233,78.5330712,No missing fields,Missing: name
+DEF-161,QC01,Required fields present,High,2217960501,,17.3379651,78.5690956,No missing fields,Missing: name
+DEF-162,QC01,Required fields present,High,2217960506,,17.3497318,78.5477616,No missing fields,Missing: name
+DEF-163,QC01,Required fields present,High,2217960512,,17.3754636,78.4970586,No missing fields,Missing: name
+DEF-164,QC01,Required fields present,High,2217960522,,17.3459633,78.5513424,No missing fields,Missing: name
+DEF-165,QC06,Name formatting,Low,2217968810,ICICI,17.4328164,78.3698238,"Trimmed, not ALL CAPS",'ICICI'
+DEF-166,QC01,Required fields present,High,2217968817,,17.3955353,78.4308307,No missing fields,Missing: name
+DEF-167,QC01,Required fields present,High,2233018548,,17.3814163,78.4828118,No missing fields,Missing: name
+DEF-168,QC01,Required fields present,High,2287982977,,17.4323332,78.3879961,No missing fields,Missing: name
+DEF-169,QC01,Required fields present,High,2387260555,,17.4354531,78.3384072,No missing fields,Missing: name
+DEF-170,QC01,Required fields present,High,2412755781,,17.3686441,78.5365773,No missing fields,Missing: name
+DEF-171,QC06,Name formatting,Low,2412772336,ICICI ATM,17.3738956,78.5617438,"Trimmed, not ALL CAPS",'ICICI ATM'
+DEF-172,QC06,Name formatting,Low,2412772337,HDFC ATM,17.3738974,78.5617176,"Trimmed, not ALL CAPS",'HDFC ATM'
+DEF-173,QC06,Name formatting,Low,2426818370,OBC ATM,17.436487,78.4444207,"Trimmed, not ALL CAPS",'OBC ATM'
+DEF-174,QC01,Required fields present,High,2428125220,,17.4981264,78.3908769,No missing fields,Missing: name
+DEF-175,QC01,Required fields present,High,2428132960,,17.496417,78.3740366,No missing fields,Missing: name
+DEF-176,QC01,Required fields present,High,2428132967,,17.4992968,78.3830247,No missing fields,Missing: name
+DEF-177,QC01,Required fields present,High,2428132969,,17.4991458,78.3841405,No missing fields,Missing: name
+DEF-178,QC01,Required fields present,High,2428132970,,17.4987627,78.3867171,No missing fields,Missing: name
+DEF-179,QC01,Required fields present,High,2428132971,,17.498771,78.3806375,No missing fields,Missing: name
+DEF-180,QC01,Required fields present,High,2428136677,,17.4961161,78.3634128,No missing fields,Missing: name
+DEF-181,QC01,Required fields present,High,2432111519,,17.4000853,78.4682654,No missing fields,Missing: name
+DEF-182,QC01,Required fields present,High,2446514668,,17.4889982,78.5403347,No missing fields,Missing: name
+DEF-183,QC06,Name formatting,Low,2460048662,HDFC,17.4020034,78.4951821,"Trimmed, not ALL CAPS",'HDFC'
+DEF-184,QC01,Required fields present,High,2461281484,,17.3673669,78.46875,No missing fields,Missing: name
+DEF-185,QC06,Name formatting,Low,2466618460,ICICI ATM,17.42922,78.5270963,"Trimmed, not ALL CAPS",'ICICI ATM'
+DEF-186,QC01,Required fields present,High,2526197728,,17.4293627,78.5339866,No missing fields,Missing: name
+DEF-187,QC01,Required fields present,High,2531960308,,17.3221183,78.4022455,No missing fields,Missing: name
+DEF-188,QC01,Required fields present,High,2539488145,,17.3225737,78.399984,No missing fields,Missing: name
+DEF-189,QC01,Required fields present,High,2539489007,,17.3124531,78.4030475,No missing fields,Missing: name
+DEF-190,QC01,Required fields present,High,2541013695,,17.3159905,78.4012349,No missing fields,Missing: name
+DEF-191,QC01,Required fields present,High,2541013702,,17.315015,78.4016402,No missing fields,Missing: name
+DEF-192,QC01,Required fields present,High,2541013703,,17.3132436,78.4028564,No missing fields,Missing: name
+DEF-193,QC01,Required fields present,High,2541013704,,17.3135584,78.400272,No missing fields,Missing: name
+DEF-194,QC01,Required fields present,High,2541013705,,17.3119622,78.4032988,No missing fields,Missing: name
+DEF-195,QC01,Required fields present,High,2541013706,,17.3129619,78.4042458,No missing fields,Missing: name
+DEF-196,QC01,Required fields present,High,2541013707,,17.3115689,78.4038488,No missing fields,Missing: name
+DEF-197,QC01,Required fields present,High,2572745837,,17.4360917,78.4442283,No missing fields,Missing: name
+DEF-198,QC01,Required fields present,High,2572782981,,17.4404606,78.4293126,No missing fields,Missing: name
+DEF-199,QC06,Name formatting,Low,2578026375,TSRTC BUS BHAVAN,17.4066792,78.4986216,"Trimmed, not ALL CAPS",'TSRTC BUS BHAVAN'
+DEF-200,QC01,Required fields present,High,2579754066,,17.4831503,78.3933624,No missing fields,Missing: name
+DEF-201,QC01,Required fields present,High,2579754067,,17.4831022,78.3934632,No missing fields,Missing: name
+DEF-202,QC01,Required fields present,High,2580556910,,17.4071142,78.4704307,No missing fields,Missing: name
+DEF-203,QC01,Required fields present,High,2607565510,,17.4411568,78.4301147,No missing fields,Missing: name
+DEF-204,QC01,Required fields present,High,2697624155,,17.4822519,78.559006,No missing fields,Missing: name
+DEF-205,QC01,Required fields present,High,2708238206,,17.398254,78.512527,No missing fields,Missing: name
+DEF-206,QC01,Required fields present,High,2710634322,,17.3988633,78.4168465,No missing fields,Missing: name
+DEF-207,QC06,Name formatting,Low,2712622751,ING ATM,17.4088159,78.4901106,"Trimmed, not ALL CAPS",'ING ATM'
+DEF-208,QC01,Required fields present,High,2712692140,,17.4011486,78.5433036,No missing fields,Missing: name
+DEF-209,QC01,Required fields present,High,2715274184,,17.4097526,78.4880365,No missing fields,Missing: name
+DEF-210,QC01,Required fields present,High,2715275203,,17.4135148,78.4853758,No missing fields,Missing: name
+DEF-211,QC01,Required fields present,High,2715275204,,17.4105901,78.4848154,No missing fields,Missing: name
+DEF-212,QC01,Required fields present,High,2715277398,,17.4064107,78.4897641,No missing fields,Missing: name
+DEF-213,QC01,Required fields present,High,2715282529,,17.4064536,78.4849788,No missing fields,Missing: name
+DEF-214,QC01,Required fields present,High,2715307355,,17.4079713,78.4779863,No missing fields,Missing: name
+DEF-215,QC01,Required fields present,High,2715307357,,17.4110612,78.4846813,No missing fields,Missing: name
+DEF-216,QC01,Required fields present,High,2715308902,,17.4079508,78.4781472,No missing fields,Missing: name
+DEF-217,QC01,Required fields present,High,2715317654,,17.408565,78.4917997,No missing fields,Missing: name
+DEF-218,QC01,Required fields present,High,2715317862,,17.4085451,78.4919233,No missing fields,Missing: name
+DEF-219,QC01,Required fields present,High,2729334419,,17.4106054,78.4847618,No missing fields,Missing: name
+DEF-220,QC01,Required fields present,High,2729334420,,17.4106003,78.4847913,No missing fields,Missing: name
+DEF-221,QC01,Required fields present,High,2779830234,,17.4105391,78.4849481,No missing fields,Missing: name
+DEF-222,QC01,Required fields present,High,2779834584,,17.4103726,78.485317,No missing fields,Missing: name
+DEF-223,QC01,Required fields present,High,2779872511,,17.4070328,78.482628,No missing fields,Missing: name
+DEF-224,QC01,Required fields present,High,3010422038,,17.4983584,78.3559311,No missing fields,Missing: name
+DEF-225,QC01,Required fields present,High,3010422043,,17.5052186,78.3567989,No missing fields,Missing: name
+DEF-226,QC01,Required fields present,High,3010422046,,17.5053408,78.3561483,No missing fields,Missing: name
+DEF-227,QC01,Required fields present,High,3010422047,,17.5054329,78.3560144,No missing fields,Missing: name
+DEF-228,QC01,Required fields present,High,3010422048,,17.505765,78.3558148,No missing fields,Missing: name
+DEF-229,QC06,Name formatting,Low,3155674867,SBI ATM,17.4348781,78.4351878,"Trimmed, not ALL CAPS",'SBI ATM'
+DEF-230,QC06,Name formatting,Low,3155681229,SBI ATM,17.4394663,78.4343778,"Trimmed, not ALL CAPS",'SBI ATM'
+DEF-231,QC01,Required fields present,High,3159027237,,17.4386655,78.442408,No missing fields,Missing: name
+DEF-232,QC01,Required fields present,High,3200943735,,17.3535526,78.5556298,No missing fields,Missing: name
+DEF-233,QC01,Required fields present,High,3200943736,,17.3686007,78.5570348,No missing fields,Missing: name
+DEF-234,QC01,Required fields present,High,3200943737,,17.3969498,78.5600202,No missing fields,Missing: name
+DEF-235,QC01,Required fields present,High,3200943738,,17.4158393,78.5448348,No missing fields,Missing: name
+DEF-236,QC01,Required fields present,High,3200943739,,17.4224207,78.5384579,No missing fields,Missing: name
+DEF-237,QC01,Required fields present,High,3200943740,,17.4230186,78.5015412,No missing fields,Missing: name
+DEF-238,QC01,Required fields present,High,3200943741,,17.4244702,78.4917485,No missing fields,Missing: name
+DEF-239,QC01,Required fields present,High,3200943838,,17.2988338,78.4192874,No missing fields,Missing: name
+DEF-240,QC01,Required fields present,High,3200943840,,17.3344531,78.5374904,No missing fields,Missing: name
+DEF-241,QC01,Required fields present,High,3200943841,,17.3373647,78.5376398,No missing fields,Missing: name
+DEF-242,QC01,Required fields present,High,3200944060,,17.3296948,78.538267,No missing fields,Missing: name
+DEF-243,QC01,Required fields present,High,3200945590,,17.3029269,78.4206736,No missing fields,Missing: name
+DEF-244,QC01,Required fields present,High,3200948728,,17.3077782,78.4225514,No missing fields,Missing: name
+DEF-245,QC01,Required fields present,High,3200948739,,17.3665012,78.5574048,No missing fields,Missing: name
+DEF-246,QC01,Required fields present,High,3200948744,,17.4237297,78.492945,No missing fields,Missing: name
+DEF-247,QC01,Required fields present,High,3200948979,,17.3765203,78.5578748,No missing fields,Missing: name
+DEF-248,QC01,Required fields present,High,3200948983,,17.423323,78.4940258,No missing fields,Missing: name
+DEF-249,QC01,Required fields present,High,3200986133,,17.4244568,78.4892627,No missing fields,Missing: name
+DEF-250,QC01,Required fields present,High,3200986817,,17.4251997,78.4870378,No missing fields,Missing: name
+DEF-251,QC01,Required fields present,High,3200986902,,17.4251653,78.4871679,No missing fields,Missing: name
+DEF-252,QC01,Required fields present,High,3201278048,,17.3317285,78.4605602,No missing fields,Missing: name
+DEF-253,QC01,Required fields present,High,3201281726,,17.3349988,78.46836,No missing fields,Missing: name
+DEF-254,QC01,Required fields present,High,3201281727,,17.3339267,78.461636,No missing fields,Missing: name
+DEF-255,QC01,Required fields present,High,3201283332,,17.3731145,78.4150069,No missing fields,Missing: name
+DEF-256,QC01,Required fields present,High,3201283333,,17.3805637,78.4004175,No missing fields,Missing: name
+DEF-257,QC01,Required fields present,High,3201283334,,17.3806427,78.4006728,No missing fields,Missing: name
+DEF-258,QC01,Required fields present,High,3201283336,,17.38716,78.4298262,No missing fields,Missing: name
+DEF-259,QC01,Required fields present,High,3201283337,,17.3809918,78.4295466,No missing fields,Missing: name
+DEF-260,QC01,Required fields present,High,3201283343,,17.3141573,78.4450605,No missing fields,Missing: name
+DEF-261,QC01,Required fields present,High,3201283435,,17.3941143,78.42686,No missing fields,Missing: name
+DEF-262,QC01,Required fields present,High,3201283437,,17.3161184,78.4535401,No missing fields,Missing: name
+DEF-263,QC01,Required fields present,High,3201283438,,17.3148866,78.459247,No missing fields,Missing: name
+DEF-264,QC01,Required fields present,High,3201283439,,17.3267573,78.4757203,No missing fields,Missing: name
+DEF-265,QC01,Required fields present,High,3201283440,,17.3276477,78.4744808,No missing fields,Missing: name
+DEF-266,QC01,Required fields present,High,3201283441,,17.3284472,78.4728434,No missing fields,Missing: name
+DEF-267,QC01,Required fields present,High,3207060487,,17.4969303,78.3638944,No missing fields,Missing: name
+DEF-268,QC01,Required fields present,High,3207060592,,17.4819763,78.4147136,No missing fields,Missing: name
+DEF-269,QC01,Required fields present,High,3207060695,,17.5160833,78.3574261,No missing fields,Missing: name
+DEF-270,QC01,Required fields present,High,3249139031,,17.4072923,78.4665542,No missing fields,Missing: name
+DEF-271,QC06,Name formatting,Low,3312374439,SBI ATM,17.3936044,78.4812223,"Trimmed, not ALL CAPS",'SBI ATM'
+DEF-272,QC06,Name formatting,Low,3353593494,AXIS BANK ATM,17.3738038,78.5619583,"Trimmed, not ALL CAPS",'AXIS BANK ATM'
+DEF-273,QC01,Required fields present,High,3372041271,,17.4224343,78.3476461,No missing fields,Missing: name
+DEF-274,QC01,Required fields present,High,3375924739,,17.421895,78.3383773,No missing fields,Missing: name
+DEF-275,QC06,Name formatting,Low,3384194299,GOUSIA CAFE,17.4643217,78.3759154,"Trimmed, not ALL CAPS",'GOUSIA CAFE'
+DEF-276,QC01,Required fields present,High,3384195713,,17.4644125,78.3760254,No missing fields,Missing: name
+DEF-277,QC01,Required fields present,High,3387385353,,17.4983123,78.3893982,No missing fields,Missing: name
+DEF-278,QC01,Required fields present,High,3387405046,,17.4954456,78.3956661,No missing fields,Missing: name
+DEF-279,QC01,Required fields present,High,3388745690,,17.4951509,78.3981025,No missing fields,Missing: name
+DEF-280,QC01,Required fields present,High,3388746040,,17.4951106,78.3980464,No missing fields,Missing: name
+DEF-281,QC01,Required fields present,High,3388747359,,17.4956836,78.3961586,No missing fields,Missing: name
+DEF-282,QC01,Required fields present,High,3388749549,,17.4955813,78.3963839,No missing fields,Missing: name
+DEF-283,QC06,Name formatting,Low,3388801593,ST.PATRICKS JUNIOR COLLEGE,17.3983896,78.5051128,"Trimmed, not ALL CAPS",'ST.PATRICKS JUNIOR COLLEGE'
+DEF-284,QC01,Required fields present,High,3388913779,,17.4776808,78.5620374,No missing fields,Missing: name
+DEF-285,QC01,Required fields present,High,3388916113,,17.4839063,78.4141216,No missing fields,Missing: name
+DEF-286,QC06,Name formatting,Low,3388917966,SBI ATM,17.4976732,78.408436,"Trimmed, not ALL CAPS",'SBI ATM'
+DEF-287,QC06,Name formatting,Low,3388918699,ICICI ATM,17.4964617,78.4061523,"Trimmed, not ALL CAPS",'ICICI ATM'
+DEF-288,QC01,Required fields present,High,3388922730,,17.4897498,78.4140213,No missing fields,Missing: name
+DEF-289,QC01,Required fields present,High,3388924697,,17.4884992,78.4140886,No missing fields,Missing: name
+DEF-290,QC01,Required fields present,High,3390818975,,17.4772815,78.414889,No missing fields,Missing: name
+DEF-291,QC01,Required fields present,High,3390837564,,17.3940456,78.5104248,No missing fields,Missing: name
+DEF-292,QC01,Required fields present,High,3393657297,,17.4662155,78.3706572,No missing fields,Missing: name
+DEF-293,QC01,Required fields present,High,3415668506,,17.4038761,78.4692607,No missing fields,Missing: name
+DEF-294,QC01,Required fields present,High,3502794394,,17.4931964,78.400753,No missing fields,Missing: name
+DEF-295,QC01,Required fields present,High,3509616384,,17.4913956,78.3913231,No missing fields,Missing: name
+DEF-296,QC01,Required fields present,High,3509637256,,17.4002472,78.4117989,No missing fields,Missing: name
+DEF-297,QC06,Name formatting,Low,3530230561,POCHAMMA TEMPLE,17.3459443,78.5273374,"Trimmed, not ALL CAPS",'POCHAMMA TEMPLE'
+DEF-298,QC06,Name formatting,Low,3530280322,AYYAPPA TEMPLE,17.3491816,78.5285059,"Trimmed, not ALL CAPS",'AYYAPPA TEMPLE'
+DEF-299,QC01,Required fields present,High,3612553734,,17.3649588,78.4749286,No missing fields,Missing: name
+DEF-300,QC01,Required fields present,High,3619058521,,17.4157378,78.5518155,No missing fields,Missing: name
+DEF-301,QC01,Required fields present,High,3631390776,,17.373762,78.5498481,No missing fields,Missing: name
+DEF-302,QC01,Required fields present,High,3636265776,,17.3838257,78.4742187,No missing fields,Missing: name
+DEF-303,QC01,Required fields present,High,3661627222,,17.4426183,78.4081041,No missing fields,Missing: name
+DEF-304,QC01,Required fields present,High,3668036125,,17.3017225,78.4203006,No missing fields,Missing: name
+DEF-305,QC01,Required fields present,High,3887194856,,17.4111973,78.4973074,No missing fields,Missing: name
+DEF-306,QC01,Required fields present,High,3928879389,,17.3848665,78.402382,No missing fields,Missing: name
+DEF-307,QC06,Name formatting,Low,3998609160,SBH ATM MANAGE,17.3095925,78.4120161,"Trimmed, not ALL CAPS",'SBH ATM MANAGE'
+DEF-308,QC01,Required fields present,High,4009272076,,17.4948762,78.4002511,No missing fields,Missing: name
+DEF-309,QC01,Required fields present,High,4012213841,,17.3655701,78.5389955,No missing fields,Missing: name
+DEF-310,QC01,Required fields present,High,4012213843,,17.3655988,78.5387025,No missing fields,Missing: name
+DEF-311,QC01,Required fields present,High,4107060891,,17.44919,78.4501458,No missing fields,Missing: name
+DEF-312,QC01,Required fields present,High,4122111733,,17.3579858,78.5130864,No missing fields,Missing: name
+DEF-313,QC01,Required fields present,High,4187273092,,17.4072994,78.4733696,No missing fields,Missing: name
+DEF-314,QC01,Required fields present,High,4187284596,,17.3674568,78.4812543,No missing fields,Missing: name
+DEF-315,QC01,Required fields present,High,4187300294,,17.4046527,78.4724753,No missing fields,Missing: name
+DEF-316,QC01,Required fields present,High,4187300503,,17.4075241,78.4733021,No missing fields,Missing: name
+DEF-317,QC01,Required fields present,High,4187308292,,17.3835174,78.4659296,No missing fields,Missing: name
+DEF-318,QC01,Required fields present,High,4187308295,,17.3923657,78.4689352,No missing fields,Missing: name
+DEF-319,QC01,Required fields present,High,4187311996,,17.4412403,78.5006168,No missing fields,Missing: name
+DEF-320,QC06,Name formatting,Low,4208628506,GRIET,17.5197682,78.362891,"Trimmed, not ALL CAPS",'GRIET'
+DEF-321,QC06,Name formatting,Low,4209984191,Ganapathi Temple ,17.3739452,78.5458481,"Trimmed, not ALL CAPS",'Ganapathi Temple '
+DEF-322,QC01,Required fields present,High,4209984192,,17.3727324,78.5459302,No missing fields,Missing: name
+DEF-323,QC06,Name formatting,Low,4209992292,Pharmacy ,17.3723814,78.5459288,"Trimmed, not ALL CAPS",'Pharmacy '
+DEF-324,QC01,Required fields present,High,4275283731,,17.4379584,78.5413692,No missing fields,Missing: name
+DEF-325,QC01,Required fields present,High,4305476715,,17.3603862,78.5471097,No missing fields,Missing: name
+DEF-326,QC01,Required fields present,High,4325992690,,17.3728875,78.4735131,No missing fields,Missing: name
+DEF-327,QC06,Name formatting,Low,4338378889,V M GARDEN,17.3797252,78.4331981,"Trimmed, not ALL CAPS",'V M GARDEN'
+DEF-328,QC01,Required fields present,High,4361416596,,17.4176338,78.5141294,No missing fields,Missing: name
+DEF-329,QC01,Required fields present,High,4366549489,,17.4377225,78.521976,No missing fields,Missing: name
+DEF-330,QC01,Required fields present,High,4367945694,,17.3591525,78.4685946,No missing fields,Missing: name
+DEF-331,QC01,Required fields present,High,4413152990,,17.4012421,78.471645,No missing fields,Missing: name
+DEF-332,QC06,Name formatting,Low,4413453793,RELIEF HOSPITAL,17.3983822,78.4161649,"Trimmed, not ALL CAPS",'RELIEF HOSPITAL'
+DEF-333,QC01,Required fields present,High,4415337591,,17.4005718,78.4882961,No missing fields,Missing: name
+DEF-334,QC01,Required fields present,High,4416252698,,17.4049117,78.4672967,No missing fields,Missing: name
+DEF-335,QC01,Required fields present,High,4416333792,,17.4116109,78.4892438,No missing fields,Missing: name
+DEF-336,QC01,Required fields present,High,4416394689,,17.4231272,78.4942526,No missing fields,Missing: name
+DEF-337,QC01,Required fields present,High,4417113395,,17.4033145,78.4951508,No missing fields,Missing: name
+DEF-338,QC01,Required fields present,High,4417155889,,17.4007653,78.4895065,No missing fields,Missing: name
+DEF-339,QC01,Required fields present,High,4418622813,,17.4009552,78.4882964,No missing fields,Missing: name
+DEF-340,QC01,Required fields present,High,4419156591,,17.4093445,78.4894212,No missing fields,Missing: name
+DEF-341,QC01,Required fields present,High,4422093292,,17.4107091,78.489014,No missing fields,Missing: name
+DEF-342,QC01,Required fields present,High,4422249978,,17.4248111,78.4140951,No missing fields,Missing: name
+DEF-343,QC01,Required fields present,High,4427207789,,17.4471333,78.3634464,No missing fields,Missing: name
+DEF-344,QC01,Required fields present,High,4428049396,,17.4009329,78.4883621,No missing fields,Missing: name
+DEF-345,QC01,Required fields present,High,4431246389,,17.4019129,78.4889337,No missing fields,Missing: name
+DEF-346,QC01,Required fields present,High,4431246390,,17.4007506,78.4894433,No missing fields,Missing: name
+DEF-347,QC01,Required fields present,High,4431246689,,17.4009592,78.4884033,No missing fields,Missing: name
+DEF-348,QC01,Required fields present,High,4432327793,,17.40585,78.4899879,No missing fields,Missing: name
+DEF-349,QC01,Required fields present,High,4432328891,,17.4007951,78.4894385,No missing fields,Missing: name
+DEF-350,QC01,Required fields present,High,4432377389,,17.4009796,78.4884261,No missing fields,Missing: name
+DEF-351,QC06,Name formatting,Low,4432377490,CENTURY SUPER SPECIALITY HOSPITAL,17.4072495,78.4447338,"Trimmed, not ALL CAPS",'CENTURY SUPER SPECIALITY HOSPITAL'
+DEF-352,QC01,Required fields present,High,4433063791,,17.4231658,78.4942599,No missing fields,Missing: name
+DEF-353,QC01,Required fields present,High,4433084289,,17.4098229,78.4877733,No missing fields,Missing: name
+DEF-354,QC01,Required fields present,High,4433085289,,17.4081507,78.4921708,No missing fields,Missing: name
+DEF-355,QC01,Required fields present,High,4436525192,,17.3994358,78.492022,No missing fields,Missing: name
+DEF-356,QC01,Required fields present,High,4436572391,,17.3919202,78.4764543,No missing fields,Missing: name
+DEF-357,QC01,Required fields present,High,4451580789,,17.4269993,78.4488484,No missing fields,Missing: name
+DEF-358,QC01,Required fields present,High,4464602993,,17.392811,78.4748836,No missing fields,Missing: name
+DEF-359,QC01,Required fields present,High,4493526789,,17.3254258,78.5687899,No missing fields,Missing: name
+DEF-360,QC01,Required fields present,High,4516680142,,17.4419661,78.4467413,No missing fields,Missing: name
+DEF-361,QC06,Name formatting,Low,4516712844,SBI ATM,17.443429,78.4488577,"Trimmed, not ALL CAPS",'SBI ATM'
+DEF-362,QC01,Required fields present,High,4516712848,,17.4430016,78.4487515,No missing fields,Missing: name
+DEF-363,QC01,Required fields present,High,4516712850,,17.442257,78.4486241,No missing fields,Missing: name
+DEF-364,QC01,Required fields present,High,4526392728,,17.4419419,78.4485724,No missing fields,Missing: name
+DEF-365,QC01,Required fields present,High,4526392731,,17.4406391,78.4482286,No missing fields,Missing: name
+DEF-366,QC06,Name formatting,Low,4531883812,SBI ATM,17.4943712,78.402039,"Trimmed, not ALL CAPS",'SBI ATM'
+DEF-367,QC01,Required fields present,High,4568345339,,17.4562798,78.4488482,No missing fields,Missing: name
+DEF-368,QC06,Name formatting,Low,4576289992,AMMA EYE CARE HOSPITAL,17.3412305,78.5581563,"Trimmed, not ALL CAPS",'AMMA EYE CARE HOSPITAL'
+DEF-369,QC01,Required fields present,High,4589307297,,17.3934109,78.4786483,No missing fields,Missing: name
+DEF-370,QC01,Required fields present,High,4589343192,,17.3949996,78.4781294,No missing fields,Missing: name
+DEF-371,QC01,Required fields present,High,4590099196,,17.355405,78.467961,No missing fields,Missing: name
+DEF-372,QC01,Required fields present,High,4592534489,,17.3947073,78.4754676,No missing fields,Missing: name
+DEF-373,QC06,Name formatting,Low,4605639455,SBI ATM,17.4953707,78.4032296,"Trimmed, not ALL CAPS",'SBI ATM'
+DEF-374,QC01,Required fields present,High,4609043303,,17.4409844,78.4875751,No missing fields,Missing: name
+DEF-375,QC01,Required fields present,High,4625156390,,17.3438595,78.5542071,No missing fields,Missing: name
+DEF-376,QC01,Required fields present,High,4625164189,,17.345578,78.5543294,No missing fields,Missing: name
+DEF-377,QC01,Required fields present,High,4625164289,,17.3358085,78.579645,No missing fields,Missing: name
+DEF-378,QC01,Required fields present,High,4640240854,,17.405703,78.4852435,No missing fields,Missing: name
+DEF-379,QC01,Required fields present,High,4640244806,,17.4057231,78.4851259,No missing fields,Missing: name
+DEF-380,QC01,Required fields present,High,4640244807,,17.4042489,78.4852,No missing fields,Missing: name
+DEF-381,QC01,Required fields present,High,4640253196,,17.4054675,78.4852194,No missing fields,Missing: name
+DEF-382,QC01,Required fields present,High,4664867689,,17.4938825,78.328169,No missing fields,Missing: name
+DEF-383,QC01,Required fields present,High,4670797589,,17.4166582,78.4102663,No missing fields,Missing: name
+DEF-384,QC01,Required fields present,High,4671257890,,17.4152383,78.3941589,No missing fields,Missing: name
+DEF-385,QC01,Required fields present,High,4672021892,,17.420837,78.4025537,No missing fields,Missing: name
+DEF-386,QC01,Required fields present,High,4674704694,,17.4732531,78.3273866,No missing fields,Missing: name
+DEF-387,QC01,Required fields present,High,4674716390,,17.4630608,78.3353513,No missing fields,Missing: name
+DEF-388,QC01,Required fields present,High,4674757491,,17.4787767,78.319545,No missing fields,Missing: name
+DEF-389,QC01,Required fields present,High,4674757493,,17.4798696,78.3178632,No missing fields,Missing: name
+DEF-390,QC01,Required fields present,High,4674757494,,17.4798834,78.3177566,No missing fields,Missing: name
+DEF-391,QC01,Required fields present,High,4674762292,,17.4796128,78.3155535,No missing fields,Missing: name
+DEF-392,QC01,Required fields present,High,4674762293,,17.4871449,78.3136187,No missing fields,Missing: name
+DEF-393,QC01,Required fields present,High,4674764092,,17.4868493,78.3135372,No missing fields,Missing: name
+DEF-394,QC01,Required fields present,High,4674783390,,17.479864,78.3178999,No missing fields,Missing: name
+DEF-395,QC06,Name formatting,Low,4674783589,DTDC,17.4782819,78.3200884,"Trimmed, not ALL CAPS",'DTDC'
+DEF-396,QC01,Required fields present,High,4674783598,,17.4877019,78.3137154,No missing fields,Missing: name
+DEF-397,QC01,Required fields present,High,4674823489,,17.4887209,78.3139515,No missing fields,Missing: name
+DEF-398,QC06,Name formatting,Low,4677877314,DTDC,17.4178305,78.4115265,"Trimmed, not ALL CAPS",'DTDC'
+DEF-399,QC01,Required fields present,High,4679567211,,17.475212,78.3884266,No missing fields,Missing: name
+DEF-400,QC06,Name formatting,Low,4679716389,KIMS HOSPITAL,17.466147,78.3677443,"Trimmed, not ALL CAPS",'KIMS HOSPITAL'
+DEF-401,QC01,Required fields present,High,4680472390,,17.4949165,78.3325354,No missing fields,Missing: name
+DEF-402,QC01,Required fields present,High,4684690891,,17.3633975,78.4754189,No missing fields,Missing: name
+DEF-403,QC01,Required fields present,High,4684690892,,17.3636859,78.4804307,No missing fields,Missing: name
+DEF-404,QC01,Required fields present,High,4684693789,,17.3721656,78.4807267,No missing fields,Missing: name
+DEF-405,QC01,Required fields present,High,4684980591,,17.4068392,78.4658491,No missing fields,Missing: name
+DEF-406,QC01,Required fields present,High,4688920998,,17.4908378,78.3314938,No missing fields,Missing: name
+DEF-407,QC01,Required fields present,High,4688921194,,17.4162253,78.4106974,No missing fields,Missing: name
+DEF-408,QC01,Required fields present,High,4688921591,,17.4928535,78.3279167,No missing fields,Missing: name
+DEF-409,QC01,Required fields present,High,4688949489,,17.4908988,78.3314928,No missing fields,Missing: name
+DEF-410,QC01,Required fields present,High,4705388498,,17.4419203,78.3574274,No missing fields,Missing: name
+DEF-411,QC01,Required fields present,High,4705388499,,17.4418593,78.3575674,No missing fields,Missing: name
+DEF-412,QC01,Required fields present,High,4706508917,,17.4947903,78.3191495,No missing fields,Missing: name
+DEF-413,QC01,Required fields present,High,4706770289,,17.4953731,78.3232956,No missing fields,Missing: name
+DEF-414,QC01,Required fields present,High,4706770290,,17.495368,78.3232488,No missing fields,Missing: name
+DEF-415,QC01,Required fields present,High,4710069093,,17.4948615,78.3292288,No missing fields,Missing: name
+DEF-416,QC01,Required fields present,High,4711420089,,17.4162429,78.4112628,No missing fields,Missing: name
+DEF-417,QC01,Required fields present,High,4711652389,,17.4154109,78.4092562,No missing fields,Missing: name
+DEF-418,QC01,Required fields present,High,4711743691,,17.4944544,78.3250323,No missing fields,Missing: name
+DEF-419,QC01,Required fields present,High,4711754189,,17.4954459,78.3255493,No missing fields,Missing: name
+DEF-420,QC01,Required fields present,High,4713381692,,17.4800172,78.3197929,No missing fields,Missing: name
+DEF-421,QC01,Required fields present,High,4713466590,,17.4802057,78.3202048,No missing fields,Missing: name
+DEF-422,QC06,Name formatting,Low,4718783707,KVB ATM,17.4643247,78.3690216,"Trimmed, not ALL CAPS",'KVB ATM'
+DEF-423,QC01,Required fields present,High,4739354423,,17.4851299,78.3205532,No missing fields,Missing: name
+DEF-424,QC01,Required fields present,High,4750922026,,17.4867424,78.3200084,No missing fields,Missing: name
+DEF-425,QC01,Required fields present,High,4753074523,,17.4851319,78.3205298,No missing fields,Missing: name
+DEF-426,QC01,Required fields present,High,4764365501,,17.4835964,78.3156251,No missing fields,Missing: name
+DEF-427,QC01,Required fields present,High,4764365502,,17.4834292,78.3168877,No missing fields,Missing: name
+DEF-428,QC01,Required fields present,High,4764366152,,17.4873297,78.3136139,No missing fields,Missing: name
+DEF-429,QC01,Required fields present,High,4764366153,,17.4835969,78.3155934,No missing fields,Missing: name
+DEF-430,QC01,Required fields present,High,4764366154,,17.4835605,78.3165741,No missing fields,Missing: name
+DEF-431,QC01,Required fields present,High,4769488726,,17.4141729,78.4086668,No missing fields,Missing: name
+DEF-432,QC01,Required fields present,High,4769488951,,17.4071817,78.4013573,No missing fields,Missing: name
+DEF-433,QC01,Required fields present,High,4769496362,,17.4178327,78.4103814,No missing fields,Missing: name
+DEF-434,QC01,Required fields present,High,4769499105,,17.4182409,78.4097132,No missing fields,Missing: name
+DEF-435,QC01,Required fields present,High,4769501692,,17.4070066,78.4030334,No missing fields,Missing: name
+DEF-436,QC01,Required fields present,High,4855625523,,17.4902854,78.3292982,No missing fields,Missing: name
+DEF-437,QC06,Name formatting,Low,4873113023,A.P.R.T.C BUS STOP,17.3446573,78.5539183,"Trimmed, not ALL CAPS",'A.P.R.T.C BUS STOP'
+DEF-438,QC01,Required fields present,High,4877901697,,17.4173469,78.4121488,No missing fields,Missing: name
+DEF-439,QC01,Required fields present,High,4877950622,,17.4875257,78.3313836,No missing fields,Missing: name
+DEF-440,QC01,Required fields present,High,4877950623,,17.4871541,78.3320166,No missing fields,Missing: name
+DEF-441,QC01,Required fields present,High,4877951224,,17.4871311,78.331906,No missing fields,Missing: name
+DEF-442,QC06,Name formatting,Low,4971684783,ICICI ATM,17.3399546,78.5239222,"Trimmed, not ALL CAPS",'ICICI ATM'
+DEF-443,QC06,Name formatting,Low,4979080183,EPPHM,17.3611169,78.5674873,"Trimmed, not ALL CAPS",'EPPHM'
+DEF-444,QC01,Required fields present,High,4995968023,,17.3847103,78.4896927,No missing fields,Missing: name
+DEF-445,QC01,Required fields present,High,4996033521,,17.4228179,78.4301699,No missing fields,Missing: name
+DEF-446,QC06,Name formatting,Low,5030793127,?Ÿ?????? ?Ÿ??????,17.3988996,78.4753403,"Trimmed, not ALL CAPS",'?Ÿ?????? ?Ÿ??????'
+DEF-447,QC06,Name formatting,Low,5105256723,?Ÿ?????? ?Ÿ???¦?? ??????,17.3932869,78.4452529,"Trimmed, not ALL CAPS",'?Ÿ?????? ?Ÿ???¦?? ??????'
+DEF-448,QC01,Required fields present,High,5139104023,,17.4710875,78.4504148,No missing fields,Missing: name
+DEF-449,QC01,Required fields present,High,5177833626,,17.4080663,78.4786702,No missing fields,Missing: name
+DEF-450,QC01,Required fields present,High,5289071793,,17.4929893,78.3287404,No missing fields,Missing: name
+DEF-451,QC01,Required fields present,High,5318387221,,17.3947454,78.4312688,No missing fields,Missing: name
+DEF-452,QC01,Required fields present,High,5367387455,,17.4952485,78.3676967,No missing fields,Missing: name
+DEF-453,QC01,Required fields present,High,5386221221,,17.4001254,78.4569677,No missing fields,Missing: name
+DEF-454,QC06,Name formatting,Low,5405051291,GHMC ANNAPURNA,17.4383112,78.3645878,"Trimmed, not ALL CAPS",'GHMC ANNAPURNA'
+DEF-455,QC01,Required fields present,High,5405054122,,17.4346581,78.3689651,No missing fields,Missing: name
+DEF-456,QC06,Name formatting,Low,5405056434,UP THE BISTRO,17.4358331,78.3666724,"Trimmed, not ALL CAPS",'UP THE BISTRO'
+DEF-457,QC01,Required fields present,High,5472926100,,17.446911,78.3909005,No missing fields,Missing: name
+DEF-458,QC01,Required fields present,High,5472926101,,17.4469187,78.3909407,No missing fields,Missing: name
+DEF-459,QC01,Required fields present,High,5472926102,,17.4469263,78.3909863,No missing fields,Missing: name
+DEF-460,QC01,Required fields present,High,5472926103,,17.4469263,78.3910319,No missing fields,Missing: name
+DEF-461,QC01,Required fields present,High,5472926104,,17.4469263,78.3910722,No missing fields,Missing: name
+DEF-462,QC01,Required fields present,High,5472926105,,17.4469315,78.3911124,No missing fields,Missing: name
+DEF-463,QC01,Required fields present,High,5472926106,,17.446934,78.391158,No missing fields,Missing: name
+DEF-464,QC01,Required fields present,High,5472926107,,17.4469366,78.3911955,No missing fields,Missing: name
+DEF-465,QC01,Required fields present,High,5472926108,,17.4471592,78.3911365,No missing fields,Missing: name
+DEF-466,QC01,Required fields present,High,5472926109,,17.4471566,78.3910829,No missing fields,Missing: name
+DEF-467,QC01,Required fields present,High,5472926110,,17.4471566,78.39104,No missing fields,Missing: name
+DEF-468,QC01,Required fields present,High,5472926111,,17.4471515,78.3910024,No missing fields,Missing: name
+DEF-469,QC01,Required fields present,High,5472926112,,17.4471541,78.3909675,No missing fields,Missing: name
+DEF-470,QC01,Required fields present,High,5472926113,,17.4471541,78.390938,No missing fields,Missing: name
+DEF-471,QC01,Required fields present,High,5472926114,,17.4471515,78.3909032,No missing fields,Missing: name
+DEF-472,QC01,Required fields present,High,5515637844,,17.441554,78.3807288,No missing fields,Missing: name
+DEF-473,QC06,Name formatting,Low,5532338968,ICRISAT ENTRANCE,17.5182603,78.2793156,"Trimmed, not ALL CAPS",'ICRISAT ENTRANCE'
+DEF-474,QC06,Name formatting,Low,5532350680,GMR CONVENTION CENTER,17.5432052,78.2618755,"Trimmed, not ALL CAPS",'GMR CONVENTION CENTER'
+DEF-475,QC01,Required fields present,High,5533465125,,17.4005602,78.4624878,No missing fields,Missing: name
+DEF-476,QC06,Name formatting,Low,5539102501,PANACEA MERIDIAN HOSPITAL,17.5087613,78.300147,"Trimmed, not ALL CAPS",'PANACEA MERIDIAN HOSPITAL'
+DEF-477,QC06,Name formatting,Low,5539317122,SBI ATM,17.4193249,78.5194199,"Trimmed, not ALL CAPS",'SBI ATM'
+DEF-478,QC06,Name formatting,Low,5539317123,HDFC ATM,17.4193338,78.519389,"Trimmed, not ALL CAPS",'HDFC ATM'
+DEF-479,QC06,Name formatting,Low,5539317127,ICICI ATM,17.4181003,78.5193729,"Trimmed, not ALL CAPS",'ICICI ATM'
+DEF-480,QC06,Name formatting,Low,5539317128,SBI ATM,17.4176358,78.5194427,"Trimmed, not ALL CAPS",'SBI ATM'
+DEF-481,QC01,Required fields present,High,5539327275,,17.4197113,78.5176416,No missing fields,Missing: name
+DEF-482,QC01,Required fields present,High,5539327276,,17.4197715,78.5178991,No missing fields,Missing: name
+DEF-483,QC01,Required fields present,High,5539327277,,17.4195168,78.5177549,No missing fields,Missing: name
+DEF-484,QC01,Required fields present,High,5539327278,,17.4195264,78.5177113,No missing fields,Missing: name
+DEF-485,QC01,Required fields present,High,5578141622,,17.4037672,78.4531849,No missing fields,Missing: name
+DEF-486,QC01,Required fields present,High,5578141721,,17.4039011,78.4533155,No missing fields,Missing: name
+DEF-487,QC01,Required fields present,High,5578149121,,17.4008825,78.453714,No missing fields,Missing: name
+DEF-488,QC01,Required fields present,High,5596355505,,17.4452774,78.4468823,No missing fields,Missing: name
+DEF-489,QC06,Name formatting,Low,5608451167,ICICI ATM,17.4198482,78.5157047,"Trimmed, not ALL CAPS",'ICICI ATM'
+DEF-490,QC06,Name formatting,Low,5620024293,INOX,17.4195272,78.4486519,"Trimmed, not ALL CAPS",'INOX'
+DEF-491,QC01,Required fields present,High,5742842702,,17.4189297,78.3378855,No missing fields,Missing: name
+DEF-492,QC01,Required fields present,High,5856103746,,17.3978922,78.4696247,No missing fields,Missing: name
+DEF-493,QC01,Required fields present,High,5883774725,,17.4056033,78.391284,No missing fields,Missing: name
+DEF-494,QC01,Required fields present,High,5919924188,,17.411607,78.4815248,No missing fields,Missing: name
+DEF-495,QC01,Required fields present,High,5919924195,,17.4114498,78.4814892,No missing fields,Missing: name
+DEF-496,QC01,Required fields present,High,5942781127,,17.4461283,78.3854318,No missing fields,Missing: name
+DEF-497,QC01,Required fields present,High,5942857802,,17.4455872,78.3861359,No missing fields,Missing: name
+DEF-498,QC01,Required fields present,High,5942878722,,17.4456246,78.3864351,No missing fields,Missing: name
+DEF-499,QC01,Required fields present,High,5966805638,,17.4466758,78.3852413,No missing fields,Missing: name
+DEF-500,QC01,Required fields present,High,5966805639,,17.4466334,78.3853827,No missing fields,Missing: name
+DEF-501,QC01,Required fields present,High,5966805640,,17.4465447,78.3853807,No missing fields,Missing: name
+DEF-502,QC01,Required fields present,High,5966805641,,17.4463137,78.3855428,No missing fields,Missing: name
+DEF-503,QC06,Name formatting,Low,5973746985,ISTANBUL AUTHENTIC DONER KEBAB,17.3968383,78.4238275,"Trimmed, not ALL CAPS",'ISTANBUL AUTHENTIC DONER KEBAB'
+DEF-504,QC06,Name formatting,Low,5973746986,ISTANBUL AUTHENTIC DONER KEBAB,17.4306846,78.4080527,"Trimmed, not ALL CAPS",'ISTANBUL AUTHENTIC DONER KEBAB'
+DEF-505,QC06,Name formatting,Low,5973773088,ISTANBUL AUTHENTIC DONER KEBAB,17.4306478,78.4080256,"Trimmed, not ALL CAPS",'ISTANBUL AUTHENTIC DONER KEBAB'
+DEF-506,QC01,Required fields present,High,5994099270,,17.4029389,78.46457,No missing fields,Missing: name
+DEF-507,QC01,Required fields present,High,6000220783,,17.4392214,78.3986757,No missing fields,Missing: name
+DEF-508,QC01,Required fields present,High,6017617348,,17.4452477,78.3874318,No missing fields,Missing: name
+DEF-509,QC01,Required fields present,High,6029086780,,17.3668545,78.5399414,No missing fields,Missing: name
+DEF-510,QC06,Name formatting,Low,6177956183,RAJUS DENTAL,17.4571109,78.5465732,"Trimmed, not ALL CAPS",'RAJUS DENTAL'
+DEF-511,QC01,Required fields present,High,6208220989,,17.3772416,78.4948995,No missing fields,Missing: name
+DEF-512,QC01,Required fields present,High,6208287189,,17.3866112,78.4724462,No missing fields,Missing: name
+DEF-513,QC01,Required fields present,High,6209984887,,17.4042957,78.465373,No missing fields,Missing: name
+DEF-514,QC01,Required fields present,High,6209990586,,17.4058964,78.4651743,No missing fields,Missing: name
+DEF-515,QC06,Name formatting,Low,6209990986,S K MEDICALS,17.3964405,78.4655285,"Trimmed, not ALL CAPS",'S K MEDICALS'
+DEF-516,QC01,Required fields present,High,6211085686,,17.3933858,78.4651641,No missing fields,Missing: name
+DEF-517,QC01,Required fields present,High,6211085986,,17.393693,78.4652819,No missing fields,Missing: name
+DEF-518,QC01,Required fields present,High,6211086085,,17.3944846,78.4657651,No missing fields,Missing: name
+DEF-519,QC01,Required fields present,High,6211086385,,17.393626,78.4652583,No missing fields,Missing: name
+DEF-520,QC01,Required fields present,High,6211087085,,17.3934378,78.4651784,No missing fields,Missing: name
+DEF-521,QC01,Required fields present,High,6213046486,,17.429811,78.4060125,No missing fields,Missing: name
+DEF-522,QC01,Required fields present,High,6215684485,,17.4344885,78.4039007,No missing fields,Missing: name
+DEF-523,QC01,Required fields present,High,6216842985,,17.3924442,78.4648531,No missing fields,Missing: name
+DEF-524,QC01,Required fields present,High,6216843085,,17.3924284,78.4653274,No missing fields,Missing: name
+DEF-525,QC01,Required fields present,High,6220365585,,17.3944568,78.4522446,No missing fields,Missing: name
+DEF-526,QC01,Required fields present,High,6220436488,,17.4062281,78.4517258,No missing fields,Missing: name
+DEF-527,QC01,Required fields present,High,6222396188,,17.4002282,78.4628869,No missing fields,Missing: name
+DEF-528,QC01,Required fields present,High,6222396190,,17.400698,78.4627641,No missing fields,Missing: name
+DEF-529,QC01,Required fields present,High,6222399985,,17.3994456,78.4628961,No missing fields,Missing: name
+DEF-530,QC01,Required fields present,High,6222400185,,17.3995138,78.4629116,No missing fields,Missing: name
+DEF-531,QC01,Required fields present,High,6222424885,,17.3978974,78.4596842,No missing fields,Missing: name
+DEF-532,QC01,Required fields present,High,6222432292,,17.3965546,78.4625941,No missing fields,Missing: name
+DEF-533,QC01,Required fields present,High,6227113889,,17.4089657,78.4385073,No missing fields,Missing: name
+DEF-534,QC01,Required fields present,High,6248946492,,17.4405573,78.3976024,No missing fields,Missing: name
+DEF-535,QC01,Required fields present,High,6249912385,,17.400124,78.453512,No missing fields,Missing: name
+DEF-536,QC01,Required fields present,High,6251021785,,17.4948389,78.394691,No missing fields,Missing: name
+DEF-537,QC01,Required fields present,High,6254336890,,17.3887027,78.4753829,No missing fields,Missing: name
+DEF-538,QC01,Required fields present,High,6254336988,,17.3905981,78.4836161,No missing fields,Missing: name
+DEF-539,QC01,Required fields present,High,6254336989,,17.3895999,78.48045,No missing fields,Missing: name
+DEF-540,QC01,Required fields present,High,6255606659,,17.3992308,78.4661365,No missing fields,Missing: name
+DEF-541,QC01,Required fields present,High,6255612934,,17.4027406,78.463448,No missing fields,Missing: name
+DEF-542,QC01,Required fields present,High,6255648836,,17.3973505,78.4639035,No missing fields,Missing: name
+DEF-543,QC01,Required fields present,High,6257492487,,17.4584418,78.3710484,No missing fields,Missing: name
+DEF-544,QC01,Required fields present,High,6261235063,,17.4178959,78.3374218,No missing fields,Missing: name
+DEF-545,QC01,Required fields present,High,6261235082,,17.41867,78.3388973,No missing fields,Missing: name
+DEF-546,QC01,Required fields present,High,6261501992,,17.4855451,78.3881904,No missing fields,Missing: name
+DEF-547,QC01,Required fields present,High,6261508288,,17.4855285,78.3882367,No missing fields,Missing: name
+DEF-548,QC01,Required fields present,High,6261508390,,17.4862285,78.386713,No missing fields,Missing: name
+DEF-549,QC01,Required fields present,High,6263697585,,17.4066701,78.5550629,No missing fields,Missing: name
+DEF-550,QC01,Required fields present,High,6267323887,,17.4031073,78.4604012,No missing fields,Missing: name
+DEF-551,QC01,Required fields present,High,6268166123,,17.4864065,78.5028524,No missing fields,Missing: name
+DEF-552,QC01,Required fields present,High,6268166124,,17.4853378,78.5026292,No missing fields,Missing: name
+DEF-553,QC01,Required fields present,High,6289175986,,17.4025308,78.4835829,No missing fields,Missing: name
+DEF-554,QC01,Required fields present,High,6295709103,,17.4619346,78.562713,No missing fields,Missing: name
+DEF-555,QC01,Required fields present,High,6295709110,,17.4568568,78.5654822,No missing fields,Missing: name
+DEF-556,QC01,Required fields present,High,6295711658,,17.3987621,78.444759,No missing fields,Missing: name
+DEF-557,QC01,Required fields present,High,6295712746,,17.5118927,78.3377423,No missing fields,Missing: name
+DEF-558,QC01,Required fields present,High,6295712749,,17.4631995,78.561402,No missing fields,Missing: name
+DEF-559,QC01,Required fields present,High,6295713495,,17.4961977,78.3343542,No missing fields,Missing: name
+DEF-560,QC01,Required fields present,High,6295713499,,17.469821,78.56634,No missing fields,Missing: name
+DEF-561,QC01,Required fields present,High,6308214722,,17.367591,78.5794651,No missing fields,Missing: name
+DEF-562,QC01,Required fields present,High,6308240707,,17.3684396,78.5757436,No missing fields,Missing: name
+DEF-563,QC01,Required fields present,High,6308250716,,17.3187718,78.6122015,No missing fields,Missing: name
+DEF-564,QC01,Required fields present,High,6308250717,,17.3219367,78.6135963,No missing fields,Missing: name
+DEF-565,QC01,Required fields present,High,6308250718,,17.3220737,78.6148663,No missing fields,Missing: name
+DEF-566,QC01,Required fields present,High,6308262606,,17.4086361,78.4926099,No missing fields,Missing: name
+DEF-567,QC01,Required fields present,High,6308262612,,17.4083181,78.4925622,No missing fields,Missing: name
+DEF-568,QC01,Required fields present,High,6308262613,,17.408247,78.4927715,No missing fields,Missing: name
+DEF-569,QC01,Required fields present,High,6308262623,,17.4111608,78.4905432,No missing fields,Missing: name
+DEF-570,QC06,Name formatting,Low,6308262624,SBI ATM,17.4114616,78.4909764,"Trimmed, not ALL CAPS",'SBI ATM'
+DEF-571,QC01,Required fields present,High,6308262626,,17.4114001,78.4921123,No missing fields,Missing: name
+DEF-572,QC01,Required fields present,High,6308263551,,17.3715883,78.570524,No missing fields,Missing: name
+DEF-573,QC01,Required fields present,High,6308345581,,17.3290882,78.5988267,No missing fields,Missing: name
+DEF-574,QC01,Required fields present,High,6308345582,,17.3281012,78.5988253,No missing fields,Missing: name
+DEF-575,QC01,Required fields present,High,6308345583,,17.3276128,78.6027803,No missing fields,Missing: name
+DEF-576,QC01,Required fields present,High,6308345685,,17.3303825,78.6077343,No missing fields,Missing: name
+DEF-577,QC01,Required fields present,High,6308345686,,17.326031,78.6076847,No missing fields,Missing: name
+DEF-578,QC01,Required fields present,High,6308345687,,17.322203,78.6112869,No missing fields,Missing: name
+DEF-579,QC01,Required fields present,High,6308345694,,17.3144828,78.6119628,No missing fields,Missing: name
+DEF-580,QC01,Required fields present,High,6308390571,,17.4881621,78.3993588,No missing fields,Missing: name
+DEF-581,QC01,Required fields present,High,6308390572,,17.4878503,78.399841,No missing fields,Missing: name
+DEF-582,QC01,Required fields present,High,6372318836,,17.3763596,78.541165,No missing fields,Missing: name
+DEF-583,QC01,Required fields present,High,6372371722,,17.3761329,78.5409967,No missing fields,Missing: name
+DEF-584,QC01,Required fields present,High,6372441844,,17.3697172,78.5397951,No missing fields,Missing: name
+DEF-585,QC01,Required fields present,High,6372548714,,17.3779436,78.5435861,No missing fields,Missing: name
+DEF-586,QC01,Required fields present,High,6377187394,,17.4524765,78.3065141,No missing fields,Missing: name
+DEF-587,QC01,Required fields present,High,6377187395,,17.4525705,78.3075342,No missing fields,Missing: name
+DEF-588,QC01,Required fields present,High,6399883667,,17.3912759,78.4641656,No missing fields,Missing: name
+DEF-589,QC01,Required fields present,High,6399883668,,17.3911816,78.464094,No missing fields,Missing: name
+DEF-590,QC01,Required fields present,High,6399883669,,17.3913197,78.4638661,No missing fields,Missing: name
+DEF-591,QC01,Required fields present,High,6399884540,,17.3924917,78.4696426,No missing fields,Missing: name
+DEF-592,QC01,Required fields present,High,6400644686,,17.3682666,78.5135597,No missing fields,Missing: name
+DEF-593,QC01,Required fields present,High,6414144245,,17.4058762,78.3911058,No missing fields,Missing: name
+DEF-594,QC01,Required fields present,High,6414144246,,17.405996,78.3911212,No missing fields,Missing: name
+DEF-595,QC01,Required fields present,High,6414159438,,17.4122513,78.3929359,No missing fields,Missing: name
+DEF-596,QC01,Required fields present,High,6435602653,,17.4716939,78.5392277,No missing fields,Missing: name
+DEF-597,QC01,Required fields present,High,6477618275,,17.4704084,78.3113706,No missing fields,Missing: name
+DEF-598,QC01,Required fields present,High,6482396588,,17.4416735,78.4984318,No missing fields,Missing: name
+DEF-599,QC06,Name formatting,Low,6487102159,"SRI LAXMI MULTI SPECIALITY HOSPITAL, LAPROSCOPIC AND RESEARCH CENTRE",17.3760514,78.5569091,"Trimmed, not ALL CAPS","'SRI LAXMI MULTI SPECIALITY HOSPITAL, LAPROSCOPIC AND RESEARCH CENTRE'"
+DEF-600,QC06,Name formatting,Low,6487635185,SRESHTA SRI KAMALA HOSPITALS,17.3682886,78.5220303,"Trimmed, not ALL CAPS",'SRESHTA SRI KAMALA HOSPITALS'
+DEF-601,QC06,Name formatting,Low,6494422626,SECUNDERABAD NURSING HOME,17.4458107,78.504999,"Trimmed, not ALL CAPS",'SECUNDERABAD NURSING HOME'
+DEF-602,QC01,Required fields present,High,6496903933,,17.4782302,78.5558448,No missing fields,Missing: name
+DEF-603,QC06,Name formatting,Low,6497362076,ASTER PRIME HOSPITALS (SRI SAINATHA MULTISPECIALITY HOSPITAL PVT.LTD.),17.4373484,78.4462573,"Trimmed, not ALL CAPS",'ASTER PRIME HOSPITALS (SRI SAINATHA MULTISPECIALITY HOSPITAL PVT.LTD.)'
+DEF-604,QC01,Required fields present,High,6497387552,,17.4269605,78.3313826,No missing fields,Missing: name
+DEF-605,QC01,Required fields present,High,6501447990,,17.3472815,78.5318867,No missing fields,Missing: name
+DEF-606,QC01,Required fields present,High,6501447993,,17.3474893,78.5316943,No missing fields,Missing: name
+DEF-607,QC01,Required fields present,High,6505551677,,17.4155472,78.4897188,No missing fields,Missing: name
+DEF-608,QC06,Name formatting,Low,6547206093,MEDISYS HOSPITALS (A UNIT OF OXYEN MEDICARE CANCER CARE PVT LTD ),17.3411496,78.557759,"Trimmed, not ALL CAPS",'MEDISYS HOSPITALS (A UNIT OF OXYEN MEDICARE CANCER CARE PVT LTD )'
+DEF-609,QC06,Name formatting,Low,6548782136,MAXCURE SUYOSHA WOMAN & CHILD HOSPITAL,17.4464363,78.3786482,"Trimmed, not ALL CAPS",'MAXCURE SUYOSHA WOMAN & CHILD HOSPITAL'
+DEF-610,QC06,Name formatting,Low,6548786015,CALCIUM HOSPITAL,17.5066316,78.3842419,"Trimmed, not ALL CAPS",'CALCIUM HOSPITAL'
+DEF-611,QC06,Name formatting,Low,6548789473,MAAX LIFE HOSPITALS,17.3452377,78.5276489,"Trimmed, not ALL CAPS",'MAAX LIFE HOSPITALS'
+DEF-612,QC06,Name formatting,Low,6548797464,DELTA HOSPITALS,17.3253704,78.5576025,"Trimmed, not ALL CAPS",'DELTA HOSPITALS'
+DEF-613,QC06,Name formatting,Low,6548807629,NETHRA EYE INSTITUE,17.4391832,78.4425692,"Trimmed, not ALL CAPS",'NETHRA EYE INSTITUE'
+DEF-614,QC06,Name formatting,Low,6548823374,MAYFLOWER HOSPITAL FOR WOMEN & CHILDREN,17.4832707,78.5523789,"Trimmed, not ALL CAPS",'MAYFLOWER HOSPITAL FOR WOMEN & CHILDREN'
+DEF-615,QC06,Name formatting,Low,6548826056,KASTURI MULTISPECIALITY HOSPITAL,17.4389273,78.5060866,"Trimmed, not ALL CAPS",'KASTURI MULTISPECIALITY HOSPITAL'
+DEF-616,QC06,Name formatting,Low,6548828778,RISE CHILDRENS HOSPITAL (A UNIT OF RISE HOSPITALS PVT. LTD.),17.3802341,78.4297081,"Trimmed, not ALL CAPS",'RISE CHILDRENS HOSPITAL (A UNIT OF RISE HOSPITALS PVT. LTD.)'
+DEF-617,QC06,Name formatting,Low,6548833978,AVANI LASER EYE HOSPITAL,17.3658656,78.5522434,"Trimmed, not ALL CAPS",'AVANI LASER EYE HOSPITAL'
+DEF-618,QC06,Name formatting,Low,6548846382,SANJEEVANI HOSPITAL,17.3739165,78.5521227,"Trimmed, not ALL CAPS",'SANJEEVANI HOSPITAL'
+DEF-619,QC06,Name formatting,Low,6548874152,SOLIS EYE CARE HOSPITALS PVT LTD,17.473687,78.571436,"Trimmed, not ALL CAPS",'SOLIS EYE CARE HOSPITALS PVT LTD'
+DEF-620,QC06,Name formatting,Low,6548879008,SRISHTI EYE CENTRE,17.3949495,78.4573924,"Trimmed, not ALL CAPS",'SRISHTI EYE CENTRE'
+DEF-621,QC06,Name formatting,Low,6548891585,LEGEND HOSPITAL,17.3360462,78.5762921,"Trimmed, not ALL CAPS",'LEGEND HOSPITAL'
+DEF-622,QC06,Name formatting,Low,6548894505,SAI SURYA HOSPITAL,17.3612589,78.4280745,"Trimmed, not ALL CAPS",'SAI SURYA HOSPITAL'
+DEF-623,QC06,Name formatting,Low,6548910436,SUDHA HOSPITAL,17.4657813,78.5389222,"Trimmed, not ALL CAPS",'SUDHA HOSPITAL'
+DEF-624,QC06,Name formatting,Low,6548950430,EVYA HOSPITALS AND DIABETIC RESERACH CENTER,17.3392197,78.570819,"Trimmed, not ALL CAPS",'EVYA HOSPITALS AND DIABETIC RESERACH CENTER'
+DEF-625,QC06,Name formatting,Low,6549133126,FATIMA HOSPITAL,17.3448357,78.4590373,"Trimmed, not ALL CAPS",'FATIMA HOSPITAL'
+DEF-626,QC06,Name formatting,Low,6549138754,JANAPAREDDY HOSPITAL PVT LTD,17.5246107,78.482795,"Trimmed, not ALL CAPS",'JANAPAREDDY HOSPITAL PVT LTD'
+DEF-627,QC06,Name formatting,Low,6549141042,ENT CARE HOSPITAL,17.4951101,78.3706122,"Trimmed, not ALL CAPS",'ENT CARE HOSPITAL'
+DEF-628,QC06,Name formatting,Low,6549141640,NAIDU EYE HOSPITAL,17.4944322,78.3415653,"Trimmed, not ALL CAPS",'NAIDU EYE HOSPITAL'
+DEF-629,QC06,Name formatting,Low,6549145505,JEEVAN HOSPITAL,17.344755,78.5269153,"Trimmed, not ALL CAPS",'JEEVAN HOSPITAL'
+DEF-630,QC06,Name formatting,Low,6549150687,MEDIVISION SUPER SPECIALTY HOSPITAL,17.5162288,78.4472376,"Trimmed, not ALL CAPS",'MEDIVISION SUPER SPECIALTY HOSPITAL'
+DEF-631,QC06,Name formatting,Low,6549150740,HEALIX HOSPITAL,17.494321,78.3461505,"Trimmed, not ALL CAPS",'HEALIX HOSPITAL'
+DEF-632,QC06,Name formatting,Low,6549152212,ZOI HOSPITALS,17.3632928,78.4284984,"Trimmed, not ALL CAPS",'ZOI HOSPITALS'
+DEF-633,QC06,Name formatting,Low,6549159475,RAJA HOSPITAL,17.4366563,78.4399192,"Trimmed, not ALL CAPS",'RAJA HOSPITAL'
+DEF-634,QC06,Name formatting,Low,6549162107,THE BIRTHPLACE,17.4246755,78.433091,"Trimmed, not ALL CAPS",'THE BIRTHPLACE'
+DEF-635,QC06,Name formatting,Low,6549162110,MANKINDD HOSPITAL,17.4055156,78.4801617,"Trimmed, not ALL CAPS",'MANKINDD HOSPITAL'
+DEF-636,QC06,Name formatting,Low,6549172458,PADMVATI MEDICAL CENTRE,17.426232,78.5322033,"Trimmed, not ALL CAPS",'PADMVATI MEDICAL CENTRE'
+DEF-637,QC06,Name formatting,Low,6549176002,IRIS EYE HOSPITAL,17.3696216,78.4273417,"Trimmed, not ALL CAPS",'IRIS EYE HOSPITAL'
+DEF-638,QC06,Name formatting,Low,6549186461,RAMA EYE HOSPITAL,17.3910435,78.4712635,"Trimmed, not ALL CAPS",'RAMA EYE HOSPITAL'
+DEF-639,QC06,Name formatting,Low,6549190771,SRIKARA HOSPITALS,17.4921363,78.348083,"Trimmed, not ALL CAPS",'SRIKARA HOSPITALS'
+DEF-640,QC06,Name formatting,Low,6549197262,B.V.K. REDDY HOSPITAL,17.4185789,78.5179152,"Trimmed, not ALL CAPS",'B.V.K. REDDY HOSPITAL'
+DEF-641,QC06,Name formatting,Low,6549198596,REFRACTO EYE HOSPITAL (A GROUP OF CREDIBLE HEALTH CARE PVT LTD ),17.4620023,78.3669068,"Trimmed, not ALL CAPS",'REFRACTO EYE HOSPITAL (A GROUP OF CREDIBLE HEALTH CARE PVT LTD )'
+DEF-642,QC06,Name formatting,Low,6549203906,GERMANTEN HOSPITALS,17.3619565,78.4281778,"Trimmed, not ALL CAPS",'GERMANTEN HOSPITALS'
+DEF-643,QC06,Name formatting,Low,6549206565,SHYAM HOSPITAL,17.3230275,78.557235,"Trimmed, not ALL CAPS",'SHYAM HOSPITAL'
+DEF-644,QC06,Name formatting,Low,6549209512,ANAND EYE INSITUTE,17.4183281,78.5427846,"Trimmed, not ALL CAPS",'ANAND EYE INSITUTE'
+DEF-645,QC06,Name formatting,Low,6549210041,SRI KARA HOSPITAL,17.344508,78.5484628,"Trimmed, not ALL CAPS",'SRI KARA HOSPITAL'
+DEF-646,QC06,Name formatting,Low,6549211440,HIGH SIGHT SUPER SPECILAITY EYE HOSPITAL,17.4160331,78.4473536,"Trimmed, not ALL CAPS",'HIGH SIGHT SUPER SPECILAITY EYE HOSPITAL'
+DEF-647,QC06,Name formatting,Low,6549219226,SMART VISION EYE SPECIALITIES PRIVATE LIMITED,17.4288986,78.4398817,"Trimmed, not ALL CAPS",'SMART VISION EYE SPECIALITIES PRIVATE LIMITED'
+DEF-648,QC06,Name formatting,Low,6549236738,RAMESH LASIK & LASER CENTRE,17.3985583,78.4847268,"Trimmed, not ALL CAPS",'RAMESH LASIK & LASER CENTRE'
+DEF-649,QC06,Name formatting,Low,6549287021,VIJAYA SREE HOSPITAL,17.4954081,78.3213112,"Trimmed, not ALL CAPS",'VIJAYA SREE HOSPITAL'
+DEF-650,QC06,Name formatting,Low,6549290634,ORIENT EYE HOSPITAL,17.3942641,78.4307253,"Trimmed, not ALL CAPS",'ORIENT EYE HOSPITAL'
+DEF-651,QC06,Name formatting,Low,6549292101,SHINE CHILDREN'S HOSPITAL,17.3482504,78.5520463,"Trimmed, not ALL CAPS","""SHINE CHILDREN'S HOSPITAL"""
+DEF-652,QC06,Name formatting,Low,6549296470,SAFE KIDS HOSPITALS PRIVATE LIMITED,17.3753068,78.4295377,"Trimmed, not ALL CAPS",'SAFE KIDS HOSPITALS PRIVATE LIMITED'
+DEF-653,QC06,Name formatting,Low,6549298910,DR RAJASHEKAR REDDY LAPAROSCOPY HOSPITAL,17.3542853,78.5470426,"Trimmed, not ALL CAPS",'DR RAJASHEKAR REDDY LAPAROSCOPY HOSPITAL'
+DEF-654,QC06,Name formatting,Low,6549301063,ADRM HOSPITAL,17.3984982,78.536071,"Trimmed, not ALL CAPS",'ADRM HOSPITAL'
+DEF-655,QC06,Name formatting,Low,6549315980,SOUTHERN GEM HOSPITAL,17.4058342,78.4754223,"Trimmed, not ALL CAPS",'SOUTHERN GEM HOSPITAL'
+DEF-656,QC06,Name formatting,Low,6549320016,ARC HOSPITAL,17.4714919,78.5676406,"Trimmed, not ALL CAPS",'ARC HOSPITAL'
+DEF-657,QC06,Name formatting,Low,6549324353,SHARADA EYE CARE,17.3355392,78.5708083,"Trimmed, not ALL CAPS",'SHARADA EYE CARE'
+DEF-658,QC06,Name formatting,Low,6549328685,SREE ROYAL HOSPITAL,17.4635323,78.4562123,"Trimmed, not ALL CAPS",'SREE ROYAL HOSPITAL'
+DEF-659,QC06,Name formatting,Low,6549328982,SRI SIDDESHWARA HOSPITAL,17.346624,78.5211218,"Trimmed, not ALL CAPS",'SRI SIDDESHWARA HOSPITAL'
+DEF-660,QC06,Name formatting,Low,6549331502,NEPHROPLUS KIDNEY CARE HOSPITALS,17.4161502,78.4338641,"Trimmed, not ALL CAPS",'NEPHROPLUS KIDNEY CARE HOSPITALS'
+DEF-661,QC06,Name formatting,Low,6549332628,METRO CURE HOSPITAL,17.3726148,78.5010025,"Trimmed, not ALL CAPS",'METRO CURE HOSPITAL'
+DEF-662,QC06,Name formatting,Low,6549338256,RUSSH SUPER SPECIALITY HOSPITAL,17.4997723,78.477497,"Trimmed, not ALL CAPS",'RUSSH SUPER SPECIALITY HOSPITAL'
+DEF-663,QC06,Name formatting,Low,6549341748,SHREE POOJA HOSPITAL,17.4230318,78.5470144,"Trimmed, not ALL CAPS",'SHREE POOJA HOSPITAL'
+DEF-664,QC06,Name formatting,Low,6549348757,MCS NEURO HOSPITAL,17.4925596,78.3977428,"Trimmed, not ALL CAPS",'MCS NEURO HOSPITAL'
+DEF-665,QC06,Name formatting,Low,6549349841,HAPPY HOSPITAL,17.4947571,78.3432363,"Trimmed, not ALL CAPS",'HAPPY HOSPITAL'
+DEF-666,QC06,Name formatting,Low,6549358302,NETRA EYE AND MULTI SPECIALITY HOSPITAL,17.4955297,78.4541658,"Trimmed, not ALL CAPS",'NETRA EYE AND MULTI SPECIALITY HOSPITAL'
+DEF-667,QC06,Name formatting,Low,6549358836,SECUNDERABAD WOMENS HOSPITAL,17.4392005,78.4803766,"Trimmed, not ALL CAPS",'SECUNDERABAD WOMENS HOSPITAL'
+DEF-668,QC06,Name formatting,Low,6549366073,CITI NEURO CENTER,17.4137266,78.4244857,"Trimmed, not ALL CAPS",'CITI NEURO CENTER'
+DEF-669,QC06,Name formatting,Low,6549374700,EYE CARE HYDERABAD,17.3739817,78.4985831,"Trimmed, not ALL CAPS",'EYE CARE HYDERABAD'
+DEF-670,QC06,Name formatting,Low,6549378688,SREE SREYAS HOSPITAL,17.3458905,78.5292422,"Trimmed, not ALL CAPS",'SREE SREYAS HOSPITAL'
+DEF-671,QC06,Name formatting,Low,6549420102,STORK HOME FERNANDEZ HOSPITAL,17.4070512,78.4412871,"Trimmed, not ALL CAPS",'STORK HOME FERNANDEZ HOSPITAL'
+DEF-672,QC06,Name formatting,Low,6549437828,MOTHERHOOD FERTILITY CENTRE,17.496072,78.3452386,"Trimmed, not ALL CAPS",'MOTHERHOOD FERTILITY CENTRE'
+DEF-673,QC06,Name formatting,Low,6549439100,SUMITHRA HOSPITALS,17.3960244,78.559704,"Trimmed, not ALL CAPS",'SUMITHRA HOSPITALS'
+DEF-674,QC06,Name formatting,Low,6549440030,SAI SIDDHARTHA HOSPITAL,17.5171414,78.4449886,"Trimmed, not ALL CAPS",'SAI SIDDHARTHA HOSPITAL'
+DEF-675,QC06,Name formatting,Low,6555123478,BDK ANGANWADI SCHOOL SN COLONY GHMC RC PURAM,17.5125755,78.28612,"Trimmed, not ALL CAPS",'BDK ANGANWADI SCHOOL SN COLONY GHMC RC PURAM'
+DEF-676,QC06,Name formatting,Low,6556728347,AREA HOSPITAL PATANCHERU,17.5301584,78.2667411,"Trimmed, not ALL CAPS",'AREA HOSPITAL PATANCHERU'
+DEF-677,QC01,Required fields present,High,6561022554,,17.3568423,78.4738019,No missing fields,Missing: name
+DEF-678,QC06,Name formatting,Low,6573966514,SAFE CHLIDRENS HOSPITAL,17.3696696,78.5142714,"Trimmed, not ALL CAPS",'SAFE CHLIDRENS HOSPITAL'
+DEF-679,QC01,Required fields present,High,6575821858,,17.4162357,78.5655276,No missing fields,Missing: name
+DEF-680,QC01,Required fields present,High,6581444878,,17.4152599,78.5650953,No missing fields,Missing: name
+DEF-681,QC01,Required fields present,High,6650002839,,17.4312205,78.5609999,No missing fields,Missing: name
+DEF-682,QC01,Required fields present,High,6652622185,,17.3628131,78.5040109,No missing fields,Missing: name
+DEF-683,QC01,Required fields present,High,6710912141,,17.4258886,78.5148679,No missing fields,Missing: name
+DEF-684,QC06,Name formatting,Low,6758497445,ICICI ATM,17.4226326,78.5082307,"Trimmed, not ALL CAPS",'ICICI ATM'
+DEF-685,QC06,Name formatting,Low,6758497446,HDFC ATM,17.4206689,78.5009442,"Trimmed, not ALL CAPS",'HDFC ATM'
+DEF-686,QC06,Name formatting,Low,6760293559,STARBOY'S ARENA,17.4849276,78.3177261,"Trimmed, not ALL CAPS","""STARBOY'S ARENA"""
+DEF-687,QC01,Required fields present,High,6765562753,,17.4257389,78.5148771,No missing fields,Missing: name
+DEF-688,QC01,Required fields present,High,6765562770,,17.4273429,78.5177081,No missing fields,Missing: name
+DEF-689,QC01,Required fields present,High,6765614685,,17.4275859,78.5176454,No missing fields,Missing: name
+DEF-690,QC01,Required fields present,High,6773025655,,17.4295408,78.5147385,No missing fields,Missing: name
+DEF-691,QC01,Required fields present,High,6773025662,,17.4250888,78.5149145,No missing fields,Missing: name
+DEF-692,QC01,Required fields present,High,6773025666,,17.4295615,78.5153003,No missing fields,Missing: name
+DEF-693,QC01,Required fields present,High,6773884879,,17.4235095,78.5160997,No missing fields,Missing: name
+DEF-694,QC01,Required fields present,High,6773898392,,17.4307259,78.5108163,No missing fields,Missing: name
+DEF-695,QC01,Required fields present,High,6773898393,,17.4233931,78.5163408,No missing fields,Missing: name
+DEF-696,QC06,Name formatting,Low,6773898394,SBI ATM,17.4307097,78.5108082,"Trimmed, not ALL CAPS",'SBI ATM'
+DEF-697,QC06,Name formatting,Low,6805124044,ICICI ATM,17.4259772,78.515197,"Trimmed, not ALL CAPS",'ICICI ATM'
+DEF-698,QC06,Name formatting,Low,6811749055,SAAVI CLINICS,17.436565,78.437023,"Trimmed, not ALL CAPS",'SAAVI CLINICS'
+DEF-699,QC06,Name formatting,Low,6811749182,SAI RAM MULTI SPECIALITY HOSPITAL (ARK HEALTH CARE PVT LTD),17.3659362,78.5255259,"Trimmed, not ALL CAPS",'SAI RAM MULTI SPECIALITY HOSPITAL (ARK HEALTH CARE PVT LTD)'
+DEF-700,QC06,Name formatting,Low,6822126475,ICICI BANK ATM,17.487404,78.3959,"Trimmed, not ALL CAPS",'ICICI BANK ATM'
+DEF-701,QC06,Name formatting,Low,6822126477,ICICI BANK ATM,17.444068,78.43268,"Trimmed, not ALL CAPS",'ICICI BANK ATM'
+DEF-702,QC06,Name formatting,Low,6822126525,SHIVANYA RESTAURANT,17.4325622,78.4460138,"Trimmed, not ALL CAPS",'SHIVANYA RESTAURANT'
+DEF-703,QC06,Name formatting,Low,6822126615,SITARA FOODS,17.443536,78.433898,"Trimmed, not ALL CAPS",'SITARA FOODS'
+DEF-704,QC01,Required fields present,High,6829815533,,17.344965,78.5485513,No missing fields,Missing: name
+DEF-705,QC06,Name formatting,Low,6840941123,B. DUBS,17.4337768,78.4049578,"Trimmed, not ALL CAPS",'B. DUBS'
+DEF-706,QC06,Name formatting,Low,6846152948,SHREYA HOSPITAL,17.4509475,78.4235564,"Trimmed, not ALL CAPS",'SHREYA HOSPITAL'
+DEF-707,QC06,Name formatting,Low,6846423887,DR NAVEEN REDDYS GENERAL HOSPITAL,17.4546149,78.4200095,"Trimmed, not ALL CAPS",'DR NAVEEN REDDYS GENERAL HOSPITAL'
+DEF-708,QC06,Name formatting,Low,6847914772,ICICI BANK ATM,17.4686663,78.4276148,"Trimmed, not ALL CAPS",'ICICI BANK ATM'
+DEF-709,QC06,Name formatting,Low,6847914870,SIVA SAI MOTOR DRIVING SCHOOL,17.4423677,78.4396841,"Trimmed, not ALL CAPS",'SIVA SAI MOTOR DRIVING SCHOOL'
+DEF-710,QC01,Required fields present,High,6866161637,,17.5029831,78.3887796,No missing fields,Missing: name
+DEF-711,QC06,Name formatting,Low,6868660408,MEE SEVA,17.4561295,78.4221254,"Trimmed, not ALL CAPS",'MEE SEVA'
+DEF-712,QC06,Name formatting,Low,6868660413,INDIAN POST,17.4559694,78.4221076,"Trimmed, not ALL CAPS",'INDIAN POST'
+DEF-713,QC06,Name formatting,Low,6868660419,DELHI WALA SWEETS,17.4566065,78.4225875,"Trimmed, not ALL CAPS",'DELHI WALA SWEETS'
+DEF-714,QC01,Required fields present,High,6868777694,,17.4271386,78.5171957,No missing fields,Missing: name
+DEF-715,QC01,Required fields present,High,6868777722,,17.4272779,78.5164933,No missing fields,Missing: name
+DEF-716,QC01,Required fields present,High,6868777723,,17.429749,78.5149586,No missing fields,Missing: name
+DEF-717,QC01,Required fields present,High,6868777724,,17.4294616,78.5134566,No missing fields,Missing: name
+DEF-718,QC01,Required fields present,High,6868777725,,17.4301582,78.5120152,No missing fields,Missing: name
+DEF-719,QC01,Required fields present,High,6873375852,,17.4334583,78.4572081,No missing fields,Missing: name
+DEF-720,QC01,Required fields present,High,6887537051,,17.4473349,78.3686219,No missing fields,Missing: name
+DEF-721,QC01,Required fields present,High,6907939616,,17.4154636,78.4753187,No missing fields,Missing: name
+DEF-722,QC01,Required fields present,High,6934778614,,17.3745451,78.5455972,No missing fields,Missing: name
+DEF-723,QC01,Required fields present,High,6934778623,,17.3744786,78.544417,No missing fields,Missing: name
+DEF-724,QC01,Required fields present,High,6935209017,,17.4487338,78.3509973,No missing fields,Missing: name
+DEF-725,QC01,Required fields present,High,6935209073,,17.5002641,78.4929596,No missing fields,Missing: name
+DEF-726,QC01,Required fields present,High,6935221549,,17.4823299,78.480409,No missing fields,Missing: name
+DEF-727,QC06,Name formatting,Low,6935221553,EURO PLAY SCHOOL,17.4797317,78.4807073,"Trimmed, not ALL CAPS",'EURO PLAY SCHOOL'
+DEF-728,QC01,Required fields present,High,6935235091,,17.469838,78.3548594,No missing fields,Missing: name
+DEF-729,QC06,Name formatting,Low,6935406168,POCHAMA TEMPLE,17.4794135,78.4814359,"Trimmed, not ALL CAPS",'POCHAMA TEMPLE'
+DEF-730,QC06,Name formatting,Low,6935422631,KALIKA DEVI TEMPLE,17.4795487,78.4785507,"Trimmed, not ALL CAPS",'KALIKA DEVI TEMPLE'
+DEF-731,QC06,Name formatting,Low,6935457683,CELEBRATIONS,17.4800874,78.4754095,"Trimmed, not ALL CAPS",'CELEBRATIONS'
+DEF-732,QC06,Name formatting,Low,6935469225,BAKE 2 BAKE,17.4796444,78.4806952,"Trimmed, not ALL CAPS",'BAKE 2 BAKE'
+DEF-733,QC06,Name formatting,Low,6935540196,SHEKAR HOSPITAL,17.4787553,78.4816433,"Trimmed, not ALL CAPS",'SHEKAR HOSPITAL'
+DEF-734,QC01,Required fields present,High,6936820047,,17.4935321,78.399284,No missing fields,Missing: name
+DEF-735,QC01,Required fields present,High,6950562607,,17.5051477,78.356749,No missing fields,Missing: name
+DEF-736,QC01,Required fields present,High,6982974090,,17.3694841,78.429523,No missing fields,Missing: name
+DEF-737,QC01,Required fields present,High,6982974091,,17.3653557,78.4286925,No missing fields,Missing: name
+DEF-738,QC01,Required fields present,High,6982993986,,17.3641081,78.4285768,No missing fields,Missing: name
+DEF-739,QC01,Required fields present,High,7002758972,,17.3525004,78.5067755,No missing fields,Missing: name
+DEF-740,QC01,Required fields present,High,7002758973,,17.3525229,78.5071259,No missing fields,Missing: name
+DEF-741,QC01,Required fields present,High,7002815274,,17.4052283,78.4048327,No missing fields,Missing: name
+DEF-742,QC01,Required fields present,High,7004455685,,17.3622124,78.4716365,No missing fields,Missing: name
+DEF-743,QC01,Required fields present,High,7007353485,,17.3829901,78.4748572,No missing fields,Missing: name
+DEF-744,QC01,Required fields present,High,7007922985,,17.4938602,78.3224037,No missing fields,Missing: name
+DEF-745,QC01,Required fields present,High,7007922986,,17.4939071,78.3224047,No missing fields,Missing: name
+DEF-746,QC01,Required fields present,High,7010429412,,17.4074089,78.460784,No missing fields,Missing: name
+DEF-747,QC01,Required fields present,High,7010429441,,17.4577178,78.3651339,No missing fields,Missing: name
+DEF-748,QC01,Required fields present,High,7010429448,,17.3978926,78.4696702,No missing fields,Missing: name
+DEF-749,QC01,Required fields present,High,7013210185,,17.4388959,78.4885994,No missing fields,Missing: name
+DEF-750,QC01,Required fields present,High,7013214085,,17.4407514,78.4880518,No missing fields,Missing: name
+DEF-751,QC01,Required fields present,High,7013214086,,17.4424262,78.4876145,No missing fields,Missing: name
+DEF-752,QC01,Required fields present,High,7015155402,,17.4374781,78.4997088,No missing fields,Missing: name
+DEF-753,QC01,Required fields present,High,7028621885,,17.4220686,78.4626943,No missing fields,Missing: name
+DEF-754,QC06,Name formatting,Low,7043571452,BOI ATM,17.4442592,78.3874467,"Trimmed, not ALL CAPS",'BOI ATM'
+DEF-755,QC01,Required fields present,High,7087999847,,17.4164996,78.5660855,No missing fields,Missing: name
+DEF-756,QC01,Required fields present,High,7088862151,,17.3290827,78.4276336,No missing fields,Missing: name
+DEF-757,QC01,Required fields present,High,7113450286,,17.3900805,78.4946821,No missing fields,Missing: name
+DEF-758,QC01,Required fields present,High,7113495585,,17.4386398,78.4472845,No missing fields,Missing: name
+DEF-759,QC01,Required fields present,High,7113524786,,17.4974176,78.3888636,No missing fields,Missing: name
+DEF-760,QC01,Required fields present,High,7113870086,,17.3638235,78.5089051,No missing fields,Missing: name
+DEF-761,QC01,Required fields present,High,7113870386,,17.3619356,78.5067935,No missing fields,Missing: name
+DEF-762,QC01,Required fields present,High,7113964385,,17.4322215,78.425337,No missing fields,Missing: name
+DEF-763,QC01,Required fields present,High,7113964586,,17.4320793,78.4259891,No missing fields,Missing: name
+DEF-764,QC01,Required fields present,High,7123870393,,17.433281,78.3862367,No missing fields,Missing: name
+DEF-765,QC01,Required fields present,High,7132624015,,17.3963367,78.3978717,No missing fields,Missing: name
+DEF-766,QC01,Required fields present,High,7140901205,,17.3301804,78.467492,No missing fields,Missing: name
+DEF-767,QC01,Required fields present,High,7140935815,,17.3302411,78.4673297,No missing fields,Missing: name
+DEF-768,QC01,Required fields present,High,7142779503,,17.3967296,78.4249193,No missing fields,Missing: name
+DEF-769,QC01,Required fields present,High,7174145047,,17.4377437,78.4621371,No missing fields,Missing: name
+DEF-770,QC01,Required fields present,High,7180371647,,17.4950798,78.3947667,No missing fields,Missing: name
+DEF-771,QC01,Required fields present,High,7182020241,,17.4718984,78.4924051,No missing fields,Missing: name
+DEF-772,QC01,Required fields present,High,7243966289,,17.3386712,78.5704834,No missing fields,Missing: name
+DEF-773,QC01,Required fields present,High,7243974419,,17.3966312,78.5034672,No missing fields,Missing: name
+DEF-774,QC01,Required fields present,High,7243976033,,17.4873202,78.3960641,No missing fields,Missing: name
+DEF-775,QC01,Required fields present,High,7243983828,,17.4145728,78.3939647,No missing fields,Missing: name
+DEF-776,QC01,Required fields present,High,7243983838,,17.4088288,78.3944264,No missing fields,Missing: name
+DEF-777,QC01,Required fields present,High,7243983839,,17.4088609,78.3944787,No missing fields,Missing: name
+DEF-778,QC01,Required fields present,High,7243983840,,17.4086496,78.3942156,No missing fields,Missing: name
+DEF-779,QC01,Required fields present,High,7243990070,,17.415693,78.5096775,No missing fields,Missing: name
+DEF-780,QC01,Required fields present,High,7243990071,,17.4157117,78.5095733,No missing fields,Missing: name
+DEF-781,QC01,Required fields present,High,7244009090,,17.4155542,78.5085942,No missing fields,Missing: name
+DEF-782,QC01,Required fields present,High,7244009092,,17.4161842,78.5085617,No missing fields,Missing: name
+DEF-783,QC01,Required fields present,High,7244009101,,17.4158155,78.5096825,No missing fields,Missing: name
+DEF-784,QC01,Required fields present,High,7244009104,,17.4162314,78.5100514,No missing fields,Missing: name
+DEF-785,QC01,Required fields present,High,7244009114,,17.4166267,78.5083145,No missing fields,Missing: name
+DEF-786,QC01,Required fields present,High,7244017390,,17.3706468,78.5723414,No missing fields,Missing: name
+DEF-787,QC01,Required fields present,High,7244017402,,17.3711502,78.5715364,No missing fields,Missing: name
+DEF-788,QC01,Required fields present,High,7244017406,,17.3710355,78.5716277,No missing fields,Missing: name
+DEF-789,QC01,Required fields present,High,7244017413,,17.3715197,78.5706672,No missing fields,Missing: name
+DEF-790,QC01,Required fields present,High,7244017420,,17.369451,78.5741371,No missing fields,Missing: name
+DEF-791,QC01,Required fields present,High,7244017424,,17.3689009,78.574627,No missing fields,Missing: name
+DEF-792,QC01,Required fields present,High,7244017428,,17.3690333,78.5766006,No missing fields,Missing: name
+DEF-793,QC01,Required fields present,High,7244022648,,17.5019507,78.415981,No missing fields,Missing: name
+DEF-794,QC01,Required fields present,High,7244029376,,17.4071179,78.3925522,No missing fields,Missing: name
+DEF-795,QC01,Required fields present,High,7244052167,,17.4103807,78.4640961,No missing fields,Missing: name
+DEF-796,QC01,Required fields present,High,7244071877,,17.3738124,78.5626569,No missing fields,Missing: name
+DEF-797,QC01,Required fields present,High,7244082075,,17.4177588,78.5098848,No missing fields,Missing: name
+DEF-798,QC01,Required fields present,High,7244082076,,17.4177269,78.5098931,No missing fields,Missing: name
+DEF-799,QC01,Required fields present,High,7244082078,,17.4169325,78.5099216,No missing fields,Missing: name
+DEF-800,QC01,Required fields present,High,7244114885,,17.4176317,78.5095004,No missing fields,Missing: name
+DEF-801,QC01,Required fields present,High,7244114889,,17.4176605,78.5098124,No missing fields,Missing: name
+DEF-802,QC01,Required fields present,High,7244114899,,17.415421,78.5047328,No missing fields,Missing: name
+DEF-803,QC01,Required fields present,High,7244114901,,17.4153077,78.50491,No missing fields,Missing: name
+DEF-804,QC01,Required fields present,High,7244114902,,17.416154,78.5057719,No missing fields,Missing: name
+DEF-805,QC01,Required fields present,High,7244114903,,17.4159351,78.5064527,No missing fields,Missing: name
+DEF-806,QC01,Required fields present,High,7244114905,,17.4141266,78.5072618,No missing fields,Missing: name
+DEF-807,QC01,Required fields present,High,7244114907,,17.4130904,78.5073476,No missing fields,Missing: name
+DEF-808,QC01,Required fields present,High,7244117129,,17.4052548,78.5157027,No missing fields,Missing: name
+DEF-809,QC01,Required fields present,High,7244134430,,17.3292601,78.5814773,No missing fields,Missing: name
+DEF-810,QC01,Required fields present,High,7244134448,,17.3302678,78.5773134,No missing fields,Missing: name
+DEF-811,QC01,Required fields present,High,7244134449,,17.3303336,78.576784,No missing fields,Missing: name
+DEF-812,QC06,Name formatting,Low,7244134460,MRCB,17.3291608,78.5820878,"Trimmed, not ALL CAPS",'MRCB'
+DEF-813,QC01,Required fields present,High,7244139693,,17.4050156,78.5143897,No missing fields,Missing: name
+DEF-814,QC01,Required fields present,High,7244140646,,17.490765,78.4000532,No missing fields,Missing: name
+DEF-815,QC01,Required fields present,High,7244168630,,17.5016493,78.416084,No missing fields,Missing: name
+DEF-816,QC01,Required fields present,High,7244168648,,17.5004842,78.41607,No missing fields,Missing: name
+DEF-817,QC01,Required fields present,High,7244168658,,17.501953,78.4188024,No missing fields,Missing: name
+DEF-818,QC01,Required fields present,High,7244168659,,17.5018535,78.4186119,No missing fields,Missing: name
+DEF-819,QC01,Required fields present,High,7244173374,,17.3715101,78.5321014,No missing fields,Missing: name
+DEF-820,QC01,Required fields present,High,7244173376,,17.3749695,78.5334432,No missing fields,Missing: name
+DEF-821,QC01,Required fields present,High,7244174315,,17.4106655,78.5078545,No missing fields,Missing: name
+DEF-822,QC01,Required fields present,High,7244174317,,17.4102458,78.5077524,No missing fields,Missing: name
+DEF-823,QC01,Required fields present,High,7244174320,,17.4104182,78.5076664,No missing fields,Missing: name
+DEF-824,QC01,Required fields present,High,7244175514,,17.3786262,78.5416932,No missing fields,Missing: name
+DEF-825,QC01,Required fields present,High,7244184394,,17.4980928,78.4094268,No missing fields,Missing: name
+DEF-826,QC01,Required fields present,High,7244207475,,17.3369887,78.5794723,No missing fields,Missing: name
+DEF-827,QC01,Required fields present,High,7244212265,,17.3500893,78.5481702,No missing fields,Missing: name
+DEF-828,QC01,Required fields present,High,7244226220,,17.4776936,78.5728614,No missing fields,Missing: name
+DEF-829,QC01,Required fields present,High,7244230209,,17.4389061,78.448525,No missing fields,Missing: name
+DEF-830,QC01,Required fields present,High,7244233144,,17.5317454,78.2648437,No missing fields,Missing: name
+DEF-831,QC01,Required fields present,High,7244238223,,17.4095992,78.5082917,No missing fields,Missing: name
+DEF-832,QC01,Required fields present,High,7244238224,,17.4092593,78.5085921,No missing fields,Missing: name
+DEF-833,QC01,Required fields present,High,7244238251,,17.4096832,78.5086124,No missing fields,Missing: name
+DEF-834,QC01,Required fields present,High,7244238264,,17.3714954,78.5693727,No missing fields,Missing: name
+DEF-835,QC01,Required fields present,High,7244238273,,17.3679229,78.5753678,No missing fields,Missing: name
+DEF-836,QC01,Required fields present,High,7244238274,,17.3692638,78.5740859,No missing fields,Missing: name
+DEF-837,QC01,Required fields present,High,7244243971,,17.4007523,78.5077665,No missing fields,Missing: name
+DEF-838,QC01,Required fields present,High,7244246290,,17.3739968,78.5391464,No missing fields,Missing: name
+DEF-839,QC01,Required fields present,High,7244246291,,17.3739904,78.5389895,No missing fields,Missing: name
+DEF-840,QC01,Required fields present,High,7244246293,,17.3732896,78.539554,No missing fields,Missing: name
+DEF-841,QC01,Required fields present,High,7244267525,,17.4119995,78.5079704,No missing fields,Missing: name
+DEF-842,QC01,Required fields present,High,7244267526,,17.4120135,78.5078611,No missing fields,Missing: name
+DEF-843,QC01,Required fields present,High,7244267532,,17.4105701,78.5069506,No missing fields,Missing: name
+DEF-844,QC01,Required fields present,High,7244267536,,17.4093958,78.5067575,No missing fields,Missing: name
+DEF-845,QC01,Required fields present,High,7244267538,,17.410739,78.5072414,No missing fields,Missing: name
+DEF-846,QC01,Required fields present,High,7244268902,,17.4940414,78.3556748,No missing fields,Missing: name
+DEF-847,QC01,Required fields present,High,7244268903,,17.4940788,78.3558567,No missing fields,Missing: name
+DEF-848,QC01,Required fields present,High,7244268904,,17.494097,78.3558756,No missing fields,Missing: name
+DEF-849,QC01,Required fields present,High,7244280424,,17.4608719,78.366336,No missing fields,Missing: name
+DEF-850,QC01,Required fields present,High,7244280425,,17.4625121,78.3663477,No missing fields,Missing: name
+DEF-851,QC01,Required fields present,High,7244280426,,17.4625304,78.3665492,No missing fields,Missing: name
+DEF-852,QC01,Required fields present,High,7244280427,,17.4623813,78.3663888,No missing fields,Missing: name
+DEF-853,QC01,Required fields present,High,7244280429,,17.4628678,78.364221,No missing fields,Missing: name
+DEF-854,QC01,Required fields present,High,7244296171,,17.4083702,78.5102057,No missing fields,Missing: name
+DEF-855,QC01,Required fields present,High,7244296172,,17.4082762,78.5101214,No missing fields,Missing: name
+DEF-856,QC01,Required fields present,High,7244427235,,17.5191277,78.4151024,No missing fields,Missing: name
+DEF-857,QC01,Required fields present,High,7244480656,,17.3949058,78.4353607,No missing fields,Missing: name
+DEF-858,QC01,Required fields present,High,7244480657,,17.3949061,78.4353655,No missing fields,Missing: name
+DEF-859,QC01,Required fields present,High,7244480660,,17.3948551,78.4359891,No missing fields,Missing: name
+DEF-860,QC01,Required fields present,High,7244480684,,17.3946652,78.4383451,No missing fields,Missing: name
+DEF-861,QC01,Required fields present,High,7244484695,,17.5284675,78.2656059,No missing fields,Missing: name
+DEF-862,QC01,Required fields present,High,7244487788,,17.3943693,78.442131,No missing fields,Missing: name
+DEF-863,QC01,Required fields present,High,7244487790,,17.3934138,78.4424661,No missing fields,Missing: name
+DEF-864,QC01,Required fields present,High,7244487800,,17.3931802,78.4421032,No missing fields,Missing: name
+DEF-865,QC01,Required fields present,High,7244487802,,17.3931136,78.4421321,No missing fields,Missing: name
+DEF-866,QC01,Required fields present,High,7244487804,,17.3943627,78.4402648,No missing fields,Missing: name
+DEF-867,QC01,Required fields present,High,7244487812,,17.3947226,78.4374978,No missing fields,Missing: name
+DEF-868,QC01,Required fields present,High,7244487837,,17.3944852,78.4394652,No missing fields,Missing: name
+DEF-869,QC01,Required fields present,High,7244487838,,17.394429,78.4397524,No missing fields,Missing: name
+DEF-870,QC01,Required fields present,High,7244496574,,17.4424728,78.4394781,No missing fields,Missing: name
+DEF-871,QC01,Required fields present,High,7244498388,,17.4381507,78.4427982,No missing fields,Missing: name
+DEF-872,QC01,Required fields present,High,7244498389,,17.4371885,78.4434221,No missing fields,Missing: name
+DEF-873,QC01,Required fields present,High,7244498390,,17.4402276,78.4390716,No missing fields,Missing: name
+DEF-874,QC01,Required fields present,High,7246431783,,17.3160977,78.6017116,No missing fields,Missing: name
+DEF-875,QC01,Required fields present,High,7246431784,,17.3158113,78.6022405,No missing fields,Missing: name
+DEF-876,QC01,Required fields present,High,7246440885,,17.3172139,78.6015898,No missing fields,Missing: name
+DEF-877,QC01,Required fields present,High,7246440941,,17.3514909,78.5459276,No missing fields,Missing: name
+DEF-878,QC01,Required fields present,High,7246440966,,17.3538191,78.5466209,No missing fields,Missing: name
+DEF-879,QC01,Required fields present,High,7246477793,,17.4108858,78.4628268,No missing fields,Missing: name
+DEF-880,QC01,Required fields present,High,7246491291,,17.4625091,78.3664559,No missing fields,Missing: name
+DEF-881,QC01,Required fields present,High,7246491294,,17.4616651,78.3668443,No missing fields,Missing: name
+DEF-882,QC01,Required fields present,High,7246495606,,17.5251365,78.4231834,No missing fields,Missing: name
+DEF-883,QC01,Required fields present,High,7246496359,,17.471273,78.599442,No missing fields,Missing: name
+DEF-884,QC01,Required fields present,High,7246502009,,17.3312141,78.6093174,No missing fields,Missing: name
+DEF-885,QC01,Required fields present,High,7246509869,,17.4142455,78.5086423,No missing fields,Missing: name
+DEF-886,QC01,Required fields present,High,7246516888,,17.5002322,78.4158588,No missing fields,Missing: name
+DEF-887,QC01,Required fields present,High,7246516890,,17.5008159,78.4160561,No missing fields,Missing: name
+DEF-888,QC01,Required fields present,High,7246526405,,17.4095685,78.5065485,No missing fields,Missing: name
+DEF-889,QC01,Required fields present,High,7246526406,,17.4095317,78.5067608,No missing fields,Missing: name
+DEF-890,QC01,Required fields present,High,7246526407,,17.4094475,78.5065099,No missing fields,Missing: name
+DEF-891,QC01,Required fields present,High,7246588705,,17.4138534,78.5072533,No missing fields,Missing: name
+DEF-892,QC01,Required fields present,High,7246588706,,17.4136595,78.5069595,No missing fields,Missing: name
+DEF-893,QC01,Required fields present,High,7246588742,,17.4131508,78.5077226,No missing fields,Missing: name
+DEF-894,QC01,Required fields present,High,7246588750,,17.4124873,78.5066021,No missing fields,Missing: name
+DEF-895,QC01,Required fields present,High,7246738408,,17.4114638,78.5083743,No missing fields,Missing: name
+DEF-896,QC01,Required fields present,High,7246738409,,17.4114123,78.5083605,No missing fields,Missing: name
+DEF-897,QC01,Required fields present,High,7246738410,,17.4115272,78.5083937,No missing fields,Missing: name
+DEF-898,QC01,Required fields present,High,7246812290,,17.3948107,78.4364254,No missing fields,Missing: name
+DEF-899,QC01,Required fields present,High,7246815474,,17.3753441,78.5394986,No missing fields,Missing: name
+DEF-900,QC01,Required fields present,High,7247169067,,17.446212,78.4664254,No missing fields,Missing: name
+DEF-901,QC01,Required fields present,High,7314598344,,17.4148258,78.5486466,No missing fields,Missing: name
+DEF-902,QC01,Required fields present,High,7314618339,,17.4174266,78.5517573,No missing fields,Missing: name
+DEF-903,QC01,Required fields present,High,7314630405,,17.4163782,78.5505207,No missing fields,Missing: name
+DEF-904,QC01,Required fields present,High,7314640547,,17.4164458,78.5500976,No missing fields,Missing: name
+DEF-905,QC01,Required fields present,High,7328606944,,17.4110009,78.5523453,No missing fields,Missing: name
+DEF-906,QC01,Required fields present,High,7328623868,,17.416298,78.5517888,No missing fields,Missing: name
+DEF-907,QC01,Required fields present,High,7345789959,,17.3173201,78.402591,No missing fields,Missing: name
+DEF-908,QC01,Required fields present,High,7353970975,,17.4422278,78.4589938,No missing fields,Missing: name
+DEF-909,QC06,Name formatting,Low,7353970976,NATIONAL HIGH SCHOOL,17.4404381,78.4548172,"Trimmed, not ALL CAPS",'NATIONAL HIGH SCHOOL'
+DEF-910,QC06,Name formatting,Low,7358874681,BHARATHI HIGH SCHOOL,17.3782153,78.4356797,"Trimmed, not ALL CAPS",'BHARATHI HIGH SCHOOL'
+DEF-911,QC06,Name formatting,Low,7362894314,KRISHNAVENI TALENT SCHOOL,17.418597,78.5058844,"Trimmed, not ALL CAPS",'KRISHNAVENI TALENT SCHOOL'
+DEF-912,QC06,Name formatting,Low,7363305985,MARTINET HIGH SCHOOL,17.415587,78.5037177,"Trimmed, not ALL CAPS",'MARTINET HIGH SCHOOL'
+DEF-913,QC06,Name formatting,Low,7363305995,KAKATIYA TECHNO SCHOOL,17.4130521,78.5056436,"Trimmed, not ALL CAPS",'KAKATIYA TECHNO SCHOOL'
+DEF-914,QC06,Name formatting,Low,7372561038,AMARAVATHI SCHOOL,17.4245923,78.5206308,"Trimmed, not ALL CAPS",'AMARAVATHI SCHOOL'
+DEF-915,QC06,Name formatting,Low,7372921909,SUDHIKSHA PLAY SCHOOL,17.386448,78.5323491,"Trimmed, not ALL CAPS",'SUDHIKSHA PLAY SCHOOL'
+DEF-916,QC06,Name formatting,Low,7375436995,SAI RAM CONVENT HIGH SCHOOL,17.388468,78.5287184,"Trimmed, not ALL CAPS",'SAI RAM CONVENT HIGH SCHOOL'
+DEF-917,QC06,Name formatting,Low,7379759287,SARASWATI VIDYA MANDIR SCHOOL,17.4127151,78.4528972,"Trimmed, not ALL CAPS",'SARASWATI VIDYA MANDIR SCHOOL'
+DEF-918,QC01,Required fields present,High,7379950132,,17.4072521,78.4612316,No missing fields,Missing: name
+DEF-919,QC06,Name formatting,Low,7385438439,SHIVAJI VIDYA PEETH HIGH SCHOOL,17.4223811,78.4037842,"Trimmed, not ALL CAPS",'SHIVAJI VIDYA PEETH HIGH SCHOOL'
+DEF-920,QC06,Name formatting,Low,7397325527,STAR GLOBAL SCHOOL,17.4345944,78.4190319,"Trimmed, not ALL CAPS",'STAR GLOBAL SCHOOL'
+DEF-921,QC06,Name formatting,Low,7398541400,MGM INTERNATIONAL SCHOOL,17.4345308,78.4328895,"Trimmed, not ALL CAPS",'MGM INTERNATIONAL SCHOOL'
+DEF-922,QC01,Required fields present,High,7508827004,,17.3721975,78.4935044,No missing fields,Missing: name
+DEF-923,QC01,Required fields present,High,7508844199,,17.3750194,78.4988031,No missing fields,Missing: name
+DEF-924,QC01,Required fields present,High,7508851941,,17.3768462,78.4900081,No missing fields,Missing: name
+DEF-925,QC01,Required fields present,High,7542824533,,17.3542104,78.4630318,No missing fields,Missing: name
+DEF-926,QC01,Required fields present,High,7612889827,,17.4956423,78.3660387,No missing fields,Missing: name
+DEF-927,QC06,Name formatting,Low,7614091403,ICICI BANK ATM,17.4929916,78.4020258,"Trimmed, not ALL CAPS",'ICICI BANK ATM'
+DEF-928,QC01,Required fields present,High,7642365582,,17.441665,78.5008233,No missing fields,Missing: name
+DEF-929,QC01,Required fields present,High,7726358273,,17.3568134,78.53083,No missing fields,Missing: name
+DEF-930,QC01,Required fields present,High,7726358274,,17.3569465,78.5299247,No missing fields,Missing: name
+DEF-931,QC01,Required fields present,High,7726358275,,17.3548472,78.5323863,No missing fields,Missing: name
+DEF-932,QC01,Required fields present,High,7726365012,,17.3571974,78.5305604,No missing fields,Missing: name
+DEF-933,QC01,Required fields present,High,7794501359,,17.4684524,78.5452726,No missing fields,Missing: name
+DEF-934,QC01,Required fields present,High,7796316995,,17.4999606,78.40899,No missing fields,Missing: name
+DEF-935,QC01,Required fields present,High,7836389743,,17.4956951,78.3585858,No missing fields,Missing: name
+DEF-936,QC06,Name formatting,Low,7874934614,HOLY KITCHEN,17.4332799,78.4262644,"Trimmed, not ALL CAPS",'HOLY KITCHEN'
+DEF-937,QC01,Required fields present,High,7902647511,,17.4587154,78.3729988,No missing fields,Missing: name
+DEF-938,QC01,Required fields present,High,7902659217,,17.4590422,78.3725314,No missing fields,Missing: name
+DEF-939,QC01,Required fields present,High,7902659219,,17.4585863,78.3735306,No missing fields,Missing: name
+DEF-940,QC01,Required fields present,High,7902659221,,17.4592366,78.3738599,No missing fields,Missing: name
+DEF-941,QC01,Required fields present,High,7902659222,,17.4593617,78.3735667,No missing fields,Missing: name
+DEF-942,QC01,Required fields present,High,7902659224,,17.4595789,78.3731938,No missing fields,Missing: name
+DEF-943,QC01,Required fields present,High,7902659226,,17.459736,78.3728464,No missing fields,Missing: name
+DEF-944,QC01,Required fields present,High,7902680781,,17.4584685,78.3721753,No missing fields,Missing: name
+DEF-945,QC01,Required fields present,High,7902680782,,17.4580121,78.3722734,No missing fields,Missing: name
+DEF-946,QC01,Required fields present,High,7966159193,,17.4171662,78.4310404,No missing fields,Missing: name
+DEF-947,QC01,Required fields present,High,7966159202,,17.4170843,78.4313858,No missing fields,Missing: name
+DEF-948,QC01,Required fields present,High,7966220036,,17.4637512,78.3859416,No missing fields,Missing: name
+DEF-949,QC01,Required fields present,High,7966220042,,17.4642333,78.3860151,No missing fields,Missing: name
+DEF-950,QC01,Required fields present,High,7975458653,,17.4278334,78.3615397,No missing fields,Missing: name
+DEF-951,QC06,Name formatting,Low,8044148228,FAITH HOSIPTAL,17.3591366,78.4945773,"Trimmed, not ALL CAPS",'FAITH HOSIPTAL'
+DEF-952,QC01,Required fields present,High,8050006823,,17.3638496,78.5025045,No missing fields,Missing: name
+DEF-953,QC01,Required fields present,High,8050094914,,17.3629987,78.50419,No missing fields,Missing: name
+DEF-954,QC01,Required fields present,High,8050114741,,17.3639245,78.5039925,No missing fields,Missing: name
+DEF-955,QC01,Required fields present,High,8050120381,,17.3642311,78.5045376,No missing fields,Missing: name
+DEF-956,QC01,Required fields present,High,8050120382,,17.3634784,78.5045966,No missing fields,Missing: name
+DEF-957,QC01,Required fields present,High,8050120383,,17.3634605,78.5041729,No missing fields,Missing: name
+DEF-958,QC01,Required fields present,High,8050138054,,17.3636883,78.5038429,No missing fields,Missing: name
+DEF-959,QC01,Required fields present,High,8058819826,,17.3647584,78.5051626,No missing fields,Missing: name
+DEF-960,QC01,Required fields present,High,8058819827,,17.3646829,78.5051626,No missing fields,Missing: name
+DEF-961,QC01,Required fields present,High,8058866860,,17.3523703,78.5068812,No missing fields,Missing: name
+DEF-962,QC01,Required fields present,High,8058870102,,17.3521713,78.506503,No missing fields,Missing: name
+DEF-963,QC01,Required fields present,High,8065032519,,17.3619936,78.5053624,No missing fields,Missing: name
+DEF-964,QC01,Required fields present,High,8065102099,,17.3622829,78.5041313,No missing fields,Missing: name
+DEF-965,QC01,Required fields present,High,8065347277,,17.3741904,78.5002602,No missing fields,Missing: name
+DEF-966,QC01,Required fields present,High,8065392903,,17.3748495,78.4992081,No missing fields,Missing: name
+DEF-967,QC01,Required fields present,High,8065580090,,17.3778714,78.4909858,No missing fields,Missing: name
+DEF-968,QC01,Required fields present,High,8072240177,,17.3710494,78.4816007,No missing fields,Missing: name
+DEF-969,QC01,Required fields present,High,8072324469,,17.423987,78.5465135,No missing fields,Missing: name
+DEF-970,QC01,Required fields present,High,8072332478,,17.4242142,78.5464056,No missing fields,Missing: name
+DEF-971,QC01,Required fields present,High,8085132603,,17.3770497,78.4979904,No missing fields,Missing: name
+DEF-972,QC01,Required fields present,High,8087612699,,17.3715198,78.5114269,No missing fields,Missing: name
+DEF-973,QC01,Required fields present,High,8093296617,,17.3918524,78.4767882,No missing fields,Missing: name
+DEF-974,QC01,Required fields present,High,8107894698,,17.4588196,78.4240047,No missing fields,Missing: name
+DEF-975,QC01,Required fields present,High,8107894704,,17.4544039,78.4223791,No missing fields,Missing: name
+DEF-976,QC01,Required fields present,High,8110775262,,17.4541524,78.4477242,No missing fields,Missing: name
+DEF-977,QC01,Required fields present,High,8110793768,,17.3736925,78.4596627,No missing fields,Missing: name
+DEF-978,QC01,Required fields present,High,8110847370,,17.391254,78.5209447,No missing fields,Missing: name
+DEF-979,QC01,Required fields present,High,8110903447,,17.3618699,78.526227,No missing fields,Missing: name
+DEF-980,QC01,Required fields present,High,8110916425,,17.39098,78.5209269,No missing fields,Missing: name
+DEF-981,QC01,Required fields present,High,8110957832,,17.4512012,78.4447125,No missing fields,Missing: name
+DEF-982,QC01,Required fields present,High,8111012458,,17.392536,78.5194769,No missing fields,Missing: name
+DEF-983,QC01,Required fields present,High,8111026029,,17.3925525,78.5195464,No missing fields,Missing: name
+DEF-984,QC01,Required fields present,High,8111043515,,17.3583937,78.5215544,No missing fields,Missing: name
+DEF-985,QC01,Required fields present,High,8111074118,,17.3911406,78.5159936,No missing fields,Missing: name
+DEF-986,QC01,Required fields present,High,8111187929,,17.4257593,78.5485203,No missing fields,Missing: name
+DEF-987,QC01,Required fields present,High,8113625318,,17.4125495,78.4091311,No missing fields,Missing: name
+DEF-988,QC01,Required fields present,High,8113625322,,17.4196586,78.4120777,No missing fields,Missing: name
+DEF-989,QC01,Required fields present,High,8113693609,,17.3694184,78.4599005,No missing fields,Missing: name
+DEF-990,QC01,Required fields present,High,8113737937,,17.3639257,78.5264623,No missing fields,Missing: name
+DEF-991,QC01,Required fields present,High,8113779492,,17.3981243,78.5603753,No missing fields,Missing: name
+DEF-992,QC01,Required fields present,High,8113779493,,17.4040197,78.5632497,No missing fields,Missing: name
+DEF-993,QC01,Required fields present,High,8113850347,,17.408172,78.5698635,No missing fields,Missing: name
+DEF-994,QC06,Name formatting,Low,8212636640,HDFC ATM,17.5310526,78.5145339,"Trimmed, not ALL CAPS",'HDFC ATM'
+DEF-995,QC01,Required fields present,High,8233132093,,17.4376777,78.5220997,No missing fields,Missing: name
+DEF-996,QC01,Required fields present,High,8233178132,,17.4687776,78.5452153,No missing fields,Missing: name
+DEF-997,QC01,Required fields present,High,8233701015,,17.3706984,78.5098795,No missing fields,Missing: name
+DEF-998,QC01,Required fields present,High,8236601249,,17.4287806,78.488244,No missing fields,Missing: name
+DEF-999,QC01,Required fields present,High,8236632956,,17.4402772,78.4975865,No missing fields,Missing: name
+DEF-1000,QC06,Name formatting,Low,8266512342,DR. RADHAKRISHNA RAO SAGI,17.4961631,78.3971193,"Trimmed, not ALL CAPS",'DR. RADHAKRISHNA RAO SAGI'
+DEF-1001,QC01,Required fields present,High,8269256955,,17.4120387,78.4924657,No missing fields,Missing: name
+DEF-1002,QC01,Required fields present,High,8269256956,,17.4117994,78.492461,No missing fields,Missing: name
+DEF-1003,QC01,Required fields present,High,8269256957,,17.4118621,78.4925153,No missing fields,Missing: name
+DEF-1004,QC01,Required fields present,High,8349937775,,17.4736389,78.3099968,No missing fields,Missing: name
+DEF-1005,QC01,Required fields present,High,8386231012,,17.4072205,78.4937376,No missing fields,Missing: name
+DEF-1006,QC01,Required fields present,High,8386455062,,17.428182,78.5334413,No missing fields,Missing: name
+DEF-1007,QC01,Required fields present,High,8386458302,,17.4959268,78.465963,No missing fields,Missing: name
+DEF-1008,QC01,Required fields present,High,8386525202,,17.4971052,78.4628956,No missing fields,Missing: name
+DEF-1009,QC01,Required fields present,High,8386539547,,17.4930291,78.4635424,No missing fields,Missing: name
+DEF-1010,QC01,Required fields present,High,8386590289,,17.4929116,78.4590455,No missing fields,Missing: name
+DEF-1011,QC01,Required fields present,High,8386624518,,17.4940352,78.4603886,No missing fields,Missing: name
+DEF-1012,QC01,Required fields present,High,8386624519,,17.4935738,78.460984,No missing fields,Missing: name
+DEF-1013,QC01,Required fields present,High,8386630970,,17.4881534,78.4607051,No missing fields,Missing: name
+DEF-1014,QC01,Required fields present,High,8386679667,,17.3318668,78.5372826,No missing fields,Missing: name
+DEF-1015,QC01,Required fields present,High,8386742634,,17.4749559,78.3889356,No missing fields,Missing: name
+DEF-1016,QC01,Required fields present,High,8386742635,,17.4735257,78.3882079,No missing fields,Missing: name
+DEF-1017,QC01,Required fields present,High,8386817062,,17.4085395,78.4633131,No missing fields,Missing: name
+DEF-1018,QC01,Required fields present,High,8386852301,,17.3453898,78.5316284,No missing fields,Missing: name
+DEF-1019,QC01,Required fields present,High,8386852302,,17.345712,78.5316133,No missing fields,Missing: name
+DEF-1020,QC01,Required fields present,High,8387021471,,17.4075909,78.4944944,No missing fields,Missing: name
+DEF-1021,QC01,Required fields present,High,8387155205,,17.3378172,78.5317666,No missing fields,Missing: name
+DEF-1022,QC01,Required fields present,High,8387157864,,17.4045513,78.5149239,No missing fields,Missing: name
+DEF-1023,QC01,Required fields present,High,8387157885,,17.4236748,78.5445263,No missing fields,Missing: name
+DEF-1024,QC01,Required fields present,High,8387157891,,17.4254631,78.5426616,No missing fields,Missing: name
+DEF-1025,QC01,Required fields present,High,8419475149,,17.4736405,78.3100488,No missing fields,Missing: name
+DEF-1026,QC06,Name formatting,Low,8514798391,GHMC ANNAPURNA FOOD CENTER,17.3974899,78.5121368,"Trimmed, not ALL CAPS",'GHMC ANNAPURNA FOOD CENTER'
+DEF-1027,QC06,Name formatting,Low,8514821417,GHMC ANNAPURNA CENTER,17.4090002,78.5088644,"Trimmed, not ALL CAPS",'GHMC ANNAPURNA CENTER'
+DEF-1028,QC01,Required fields present,High,8651547291,,17.394769,78.3949457,No missing fields,Missing: name
+DEF-1029,QC01,Required fields present,High,8710576201,,17.4313719,78.431308,No missing fields,Missing: name
+DEF-1030,QC01,Required fields present,High,8710576202,,17.4317084,78.430734,No missing fields,Missing: name
+DEF-1031,QC06,Name formatting,Low,8778800284,SBI ATM,17.405147,78.5635784,"Trimmed, not ALL CAPS",'SBI ATM'
+DEF-1032,QC01,Required fields present,High,8909248533,,17.4466175,78.432248,No missing fields,Missing: name
+DEF-1033,QC01,Required fields present,High,8935059985,,17.4401414,78.5128765,No missing fields,Missing: name
+DEF-1034,QC01,Required fields present,High,8935059986,,17.4401588,78.5130011,No missing fields,Missing: name
+DEF-1035,QC01,Required fields present,High,8935145523,,17.4388806,78.509485,No missing fields,Missing: name
+DEF-1036,QC06,Name formatting,Low,8941597911,KL HEALTH CENTRE CLINIC,17.4410576,78.4492145,"Trimmed, not ALL CAPS",'KL HEALTH CENTRE CLINIC'
+DEF-1037,QC01,Required fields present,High,8978145142,,17.3623818,78.4801037,No missing fields,Missing: name
+DEF-1038,QC01,Required fields present,High,8987904938,,17.3900069,78.4999001,No missing fields,Missing: name
+DEF-1039,QC01,Required fields present,High,9034771276,,17.4082355,78.5530152,No missing fields,Missing: name
+DEF-1040,QC01,Required fields present,High,9034953268,,17.4092904,78.5536369,No missing fields,Missing: name
+DEF-1041,QC01,Required fields present,High,9035013417,,17.4143811,78.5491173,No missing fields,Missing: name
+DEF-1042,QC01,Required fields present,High,9360929365,,17.4722547,78.5502032,No missing fields,Missing: name
+DEF-1043,QC01,Required fields present,High,9369819269,,17.4661203,78.5623559,No missing fields,Missing: name
+DEF-1044,QC01,Required fields present,High,9369853856,,17.453025,78.3986574,No missing fields,Missing: name
+DEF-1045,QC01,Required fields present,High,9369907790,,17.4529675,78.3987973,No missing fields,Missing: name
+DEF-1046,QC01,Required fields present,High,9391261140,,17.4274216,78.5517653,No missing fields,Missing: name
+DEF-1047,QC01,Required fields present,High,9510642558,,17.4734235,78.3120298,No missing fields,Missing: name
+DEF-1048,QC01,Required fields present,High,9510642574,,17.4741886,78.3099813,No missing fields,Missing: name
+DEF-1049,QC01,Required fields present,High,9510642579,,17.473236,78.3097175,No missing fields,Missing: name
+DEF-1050,QC01,Required fields present,High,9512781524,,17.4309523,78.3735427,No missing fields,Missing: name
+DEF-1051,QC01,Required fields present,High,9605300288,,17.477166,78.3167654,No missing fields,Missing: name
+DEF-1052,QC01,Required fields present,High,9611895248,,17.4282949,78.4568453,No missing fields,Missing: name
+DEF-1053,QC01,Required fields present,High,9611895261,,17.4190163,78.4568239,No missing fields,Missing: name
+DEF-1054,QC01,Required fields present,High,9611895277,,17.438001,78.4563763,No missing fields,Missing: name
+DEF-1055,QC01,Required fields present,High,9626752885,,17.4957674,78.3165776,No missing fields,Missing: name
+DEF-1056,QC01,Required fields present,High,9626752901,,17.4905917,78.3299535,No missing fields,Missing: name
+DEF-1057,QC01,Required fields present,High,9627168427,,17.3871943,78.5174387,No missing fields,Missing: name
+DEF-1058,QC01,Required fields present,High,9627168428,,17.3810696,78.5217718,No missing fields,Missing: name
+DEF-1059,QC01,Required fields present,High,9708987465,,17.4390138,78.3323424,No missing fields,Missing: name
+DEF-1060,QC01,Required fields present,High,9729514460,,17.5018342,78.4201827,No missing fields,Missing: name
+DEF-1061,QC01,Required fields present,High,9729518945,,17.5065186,78.4239291,No missing fields,Missing: name
+DEF-1062,QC01,Required fields present,High,9748618937,,17.4333898,78.3988833,No missing fields,Missing: name
+DEF-1063,QC01,Required fields present,High,9821500172,,17.4685454,78.5457308,No missing fields,Missing: name
+DEF-1064,QC01,Required fields present,High,9821720814,,17.5300184,78.515574,No missing fields,Missing: name
+DEF-1065,QC01,Required fields present,High,9821760031,,17.5131429,78.5023071,No missing fields,Missing: name
+DEF-1066,QC01,Required fields present,High,9838650870,,17.3448473,78.5156624,No missing fields,Missing: name
+DEF-1067,QC06,Name formatting,Low,9852600026,PRAANAA PAIN CLINIC,17.3646406,78.4286144,"Trimmed, not ALL CAPS",'PRAANAA PAIN CLINIC'
+DEF-1068,QC01,Required fields present,High,9885051454,,17.3772204,78.487672,No missing fields,Missing: name
+DEF-1069,QC01,Required fields present,High,9885051455,,17.3758779,78.4882815,No missing fields,Missing: name
+DEF-1070,QC01,Required fields present,High,9887230605,,17.4997472,78.3895768,No missing fields,Missing: name
+DEF-1071,QC01,Required fields present,High,9887230606,,17.503002,78.388311,No missing fields,Missing: name
+DEF-1072,QC01,Required fields present,High,9887230612,,17.5061866,78.38658,No missing fields,Missing: name
+DEF-1073,QC01,Required fields present,High,9903766096,,17.5193215,78.4350837,No missing fields,Missing: name
+DEF-1074,QC01,Required fields present,High,9903872414,,17.5127323,78.4255011,No missing fields,Missing: name
+DEF-1075,QC01,Required fields present,High,9903887133,,17.5134257,78.4258424,No missing fields,Missing: name
+DEF-1076,QC01,Required fields present,High,9903887134,,17.5135662,78.4260851,No missing fields,Missing: name
+DEF-1077,QC01,Required fields present,High,9903887136,,17.5136466,78.426097,No missing fields,Missing: name
+DEF-1078,QC01,Required fields present,High,9903887140,,17.5129136,78.4255857,No missing fields,Missing: name
+DEF-1079,QC01,Required fields present,High,9903887146,,17.5148193,78.4266715,No missing fields,Missing: name
+DEF-1080,QC01,Required fields present,High,9903887149,,17.5155509,78.4273102,No missing fields,Missing: name
+DEF-1081,QC01,Required fields present,High,9903887156,,17.5152484,78.4261922,No missing fields,Missing: name
+DEF-1082,QC01,Required fields present,High,9903904323,,17.4946522,78.3993371,No missing fields,Missing: name
+DEF-1083,QC01,Required fields present,High,9903919145,,17.4227725,78.5168717,No missing fields,Missing: name
+DEF-1084,QC01,Required fields present,High,9903919146,,17.4235248,78.5183839,No missing fields,Missing: name
+DEF-1085,QC01,Required fields present,High,9903919151,,17.4287042,78.5182344,No missing fields,Missing: name
+DEF-1086,QC01,Required fields present,High,9903919153,,17.422404,78.5166259,No missing fields,Missing: name
+DEF-1087,QC01,Required fields present,High,9913821063,,17.3787846,78.4373588,No missing fields,Missing: name
+DEF-1088,QC01,Required fields present,High,9913821077,,17.382404,78.4389551,No missing fields,Missing: name
+DEF-1089,QC01,Required fields present,High,9913821102,,17.3756318,78.4444525,No missing fields,Missing: name
+DEF-1090,QC01,Required fields present,High,9918495802,,17.5095537,78.4275315,No missing fields,Missing: name
+DEF-1091,QC01,Required fields present,High,9918503018,,17.5155485,78.426809,No missing fields,Missing: name
+DEF-1092,QC01,Required fields present,High,9918503019,,17.5155383,78.4268799,No missing fields,Missing: name
+DEF-1093,QC01,Required fields present,High,9918503021,,17.515219,78.4263773,No missing fields,Missing: name
+DEF-1094,QC01,Required fields present,High,9918846043,,17.5220053,78.4288878,No missing fields,Missing: name
+DEF-1095,QC01,Required fields present,High,9918958837,,17.516253,78.437048,No missing fields,Missing: name
+DEF-1096,QC01,Required fields present,High,9918958838,,17.515726,78.4367883,No missing fields,Missing: name
+DEF-1097,QC01,Required fields present,High,9923881296,,17.5038832,78.4480985,No missing fields,Missing: name
+DEF-1098,QC01,Required fields present,High,9923881297,,17.514846,78.4350214,No missing fields,Missing: name
+DEF-1099,QC01,Required fields present,High,9926117006,,17.4590229,78.307608,No missing fields,Missing: name
+DEF-1100,QC01,Required fields present,High,9961457554,,17.3211824,78.3985162,No missing fields,Missing: name
+DEF-1101,QC01,Required fields present,High,10060110482,,17.4056007,78.4696327,No missing fields,Missing: name
+DEF-1102,QC01,Required fields present,High,10062747102,,17.4734023,78.3110067,No missing fields,Missing: name
+DEF-1103,QC01,Required fields present,High,10062747112,,17.4736426,78.310131,No missing fields,Missing: name
+DEF-1104,QC01,Required fields present,High,10087129781,,17.3709617,78.5003963,No missing fields,Missing: name
+DEF-1105,QC01,Required fields present,High,10087141623,,17.3707704,78.5006565,No missing fields,Missing: name
+DEF-1106,QC01,Required fields present,High,10087180581,,17.3634691,78.5031654,No missing fields,Missing: name
+DEF-1107,QC01,Required fields present,High,10087194824,,17.3676364,78.5052,No missing fields,Missing: name
+DEF-1108,QC01,Required fields present,High,10113474517,,17.4756889,78.3623182,No missing fields,Missing: name
+DEF-1109,QC01,Required fields present,High,10150942412,,17.4619676,78.356004,No missing fields,Missing: name
+DEF-1110,QC01,Required fields present,High,10150942414,,17.4605484,78.3547514,No missing fields,Missing: name
+DEF-1111,QC01,Required fields present,High,10150942416,,17.4603438,78.3545874,No missing fields,Missing: name
+DEF-1112,QC01,Required fields present,High,10171040905,,17.3272568,78.5542394,No missing fields,Missing: name
+DEF-1113,QC01,Required fields present,High,10171328870,,17.4512083,78.3939697,No missing fields,Missing: name
+DEF-1114,QC01,Required fields present,High,10171342020,,17.4430158,78.3916139,No missing fields,Missing: name
+DEF-1115,QC06,Name formatting,Low,10171342021,HDFC ATM,17.4454861,78.3922374,"Trimmed, not ALL CAPS",'HDFC ATM'
+DEF-1116,QC06,Name formatting,Low,10185315897,GANESH  TEMPLE,17.3847833,78.5576159,"Trimmed, not ALL CAPS",'GANESH  TEMPLE'
+DEF-1117,QC06,Name formatting,Low,10185564429,HDFC BANK,17.4928463,78.4027885,"Trimmed, not ALL CAPS",'HDFC BANK'
+DEF-1118,QC06,Name formatting,Low,10262078608,REDDY'S KITCHEN,17.4506922,78.5332087,"Trimmed, not ALL CAPS","""REDDY'S KITCHEN"""
+DEF-1119,QC06,Name formatting,Low,10262083109,JAAGRUTHI DEGREE COLLEGE,17.4490197,78.5355881,"Trimmed, not ALL CAPS",'JAAGRUTHI DEGREE COLLEGE'
+DEF-1120,QC06,Name formatting,Low,10262083110,ASRA MASJID,17.4492651,78.5370082,"Trimmed, not ALL CAPS",'ASRA MASJID'
+DEF-1121,QC06,Name formatting,Low,10262083190,SATYA NARAYANA CAFE,17.4469498,78.5328389,"Trimmed, not ALL CAPS",'SATYA NARAYANA CAFE'
+DEF-1122,QC01,Required fields present,High,10262083191,,17.4427359,78.5275311,No missing fields,Missing: name
+DEF-1123,QC06,Name formatting,Low,10262083192,ABU BAKAR MASJID,17.4510809,78.5248079,"Trimmed, not ALL CAPS",'ABU BAKAR MASJID'
+DEF-1124,QC01,Required fields present,High,10277755873,,17.4628046,78.5619053,No missing fields,Missing: name
+DEF-1125,QC01,Required fields present,High,10277927483,,17.4386083,78.542036,No missing fields,Missing: name
+DEF-1126,QC06,Name formatting,Low,10277946533,HDFC ATM,17.404037,78.5632523,"Trimmed, not ALL CAPS",'HDFC ATM'
+DEF-1127,QC01,Required fields present,High,10279266085,,17.4239223,78.4551095,No missing fields,Missing: name
+DEF-1128,QC01,Required fields present,High,10279460617,,17.4663296,78.5626889,No missing fields,Missing: name
+DEF-1129,QC01,Required fields present,High,10279481534,,17.3607193,78.4408817,No missing fields,Missing: name
+DEF-1130,QC01,Required fields present,High,10279507156,,17.4521633,78.5638715,No missing fields,Missing: name
+DEF-1131,QC01,Required fields present,High,10279507189,,17.4569049,78.5644366,No missing fields,Missing: name
+DEF-1132,QC01,Required fields present,High,10279507194,,17.4679641,78.5640739,No missing fields,Missing: name
+DEF-1133,QC01,Required fields present,High,10279507195,,17.4676475,78.5640048,No missing fields,Missing: name
+DEF-1134,QC01,Required fields present,High,10279507196,,17.4676139,78.5641918,No missing fields,Missing: name
+DEF-1135,QC01,Required fields present,High,10279507197,,17.4678588,78.5643528,No missing fields,Missing: name
+DEF-1136,QC01,Required fields present,High,10279582818,,17.4355966,78.445145,No missing fields,Missing: name
+DEF-1137,QC01,Required fields present,High,10279599973,,17.3372855,78.5363449,No missing fields,Missing: name
+DEF-1138,QC01,Required fields present,High,10279635962,,17.3678395,78.5276888,No missing fields,Missing: name
+DEF-1139,QC06,Name formatting,Low,10279697184,SBI ATM,17.3395566,78.5642022,"Trimmed, not ALL CAPS",'SBI ATM'
+DEF-1140,QC01,Required fields present,High,10279859238,,17.3340553,78.5692774,No missing fields,Missing: name
+DEF-1141,QC01,Required fields present,High,10279859248,,17.3327894,78.5694841,No missing fields,Missing: name
+DEF-1142,QC01,Required fields present,High,10279859269,,17.3297418,78.568967,No missing fields,Missing: name
+DEF-1143,QC01,Required fields present,High,10279877055,,17.3034292,78.4390539,No missing fields,Missing: name
+DEF-1144,QC01,Required fields present,High,10280090374,,17.3129738,78.4401346,No missing fields,Missing: name
+DEF-1145,QC01,Required fields present,High,10280090376,,17.3129548,78.4400891,No missing fields,Missing: name
+DEF-1146,QC01,Required fields present,High,10300324818,,17.4069087,78.4516766,No missing fields,Missing: name
+DEF-1147,QC01,Required fields present,High,10593539508,,17.3738483,78.5207132,No missing fields,Missing: name
+DEF-1148,QC01,Required fields present,High,10718148980,,17.441697,78.3767181,No missing fields,Missing: name
+DEF-1149,QC01,Required fields present,High,10718148981,,17.4414842,78.3766423,No missing fields,Missing: name
+DEF-1150,QC01,Required fields present,High,10764939285,,17.3753853,78.448572,No missing fields,Missing: name
+DEF-1151,QC01,Required fields present,High,10764943812,,17.3742368,78.4507349,No missing fields,Missing: name
+DEF-1152,QC06,Name formatting,Low,10796197655,LEGEND'S FOOD COURT,17.4545044,78.4164006,"Trimmed, not ALL CAPS","""LEGEND'S FOOD COURT"""
+DEF-1153,QC01,Required fields present,High,10809856195,,17.3701749,78.5578875,No missing fields,Missing: name
+DEF-1154,QC01,Required fields present,High,10810621543,,17.3584309,78.5569961,No missing fields,Missing: name
+DEF-1155,QC01,Required fields present,High,10817244976,,17.362556,78.5224832,No missing fields,Missing: name
+DEF-1156,QC01,Required fields present,High,10818869398,,17.4003716,78.5648985,No missing fields,Missing: name
+DEF-1157,QC01,Required fields present,High,10821098248,,17.3478947,78.5529445,No missing fields,Missing: name
+DEF-1158,QC01,Required fields present,High,10821098277,,17.3530525,78.5570121,No missing fields,Missing: name
+DEF-1159,QC01,Required fields present,High,10821098279,,17.3531653,78.5580356,No missing fields,Missing: name
+DEF-1160,QC01,Required fields present,High,10821172617,,17.3439816,78.5558386,No missing fields,Missing: name
+DEF-1161,QC01,Required fields present,High,10823515035,,17.3540976,78.5570138,No missing fields,Missing: name
+DEF-1162,QC01,Required fields present,High,10823515049,,17.3550826,78.5574399,No missing fields,Missing: name
+DEF-1163,QC01,Required fields present,High,10836262037,,17.3747351,78.4357329,No missing fields,Missing: name
+DEF-1164,QC01,Required fields present,High,10845803042,,17.401143,78.5663173,No missing fields,Missing: name
+DEF-1165,QC01,Required fields present,High,10897870734,,17.4005921,78.5658835,No missing fields,Missing: name
+DEF-1166,QC01,Required fields present,High,10898562839,,17.4018015,78.5457581,No missing fields,Missing: name
+DEF-1167,QC01,Required fields present,High,10898562903,,17.400154,78.5405264,No missing fields,Missing: name
+DEF-1168,QC01,Required fields present,High,10898632105,,17.3986502,78.5605439,No missing fields,Missing: name
+DEF-1169,QC01,Required fields present,High,10898632107,,17.3966488,78.5304191,No missing fields,Missing: name
+DEF-1170,QC01,Required fields present,High,10898632108,,17.3958727,78.5299416,No missing fields,Missing: name
+DEF-1171,QC01,Required fields present,High,10898632145,,17.3946768,78.5381113,No missing fields,Missing: name
+DEF-1172,QC01,Required fields present,High,10898632146,,17.3905078,78.5483404,No missing fields,Missing: name
+DEF-1173,QC01,Required fields present,High,10898632160,,17.4012905,78.56325,No missing fields,Missing: name
+DEF-1174,QC01,Required fields present,High,10903261753,,17.3307429,78.574358,No missing fields,Missing: name
+DEF-1175,QC01,Required fields present,High,10947831505,,17.4146048,78.4172516,No missing fields,Missing: name
+DEF-1176,QC01,Required fields present,High,10960953241,,17.4449345,78.3319504,No missing fields,Missing: name
+DEF-1177,QC01,Required fields present,High,10970003770,,17.3923182,78.4624848,No missing fields,Missing: name
+DEF-1178,QC06,Name formatting,Low,10992500529,"TSRTC BUS DEPOT , MEHADIPATANM",17.3922572,78.4405896,"Trimmed, not ALL CAPS","'TSRTC BUS DEPOT , MEHADIPATANM'"
+DEF-1179,QC06,Name formatting,Low,10992500542,"TSRTC WORKSHOP , RTC X ROADS",17.4063252,78.5001204,"Trimmed, not ALL CAPS","'TSRTC WORKSHOP , RTC X ROADS'"
+DEF-1180,QC01,Required fields present,High,10992500544,,17.4077647,78.5018495,No missing fields,Missing: name
+DEF-1181,QC01,Required fields present,High,10992500546,,17.4340378,78.506033,No missing fields,Missing: name
+DEF-1182,QC06,Name formatting,Low,10992500569,VIDYANAGAR BUS STOP,17.4043212,78.5102865,"Trimmed, not ALL CAPS",'VIDYANAGAR BUS STOP'
+DEF-1183,QC06,Name formatting,Low,10992500570,VIDYANAGAR BUS STOP,17.4043258,78.5104757,"Trimmed, not ALL CAPS",'VIDYANAGAR BUS STOP'
+DEF-1184,QC06,Name formatting,Low,10992518094,"TSRTC BUS STAND , N.G.O""S COLONY",17.3249083,78.5664619,"Trimmed, not ALL CAPS","'TSRTC BUS STAND , N.G.O""S COLONY'"
+DEF-1185,QC06,Name formatting,Low,10992584213,"TSRTC BUS DEPOT, MIYAPUR 1",17.5133615,78.3599756,"Trimmed, not ALL CAPS","'TSRTC BUS DEPOT, MIYAPUR 1'"
+DEF-1186,QC06,Name formatting,Low,10992584230,"APSRTC BUS DEPOT PARKING AREA , RAMACHANDRAPURAM",17.5168229,78.2890592,"Trimmed, not ALL CAPS","'APSRTC BUS DEPOT PARKING AREA , RAMACHANDRAPURAM'"
+DEF-1187,QC06,Name formatting,Low,11001544010,AREA HOSPITAL MALKAJGIRI,17.4504805,78.5321201,"Trimmed, not ALL CAPS",'AREA HOSPITAL MALKAJGIRI'
+DEF-1188,QC06,Name formatting,Low,11004256842,PAIMAVATI-PET QABRASTAAN,17.327737,78.4181526,"Trimmed, not ALL CAPS",'PAIMAVATI-PET QABRASTAAN'
+DEF-1189,QC06,Name formatting,Low,11005951281,CHC KHAIRATABAD,17.4448127,78.4219109,"Trimmed, not ALL CAPS",'CHC KHAIRATABAD'
+DEF-1190,QC06,Name formatting,Low,11018964778,BDK PRIMARY SCHOOL BOMBAY COLONY GHMC RC PURAM,17.5071688,78.2893132,"Trimmed, not ALL CAPS",'BDK PRIMARY SCHOOL BOMBAY COLONY GHMC RC PURAM'
+DEF-1191,QC06,Name formatting,Low,11018980348,BDK COMMUNITY HALL BHARATHI NAGAR GHMC RC PURAM,17.5040685,78.2884495,"Trimmed, not ALL CAPS",'BDK COMMUNITY HALL BHARATHI NAGAR GHMC RC PURAM'
+DEF-1192,QC01,Required fields present,High,11027534565,,17.4304735,78.4483917,No missing fields,Missing: name
+DEF-1193,QC01,Required fields present,High,11028219397,,17.3639917,78.49631,No missing fields,Missing: name
+DEF-1194,QC01,Required fields present,High,11034016463,,17.4470335,78.3686455,No missing fields,Missing: name
+DEF-1195,QC01,Required fields present,High,11082388022,,17.3918785,78.516477,No missing fields,Missing: name
+DEF-1196,QC01,Required fields present,High,11082388028,,17.3911969,78.5165733,No missing fields,Missing: name
+DEF-1197,QC01,Required fields present,High,11082594144,,17.3843721,78.5176892,No missing fields,Missing: name
+DEF-1198,QC01,Required fields present,High,11082995784,,17.3700961,78.5146933,No missing fields,Missing: name
+DEF-1199,QC01,Required fields present,High,11084918134,,17.453921,78.4173819,No missing fields,Missing: name
+DEF-1200,QC01,Required fields present,High,11084918138,,17.4542125,78.4106443,No missing fields,Missing: name
+DEF-1201,QC01,Required fields present,High,11098927605,,17.3934768,78.536874,No missing fields,Missing: name
+DEF-1202,QC01,Required fields present,High,11143600330,,17.365622,78.5384152,No missing fields,Missing: name
+DEF-1203,QC01,Required fields present,High,11147497891,,17.4847906,78.5609159,No missing fields,Missing: name
+DEF-1204,QC01,Required fields present,High,11147530967,,17.4859772,78.5525889,No missing fields,Missing: name
+DEF-1205,QC01,Required fields present,High,11147615797,,17.4828356,78.5519765,No missing fields,Missing: name
+DEF-1206,QC01,Required fields present,High,11147825489,,17.4012214,78.5691762,No missing fields,Missing: name
+DEF-1207,QC01,Required fields present,High,11147828724,,17.3868995,78.5486171,No missing fields,Missing: name
+DEF-1208,QC01,Required fields present,High,11147829800,,17.4930761,78.3933589,No missing fields,Missing: name
+DEF-1209,QC01,Required fields present,High,11147848986,,17.5008466,78.3124186,No missing fields,Missing: name
+DEF-1210,QC01,Required fields present,High,11147857258,,17.4008628,78.5803972,No missing fields,Missing: name
+DEF-1211,QC01,Required fields present,High,11147858496,,17.4018943,78.5716431,No missing fields,Missing: name
+DEF-1212,QC01,Required fields present,High,11147862639,,17.4957835,78.3954992,No missing fields,Missing: name
+DEF-1213,QC01,Required fields present,High,11147866013,,17.4018104,78.5761955,No missing fields,Missing: name
+DEF-1214,QC01,Required fields present,High,11147869894,,17.3918454,78.5593109,No missing fields,Missing: name
+DEF-1215,QC01,Required fields present,High,11147871539,,17.4019812,78.5737853,No missing fields,Missing: name
+DEF-1216,QC01,Required fields present,High,11147873650,,17.4943114,78.316762,No missing fields,Missing: name
+DEF-1217,QC01,Required fields present,High,11147890094,,17.4017321,78.5633242,No missing fields,Missing: name
+DEF-1218,QC01,Required fields present,High,11147894997,,17.4898503,78.3930313,No missing fields,Missing: name
+DEF-1219,QC01,Required fields present,High,11147898683,,17.4860457,78.3927757,No missing fields,Missing: name
+DEF-1220,QC01,Required fields present,High,11147902325,,17.4957613,78.3165218,No missing fields,Missing: name
+DEF-1221,QC01,Required fields present,High,11147903862,,17.3920661,78.5599239,No missing fields,Missing: name
+DEF-1222,QC01,Required fields present,High,11147904196,,17.4951278,78.3150614,No missing fields,Missing: name
+DEF-1223,QC01,Required fields present,High,11147907915,,17.4915034,78.3935421,No missing fields,Missing: name
+DEF-1224,QC01,Required fields present,High,11147909047,,17.5093942,78.3003009,No missing fields,Missing: name
+DEF-1225,QC01,Required fields present,High,11147912931,,17.4859839,78.3922616,No missing fields,Missing: name
+DEF-1226,QC01,Required fields present,High,11147914329,,17.4930648,78.3941332,No missing fields,Missing: name
+DEF-1227,QC01,Required fields present,High,11147918025,,17.4851188,78.3908388,No missing fields,Missing: name
+DEF-1228,QC01,Required fields present,High,11171379742,,17.401821,78.4579093,No missing fields,Missing: name
+DEF-1229,QC01,Required fields present,High,11358156637,,17.4986355,78.3884539,No missing fields,Missing: name
+DEF-1230,QC01,Required fields present,High,11361071834,,17.4943164,78.3839671,No missing fields,Missing: name
+DEF-1231,QC06,Name formatting,Low,11361156221,SUSHMA TEA POINT,17.4927364,78.3843766,"Trimmed, not ALL CAPS",'SUSHMA TEA POINT'
+DEF-1232,QC01,Required fields present,High,11365536218,,17.337349,78.4680874,No missing fields,Missing: name
+DEF-1233,QC01,Required fields present,High,11383077520,,17.4016054,78.5670768,No missing fields,Missing: name
+DEF-1234,QC01,Required fields present,High,11405934845,,17.3582447,78.4466091,No missing fields,Missing: name
+DEF-1235,QC01,Required fields present,High,11477759729,,17.5283481,78.422208,No missing fields,Missing: name
+DEF-1236,QC01,Required fields present,High,11484345759,,17.4842858,78.3564669,No missing fields,Missing: name
+DEF-1237,QC01,Required fields present,High,11484467181,,17.3430984,78.5520641,No missing fields,Missing: name
+DEF-1238,QC01,Required fields present,High,11690240933,,17.4892824,78.4508661,No missing fields,Missing: name
+DEF-1239,QC01,Required fields present,High,11690257758,,17.4893182,78.4503826,No missing fields,Missing: name
+DEF-1240,QC01,Required fields present,High,11690468633,,17.3144316,78.6004982,No missing fields,Missing: name
+DEF-1241,QC01,Required fields present,High,11690468636,,17.3145471,78.600648,No missing fields,Missing: name
+DEF-1242,QC01,Required fields present,High,11690468802,,17.3180653,78.5981505,No missing fields,Missing: name
+DEF-1243,QC01,Required fields present,High,11690468803,,17.318053,78.5975463,No missing fields,Missing: name
+DEF-1244,QC06,Name formatting,Low,11691037513,ARUN ICE CREAMS,17.4731132,78.55068,"Trimmed, not ALL CAPS",'ARUN ICE CREAMS'
+DEF-1245,QC01,Required fields present,High,11691155564,,17.4755912,78.5514425,No missing fields,Missing: name
+DEF-1246,QC01,Required fields present,High,11696678836,,17.3616434,78.5440854,No missing fields,Missing: name
+DEF-1247,QC01,Required fields present,High,11697419598,,17.4759181,78.5516582,No missing fields,Missing: name
+DEF-1248,QC01,Required fields present,High,11697426346,,17.4757717,78.5515015,No missing fields,Missing: name
+DEF-1249,QC01,Required fields present,High,11697432581,,17.4757799,78.5520219,No missing fields,Missing: name
+DEF-1250,QC01,Required fields present,High,11707132469,,17.4555841,78.4367886,No missing fields,Missing: name
+DEF-1251,QC06,Name formatting,Low,11736376200,STATE BANK OF INDIA,17.4943293,78.3939075,"Trimmed, not ALL CAPS",'STATE BANK OF INDIA'
+DEF-1252,QC01,Required fields present,High,11736392871,,17.4913591,78.3910857,No missing fields,Missing: name
+DEF-1253,QC01,Required fields present,High,11736395788,,17.4964362,78.3924671,No missing fields,Missing: name
+DEF-1254,QC01,Required fields present,High,11736396273,,17.4957574,78.3950685,No missing fields,Missing: name
+DEF-1255,QC06,Name formatting,Low,11736396274,ZUDIO,17.4954693,78.3949763,"Trimmed, not ALL CAPS",'ZUDIO'
+DEF-1256,QC01,Required fields present,High,11736396275,,17.4948333,78.3946942,No missing fields,Missing: name
+DEF-1257,QC01,Required fields present,High,11736398312,,17.4956808,78.3929219,No missing fields,Missing: name
+DEF-1258,QC06,Name formatting,Low,11736399515,JNTU ENGINEERING WORKSHOP,17.4939894,78.3910766,"Trimmed, not ALL CAPS",'JNTU ENGINEERING WORKSHOP'
+DEF-1259,QC01,Required fields present,High,11736410873,,17.4955402,78.3914804,No missing fields,Missing: name
+DEF-1260,QC06,Name formatting,Low,11747882232,HSBC,17.4282437,78.4569078,"Trimmed, not ALL CAPS",'HSBC'
+DEF-1261,QC01,Required fields present,High,11770993382,,17.4518961,78.379971,No missing fields,Missing: name
+DEF-1262,QC01,Required fields present,High,11773916559,,17.4925386,78.4055862,No missing fields,Missing: name
+DEF-1263,QC01,Required fields present,High,11774401370,,17.4682514,78.4283004,No missing fields,Missing: name
+DEF-1264,QC01,Required fields present,High,11873403769,,17.4204784,78.5092283,No missing fields,Missing: name
+DEF-1265,QC01,Required fields present,High,11888895469,,17.4436873,78.3585138,No missing fields,Missing: name
+DEF-1266,QC01,Required fields present,High,11893656126,,17.435346,78.3739337,No missing fields,Missing: name
+DEF-1267,QC01,Required fields present,High,11919430610,,17.3165216,78.5764379,No missing fields,Missing: name
+DEF-1268,QC06,Name formatting,Low,11925953631,D.K.GOVT. HOMOEO HOSPITAL,17.3841667,78.4562354,"Trimmed, not ALL CAPS",'D.K.GOVT. HOMOEO HOSPITAL'
+DEF-1269,QC06,Name formatting,Low,11942732815,ALLURISITARAMA RAJU NAGAR,17.3806211,78.4348024,"Trimmed, not ALL CAPS",'ALLURISITARAMA RAJU NAGAR'
+DEF-1270,QC06,Name formatting,Low,11959668774,ACHAIAH NAGAR-I,17.4009962,78.5013337,"Trimmed, not ALL CAPS",'ACHAIAH NAGAR-I'
+DEF-1271,QC06,Name formatting,Low,11961245457,MARTHANDA NAGAR I,17.4749381,78.3577028,"Trimmed, not ALL CAPS",'MARTHANDA NAGAR I'
+DEF-1272,QC06,Name formatting,Low,11961432931,BIRYANISHA TEKDI-I,17.3420245,78.4596066,"Trimmed, not ALL CAPS",'BIRYANISHA TEKDI-I'
+DEF-1273,QC06,Name formatting,Low,11964038893,SHAHEED NAGAR - I,17.3818026,78.4456092,"Trimmed, not ALL CAPS",'SHAHEED NAGAR - I'
+DEF-1274,QC06,Name formatting,Low,11964077212,SARVER NAGAR,17.3786047,78.4482998,"Trimmed, not ALL CAPS",'SARVER NAGAR'
+DEF-1275,QC06,Name formatting,Low,11965041638,K S NAGAR - II,17.3650914,78.4488189,"Trimmed, not ALL CAPS",'K S NAGAR - II'
+DEF-1276,QC06,Name formatting,Low,11968421535,SRIRAM NAGAR  - II,17.3904113,78.4345803,"Trimmed, not ALL CAPS",'SRIRAM NAGAR  - II'
+DEF-1277,QC06,Name formatting,Low,11971348959,DINDAR ANJUMAN,17.3928391,78.4496462,"Trimmed, not ALL CAPS",'DINDAR ANJUMAN'
+DEF-1278,QC06,Name formatting,Low,11972796316,IMAMPURA - II,17.3707947,78.4474951,"Trimmed, not ALL CAPS",'IMAMPURA - II'
+DEF-1279,QC06,Name formatting,Low,11973545657,BIRYANISHA TEKDI-II,17.3434967,78.4602034,"Trimmed, not ALL CAPS",'BIRYANISHA TEKDI-II'
+DEF-1280,QC06,Name formatting,Low,11980076168,AFZAL SAGAR - III,17.3893401,78.4593034,"Trimmed, not ALL CAPS",'AFZAL SAGAR - III'
+DEF-1281,QC06,Name formatting,Low,11980400708,BABBU GUDA-II,17.4599067,78.4216964,"Trimmed, not ALL CAPS",'BABBU GUDA-II'
+DEF-1282,QC06,Name formatting,Low,11982317491,SAI DURGA NAGAR,17.3657279,78.4541047,"Trimmed, not ALL CAPS",'SAI DURGA NAGAR'
+DEF-1283,QC06,Name formatting,Low,11982368611,OWAISI PURA,17.4025073,78.4467159,"Trimmed, not ALL CAPS",'OWAISI PURA'
+DEF-1284,QC06,Name formatting,Low,11989600660,SHIVAJI NAGAR - II,17.3941043,78.4329077,"Trimmed, not ALL CAPS",'SHIVAJI NAGAR - II'
+DEF-1285,QC06,Name formatting,Low,11991744424,SAYED ALI GUDA,17.3853074,78.4448035,"Trimmed, not ALL CAPS",'SAYED ALI GUDA'
+DEF-1286,QC06,Name formatting,Low,11993218934,ZIRRA - III,17.3811277,78.4510969,"Trimmed, not ALL CAPS",'ZIRRA - III'
+DEF-1287,QC06,Name formatting,Low,11994824196,VIVEKANANDA NAGAR,17.3884076,78.4364181,"Trimmed, not ALL CAPS",'VIVEKANANDA NAGAR'
+DEF-1288,QC06,Name formatting,Low,11997958507,ACHAIAH NAGAR-II,17.4010041,78.5013198,"Trimmed, not ALL CAPS",'ACHAIAH NAGAR-II'
+DEF-1289,QC01,Required fields present,High,12014388435,,17.394076,78.4383132,No missing fields,Missing: name
+DEF-1290,QC01,Required fields present,High,12237243724,,17.3498846,78.4178335,No missing fields,Missing: name
+DEF-1291,QC01,Required fields present,High,12237618188,,17.4756187,78.3919385,No missing fields,Missing: name
+DEF-1292,QC01,Required fields present,High,12237618192,,17.4736177,78.3935474,No missing fields,Missing: name
+DEF-1293,QC01,Required fields present,High,12237636454,,17.4736778,78.3925019,No missing fields,Missing: name
+DEF-1294,QC01,Required fields present,High,12313998051,,17.3248599,78.4228754,No missing fields,Missing: name
+DEF-1295,QC01,Required fields present,High,12313998055,,17.3243252,78.4235456,No missing fields,Missing: name
+DEF-1296,QC01,Required fields present,High,12313998062,,17.324314,78.4246937,No missing fields,Missing: name
+DEF-1297,QC01,Required fields present,High,12313998068,,17.325815,78.4251254,No missing fields,Missing: name
+DEF-1298,QC01,Required fields present,High,12320386292,,17.4546065,78.301203,No missing fields,Missing: name
+DEF-1299,QC01,Required fields present,High,12320386296,,17.4548208,78.2999709,No missing fields,Missing: name
+DEF-1300,QC01,Required fields present,High,12320478407,,17.455099,78.3007837,No missing fields,Missing: name
+DEF-1301,QC01,Required fields present,High,12320478412,,17.4550838,78.3011622,No missing fields,Missing: name
+DEF-1302,QC01,Required fields present,High,12320478413,,17.4551401,78.3010289,No missing fields,Missing: name
+DEF-1303,QC01,Required fields present,High,12320478421,,17.4560226,78.3009454,No missing fields,Missing: name
+DEF-1304,QC01,Required fields present,High,12320478422,,17.4558945,78.3009039,No missing fields,Missing: name
+DEF-1305,QC01,Required fields present,High,12415632552,,17.4660559,78.4079691,No missing fields,Missing: name
+DEF-1306,QC01,Required fields present,High,12462528085,,17.3913192,78.5101249,No missing fields,Missing: name
+DEF-1307,QC01,Required fields present,High,12483896702,,17.4350246,78.3404213,No missing fields,Missing: name
+DEF-1308,QC01,Required fields present,High,12565848764,,17.3535776,78.4745244,No missing fields,Missing: name
+DEF-1309,QC01,Required fields present,High,12787820043,,17.4900549,78.3970941,No missing fields,Missing: name
+DEF-1310,QC01,Required fields present,High,12852159224,,17.390349,78.5576607,No missing fields,Missing: name
+DEF-1311,QC01,Required fields present,High,12852316674,,17.4141854,78.479909,No missing fields,Missing: name
+DEF-1312,QC01,Required fields present,High,12852366422,,17.3926796,78.5299922,No missing fields,Missing: name
+DEF-1313,QC01,Required fields present,High,12854596325,,17.4182743,78.464585,No missing fields,Missing: name
+DEF-1314,QC01,Required fields present,High,12890289801,,17.4541753,78.4351395,No missing fields,Missing: name
+DEF-1315,QC01,Required fields present,High,12990861171,,17.4943813,78.3499994,No missing fields,Missing: name
+DEF-1316,QC01,Required fields present,High,13036718330,,17.4691654,78.3358458,No missing fields,Missing: name
+DEF-1317,QC01,Required fields present,High,13043476591,,17.4102467,78.470121,No missing fields,Missing: name
+DEF-1318,QC01,Required fields present,High,13043476592,,17.4093321,78.4701339,No missing fields,Missing: name
+DEF-1319,QC01,Required fields present,High,13043476610,,17.4110044,78.4686776,No missing fields,Missing: name
+DEF-1320,QC01,Required fields present,High,13043476620,,17.4110087,78.4690652,No missing fields,Missing: name
+DEF-1321,QC01,Required fields present,High,13043476622,,17.4110168,78.4697812,No missing fields,Missing: name
+DEF-1322,QC01,Required fields present,High,13043476689,,17.4087974,78.4701527,No missing fields,Missing: name
+DEF-1323,QC01,Required fields present,High,13043476691,,17.408797,78.4707141,No missing fields,Missing: name
+DEF-1324,QC01,Required fields present,High,13043476716,,17.4083822,78.4708872,No missing fields,Missing: name
+DEF-1325,QC01,Required fields present,High,13043476718,,17.4083738,78.4699678,No missing fields,Missing: name
+DEF-1326,QC01,Required fields present,High,13043569905,,17.4190309,78.4666675,No missing fields,Missing: name
+DEF-1327,QC01,Required fields present,High,13070226011,,17.5385436,78.5083902,No missing fields,Missing: name
+DEF-1328,QC01,Required fields present,High,13072465610,,17.463316,78.3106243,No missing fields,Missing: name
+DEF-1329,QC01,Required fields present,High,13072465612,,17.462537,78.3109711,No missing fields,Missing: name
+DEF-1330,QC01,Required fields present,High,13072465613,,17.4626127,78.3106367,No missing fields,Missing: name
+DEF-1331,QC01,Required fields present,High,13072465616,,17.4623975,78.3119689,No missing fields,Missing: name
+DEF-1332,QC01,Required fields present,High,13072465621,,17.4630919,78.3118303,No missing fields,Missing: name
+DEF-1333,QC01,Required fields present,High,13072465622,,17.4632189,78.3113332,No missing fields,Missing: name
+DEF-1334,QC01,Required fields present,High,13072465624,,17.4633459,78.3110497,No missing fields,Missing: name
+DEF-1335,QC01,Required fields present,High,13097978677,,17.4661327,78.3132292,No missing fields,Missing: name
+DEF-1336,QC01,Required fields present,High,13097978679,,17.4684229,78.3124355,No missing fields,Missing: name
+DEF-1337,QC01,Required fields present,High,13097978681,,17.4690181,78.3124401,No missing fields,Missing: name
+DEF-1338,QC01,Required fields present,High,13097978683,,17.4690019,78.3112708,No missing fields,Missing: name
+DEF-1339,QC01,Required fields present,High,13097978684,,17.4682252,78.3109995,No missing fields,Missing: name
+DEF-1340,QC01,Required fields present,High,13097995766,,17.4663587,78.3108455,No missing fields,Missing: name
+DEF-1341,QC01,Required fields present,High,13097995769,,17.4663983,78.3108039,No missing fields,Missing: name
+DEF-1342,QC01,Required fields present,High,13097995771,,17.467359,78.3108997,No missing fields,Missing: name
+DEF-1343,QC01,Required fields present,High,13097995773,,17.4669769,78.3108504,No missing fields,Missing: name
+DEF-1344,QC01,Required fields present,High,13097995779,,17.4706108,78.3101477,No missing fields,Missing: name
+DEF-1345,QC01,Required fields present,High,13097995780,,17.4706118,78.3103581,No missing fields,Missing: name
+DEF-1346,QC01,Required fields present,High,13097995783,,17.4700078,78.3114273,No missing fields,Missing: name
+DEF-1347,QC01,Required fields present,High,13097995785,,17.4696103,78.311597,No missing fields,Missing: name
+DEF-1348,QC01,Required fields present,High,13097995787,,17.4696801,78.31166,No missing fields,Missing: name
+DEF-1349,QC01,Required fields present,High,13097995789,,17.4702327,78.312227,No missing fields,Missing: name
+DEF-1350,QC01,Required fields present,High,13098010853,,17.4648375,78.3110631,No missing fields,Missing: name
+DEF-1351,QC01,Required fields present,High,13098010856,,17.4649112,78.3110991,No missing fields,Missing: name
+DEF-1352,QC01,Required fields present,High,13098010859,,17.4644442,78.3107538,No missing fields,Missing: name
+DEF-1353,QC01,Required fields present,High,13098010861,,17.4645103,78.3107114,No missing fields,Missing: name
+DEF-1354,QC01,Required fields present,High,13098010863,,17.4655072,78.3098239,No missing fields,Missing: name
+DEF-1355,QC01,Required fields present,High,13098010866,,17.4653867,78.3097669,No missing fields,Missing: name
+DEF-1356,QC06,Name formatting,Low,13123278412,IGURU,17.4181368,78.3752194,"Trimmed, not ALL CAPS",'IGURU'
+DEF-1357,QC01,Required fields present,High,13131375935,,17.4451149,78.3292136,No missing fields,Missing: name
+DEF-1358,QC01,Required fields present,High,13198392342,,17.4456581,78.3509337,No missing fields,Missing: name
+DEF-1359,QC01,Required fields present,High,13198392348,,17.4452125,78.3506194,No missing fields,Missing: name
+DEF-1360,QC01,Required fields present,High,13198392349,,17.4451983,78.3506233,No missing fields,Missing: name
+DEF-1361,QC01,Required fields present,High,13198392350,,17.4450249,78.3504236,No missing fields,Missing: name
+DEF-1362,QC01,Required fields present,High,13198392351,,17.4450591,78.3504771,No missing fields,Missing: name
+DEF-1363,QC01,Required fields present,High,13198392353,,17.4449412,78.3503899,No missing fields,Missing: name
+DEF-1364,QC01,Required fields present,High,13198392376,,17.4451067,78.3490221,No missing fields,Missing: name
+DEF-1365,QC01,Required fields present,High,13198392378,,17.44523,78.3489495,No missing fields,Missing: name
+DEF-1366,QC01,Required fields present,High,13198392381,,17.447768,78.3484497,No missing fields,Missing: name
+DEF-1367,QC01,Required fields present,High,13198392382,,17.4452558,78.3487838,No missing fields,Missing: name
+DEF-1368,QC01,Required fields present,High,13198392383,,17.4452782,78.3487726,No missing fields,Missing: name
+DEF-1369,QC01,Required fields present,High,13198392389,,17.4460207,78.34882,No missing fields,Missing: name
+DEF-1370,QC01,Required fields present,High,13198392390,,17.4462688,78.3488646,No missing fields,Missing: name
+DEF-1371,QC01,Required fields present,High,13198392391,,17.4462162,78.3489623,No missing fields,Missing: name
+DEF-1372,QC01,Required fields present,High,13198392392,,17.4462238,78.3489629,No missing fields,Missing: name
+DEF-1373,QC01,Required fields present,High,13198392393,,17.4462398,78.3489589,No missing fields,Missing: name
+DEF-1374,QC01,Required fields present,High,13198392395,,17.4466018,78.3493048,No missing fields,Missing: name
+DEF-1375,QC01,Required fields present,High,13198392396,,17.4466084,78.3492851,No missing fields,Missing: name
+DEF-1376,QC01,Required fields present,High,13198392399,,17.4468891,78.3494231,No missing fields,Missing: name
+DEF-1377,QC01,Required fields present,High,13198421301,,17.4469945,78.349321,No missing fields,Missing: name
+DEF-1378,QC01,Required fields present,High,13198421303,,17.4452168,78.3489269,No missing fields,Missing: name
+DEF-1379,QC01,Required fields present,High,13202951502,,17.4154616,78.3396411,No missing fields,Missing: name
+DEF-1380,QC01,Required fields present,High,13202951508,,17.4156089,78.3416756,No missing fields,Missing: name
+DEF-1381,QC01,Required fields present,High,13202951511,,17.4148491,78.3410439,No missing fields,Missing: name
+DEF-1382,QC01,Required fields present,High,13205152529,,17.4479137,78.347718,No missing fields,Missing: name
+DEF-1383,QC01,Required fields present,High,13205152530,,17.4478808,78.3477326,No missing fields,Missing: name
+DEF-1384,QC01,Required fields present,High,13205152531,,17.4478808,78.3477326,No missing fields,Missing: name
+DEF-1385,QC01,Required fields present,High,13205152532,,17.4478589,78.3477152,No missing fields,Missing: name
+DEF-1386,QC01,Required fields present,High,13227600323,,17.3958176,78.4272639,No missing fields,Missing: name
+DEF-1387,QC01,Required fields present,High,13227600327,,17.4115858,78.3960039,No missing fields,Missing: name
+DEF-1388,QC01,Required fields present,High,13227662857,,17.3729,78.4115502,No missing fields,Missing: name
+DEF-1389,QC01,Required fields present,High,13264916828,,17.4168704,78.3417146,No missing fields,Missing: name
+DEF-1390,QC01,Required fields present,High,13264916838,,17.4172355,78.3412806,No missing fields,Missing: name
+DEF-1391,QC01,Required fields present,High,13264916840,,17.4172131,78.3413349,No missing fields,Missing: name
+DEF-1392,QC01,Required fields present,High,13264916842,,17.4174873,78.3407422,No missing fields,Missing: name
+DEF-1393,QC01,Required fields present,High,13264916844,,17.4174642,78.3407878,No missing fields,Missing: name
+DEF-1394,QC01,Required fields present,High,13266418081,,17.4213218,78.3480755,No missing fields,Missing: name
+DEF-1395,QC01,Required fields present,High,13272708200,,17.4187673,78.3413361,No missing fields,Missing: name
+DEF-1396,QC01,Required fields present,High,13272709286,,17.4169011,78.41645,No missing fields,Missing: name
+DEF-1397,QC01,Required fields present,High,13272709585,,17.4186921,78.3410682,No missing fields,Missing: name
+DEF-1398,QC01,Required fields present,High,13272712294,,17.4188682,78.3403875,No missing fields,Missing: name
+DEF-1399,QC01,Required fields present,High,13272712295,,17.4600508,78.3691833,No missing fields,Missing: name
+DEF-1400,QC01,Required fields present,High,13272712343,,17.4181491,78.3421857,No missing fields,Missing: name
+DEF-1401,QC01,Required fields present,High,13272712714,,17.4251441,78.4140332,No missing fields,Missing: name
+DEF-1402,QC01,Required fields present,High,13272712810,,17.460217,78.3692566,No missing fields,Missing: name
+DEF-1403,QC01,Required fields present,High,13272712929,,17.4191283,78.3404859,No missing fields,Missing: name
+DEF-1404,QC01,Required fields present,High,13272713836,,17.4167975,78.4163662,No missing fields,Missing: name
+DEF-1405,QC01,Required fields present,High,13272713999,,17.4187934,78.3427153,No missing fields,Missing: name
+DEF-1406,QC01,Required fields present,High,13272714206,,17.4252847,78.4141375,No missing fields,Missing: name
+DEF-1407,QC01,Required fields present,High,13272714207,,17.4187569,78.3412329,No missing fields,Missing: name
+DEF-1408,QC01,Required fields present,High,13272724501,,17.4187153,78.3412335,No missing fields,Missing: name
+DEF-1409,QC01,Required fields present,High,13273677625,,17.455341,78.3611084,No missing fields,Missing: name
+DEF-1410,QC01,Required fields present,High,13273707554,,17.4581435,78.3578615,No missing fields,Missing: name
+DEF-1411,QC01,Required fields present,High,13273708485,,17.4549978,78.3602578,No missing fields,Missing: name
+DEF-1412,QC01,Required fields present,High,13273708487,,17.4583316,78.355582,No missing fields,Missing: name
+DEF-1413,QC01,Required fields present,High,13273709258,,17.4555786,78.3614104,No missing fields,Missing: name
+DEF-1414,QC01,Required fields present,High,13273719582,,17.3832926,78.399236,No missing fields,Missing: name
+DEF-1415,QC01,Required fields present,High,13273719583,,17.4563851,78.3603676,No missing fields,Missing: name
+DEF-1416,QC01,Required fields present,High,13273719584,,17.4587106,78.3547976,No missing fields,Missing: name
+DEF-1417,QC01,Required fields present,High,13273721760,,17.3836029,78.4002306,No missing fields,Missing: name
+DEF-1418,QC01,Required fields present,High,13273721761,,17.4550968,78.3621943,No missing fields,Missing: name
+DEF-1419,QC01,Required fields present,High,13273724169,,17.4552393,78.3626424,No missing fields,Missing: name
+DEF-1420,QC01,Required fields present,High,13273731538,,17.4588243,78.354782,No missing fields,Missing: name
+DEF-1421,QC01,Required fields present,High,13273731678,,17.4562405,78.3613206,No missing fields,Missing: name
+DEF-1422,QC01,Required fields present,High,13273734778,,17.4559499,78.3627546,No missing fields,Missing: name
+DEF-1423,QC01,Required fields present,High,13273735147,,17.4551994,78.3606737,No missing fields,Missing: name
+DEF-1424,QC01,Required fields present,High,13273735515,,17.3835369,78.4005269,No missing fields,Missing: name
+DEF-1425,QC01,Required fields present,High,13273735516,,17.4559874,78.3601744,No missing fields,Missing: name
+DEF-1426,QC01,Required fields present,High,13273737257,,17.4544774,78.3616678,No missing fields,Missing: name
+DEF-1427,QC01,Required fields present,High,13273738650,,17.4582132,78.3553616,No missing fields,Missing: name
+DEF-1428,QC01,Required fields present,High,13273739147,,17.4557616,78.3631577,No missing fields,Missing: name
+DEF-1429,QC01,Required fields present,High,13273739351,,17.4549551,78.3611717,No missing fields,Missing: name
+DEF-1430,QC01,Required fields present,High,13273739353,,17.4558823,78.3612389,No missing fields,Missing: name
+DEF-1431,QC01,Required fields present,High,13273739707,,17.4554137,78.3610056,No missing fields,Missing: name
+DEF-1432,QC01,Required fields present,High,13273740617,,17.4549983,78.3608009,No missing fields,Missing: name
+DEF-1433,QC01,Required fields present,High,13273746938,,17.4548663,78.3619715,No missing fields,Missing: name
+DEF-1434,QC01,Required fields present,High,13273748398,,17.383146,78.3991744,No missing fields,Missing: name
+DEF-1435,QC01,Required fields present,High,13275183864,,17.4637952,78.3757477,No missing fields,Missing: name
+DEF-1436,QC01,Required fields present,High,13275186531,,17.4569993,78.3769899,No missing fields,Missing: name
+DEF-1437,QC01,Required fields present,High,13275202918,,17.4642266,78.3743464,No missing fields,Missing: name
+DEF-1438,QC01,Required fields present,High,13275227810,,17.4617673,78.3764491,No missing fields,Missing: name
+DEF-1439,QC01,Required fields present,High,13275763363,,17.3843813,78.4030601,No missing fields,Missing: name
+DEF-1440,QC01,Required fields present,High,13275765007,,17.3818877,78.4016352,No missing fields,Missing: name
+DEF-1441,QC01,Required fields present,High,13277377215,,17.4124486,78.566305,No missing fields,Missing: name
+DEF-1442,QC01,Required fields present,High,13277377217,,17.4118851,78.5660093,No missing fields,Missing: name
+DEF-1443,QC01,Required fields present,High,13277377218,,17.4116718,78.5651685,No missing fields,Missing: name
+DEF-1444,QC01,Required fields present,High,13285248835,,17.4488553,78.356489,No missing fields,Missing: name
+DEF-1445,QC01,Required fields present,High,13286692266,,17.4448989,78.3502757,No missing fields,Missing: name
+DEF-1446,QC01,Required fields present,High,13287712049,,17.45106,78.3688985,No missing fields,Missing: name
+DEF-1447,QC01,Required fields present,High,13293870171,,17.3324611,78.4862224,No missing fields,Missing: name
+DEF-1448,QC01,Required fields present,High,13296612412,,17.4138871,78.4493718,No missing fields,Missing: name
+DEF-1449,QC01,Required fields present,High,13300997485,,17.4933893,78.403487,No missing fields,Missing: name
+DEF-1450,QC01,Required fields present,High,13301216949,,17.4070658,78.426237,No missing fields,Missing: name
+DEF-1451,QC01,Required fields present,High,13308005566,,17.4527981,78.382006,No missing fields,Missing: name
+DEF-1452,QC01,Required fields present,High,13308005567,,17.4516327,78.3807718,No missing fields,Missing: name
+DEF-1453,QC01,Required fields present,High,13308005737,,17.4368557,78.3853753,No missing fields,Missing: name
+DEF-1454,QC01,Required fields present,High,13308035367,,17.4518646,78.3811503,No missing fields,Missing: name
+DEF-1455,QC01,Required fields present,High,13308040798,,17.4614155,78.3689079,No missing fields,Missing: name
+DEF-1456,QC01,Required fields present,High,13308072627,,17.4518032,78.3811046,No missing fields,Missing: name
+DEF-1457,QC01,Required fields present,High,13308073078,,17.4518747,78.3810471,No missing fields,Missing: name
+DEF-1458,QC01,Required fields present,High,13308076200,,17.4548692,78.3785286,No missing fields,Missing: name
+DEF-1459,QC01,Required fields present,High,13308080077,,17.4623238,78.3766062,No missing fields,Missing: name
+DEF-1460,QC01,Required fields present,High,13308083178,,17.4531435,78.3823655,No missing fields,Missing: name
+DEF-1461,QC01,Required fields present,High,13308087734,,17.4512483,78.3812549,No missing fields,Missing: name
+DEF-1462,QC01,Required fields present,High,13308088409,,17.4547785,78.3786069,No missing fields,Missing: name
+DEF-1463,QC01,Required fields present,High,13308090221,,17.451539,78.3807691,No missing fields,Missing: name
+DEF-1464,QC01,Required fields present,High,13308096492,,17.4594329,78.3733228,No missing fields,Missing: name
+DEF-1465,QC01,Required fields present,High,13308295978,,17.4643399,78.313093,No missing fields,Missing: name
+DEF-1466,QC01,Required fields present,High,13308295981,,17.4650965,78.3117333,No missing fields,Missing: name
+DEF-1467,QC01,Required fields present,High,13308295985,,17.4629507,78.3140763,No missing fields,Missing: name
+DEF-1468,QC01,Required fields present,High,13308295993,,17.4636398,78.31548,No missing fields,Missing: name
+DEF-1469,QC01,Required fields present,High,13310396084,,17.4567243,78.3706928,No missing fields,Missing: name
+DEF-1470,QC01,Required fields present,High,13310396085,,17.4568309,78.3703829,No missing fields,Missing: name
+DEF-1471,QC01,Required fields present,High,13310418630,,17.4479114,78.3787453,No missing fields,Missing: name
+DEF-1472,QC01,Required fields present,High,13310418631,,17.4477262,78.3791464,No missing fields,Missing: name
+DEF-1473,QC01,Required fields present,High,13333195409,,17.5028695,78.3265955,No missing fields,Missing: name
+DEF-1474,QC01,Required fields present,High,13333195410,,17.5030072,78.326639,No missing fields,Missing: name
+DEF-1475,QC01,Required fields present,High,13333195424,,17.5032635,78.3253756,No missing fields,Missing: name
+DEF-1476,QC01,Required fields present,High,13333273807,,17.5048087,78.3143094,No missing fields,Missing: name
+DEF-1477,QC01,Required fields present,High,13333715364,,17.4789724,78.3094971,No missing fields,Missing: name
+DEF-1478,QC01,Required fields present,High,13333719208,,17.4624748,78.3919169,No missing fields,Missing: name
+DEF-1479,QC01,Required fields present,High,13333719211,,17.4622182,78.3919668,No missing fields,Missing: name
+DEF-1480,QC01,Required fields present,High,13335484410,,17.4809576,78.316595,No missing fields,Missing: name
+DEF-1481,QC01,Required fields present,High,13335598224,,17.5076496,78.4623641,No missing fields,Missing: name
+DEF-1482,QC01,Required fields present,High,13335598249,,17.5063205,78.4598059,No missing fields,Missing: name
+DEF-1483,QC01,Required fields present,High,13335606935,,17.4940402,78.4517913,No missing fields,Missing: name
+DEF-1484,QC01,Required fields present,High,13335606936,,17.4941088,78.4518103,No missing fields,Missing: name
+DEF-1485,QC01,Required fields present,High,13335606947,,17.4965027,78.4481384,No missing fields,Missing: name
+DEF-1486,QC01,Required fields present,High,13344488383,,17.3875961,78.4940008,No missing fields,Missing: name
+DEF-1487,QC01,Required fields present,High,13347280208,,17.4011285,78.5192378,No missing fields,Missing: name
+DEF-1488,QC01,Required fields present,High,13347811652,,17.4393634,78.3502856,No missing fields,Missing: name
+DEF-1489,QC01,Required fields present,High,13347811666,,17.4395367,78.3494071,No missing fields,Missing: name
+DEF-1490,QC01,Required fields present,High,13351155604,,17.4495268,78.3616749,No missing fields,Missing: name
+DEF-1491,QC01,Required fields present,High,13351155611,,17.449083,78.3604735,No missing fields,Missing: name
+DEF-1492,QC01,Required fields present,High,13351155616,,17.4498767,78.3621238,No missing fields,Missing: name
+DEF-1493,QC01,Required fields present,High,13352548717,,17.4491547,78.3610782,No missing fields,Missing: name
+DEF-1494,QC01,Required fields present,High,13352624426,,17.447313,78.3679984,No missing fields,Missing: name
+DEF-1495,QC01,Required fields present,High,13352674598,,17.5195523,78.4282159,No missing fields,Missing: name
+DEF-1496,QC01,Required fields present,High,13352674600,,17.5194776,78.4281866,No missing fields,Missing: name
+DEF-1497,QC01,Required fields present,High,13352677802,,17.5193805,78.4281401,No missing fields,Missing: name
+DEF-1498,QC01,Required fields present,High,13352687964,,17.5246508,78.426126,No missing fields,Missing: name
+DEF-1499,QC01,Required fields present,High,13352687966,,17.5246769,78.4261424,No missing fields,Missing: name
+DEF-1500,QC01,Required fields present,High,13353708299,,17.4252241,78.4038922,No missing fields,Missing: name
+DEF-1501,QC01,Required fields present,High,13357877312,,17.5255373,78.4900404,No missing fields,Missing: name
+DEF-1502,QC01,Required fields present,High,13363053749,,17.4680191,78.3637259,No missing fields,Missing: name
+DEF-1503,QC01,Required fields present,High,13363053753,,17.4683562,78.3632826,No missing fields,Missing: name
+DEF-1504,QC01,Required fields present,High,13363057415,,17.4621598,78.3819906,No missing fields,Missing: name
+DEF-1505,QC01,Required fields present,High,13363057430,,17.4624928,78.3802467,No missing fields,Missing: name
+DEF-1506,QC01,Required fields present,High,13363175269,,17.431349,78.3787474,No missing fields,Missing: name
+DEF-1507,QC01,Required fields present,High,13363175274,,17.4312647,78.3786743,No missing fields,Missing: name
+DEF-1508,QC01,Required fields present,High,13363175282,,17.4310955,78.379912,No missing fields,Missing: name
+DEF-1509,QC01,Required fields present,High,13363198621,,17.4660663,78.3833721,No missing fields,Missing: name
+DEF-1510,QC01,Required fields present,High,13363207207,,17.4312251,78.3795858,No missing fields,Missing: name
+DEF-1511,QC01,Required fields present,High,13363219393,,17.4655942,78.3823314,No missing fields,Missing: name
+DEF-1512,QC01,Required fields present,High,13366274144,,17.3609191,78.5430276,No missing fields,Missing: name
+DEF-1513,QC01,Required fields present,High,13366274147,,17.3608007,78.5430907,No missing fields,Missing: name
+DEF-1514,QC01,Required fields present,High,13366274150,,17.3605203,78.5432523,No missing fields,Missing: name
+DEF-1515,QC01,Required fields present,High,13366274152,,17.3605518,78.5432367,No missing fields,Missing: name
+DEF-1516,QC01,Required fields present,High,13366502539,,17.3581257,78.5456894,No missing fields,Missing: name
+DEF-1517,QC01,Required fields present,High,13366507803,,17.3562773,78.5440435,No missing fields,Missing: name
+DEF-1518,QC01,Required fields present,High,13366587215,,17.3593858,78.5464675,No missing fields,Missing: name
+DEF-1519,QC01,Required fields present,High,13366593366,,17.4730881,78.3559963,No missing fields,Missing: name
+DEF-1520,QC01,Required fields present,High,13369352360,,17.4810838,78.3453805,No missing fields,Missing: name
+DEF-1521,QC01,Required fields present,High,13369352361,,17.480997,78.3456107,No missing fields,Missing: name
+DEF-1522,QC01,Required fields present,High,13369440276,,17.4866405,78.3416191,No missing fields,Missing: name
+DEF-1523,QC01,Required fields present,High,13377487114,,17.3619368,78.549754,No missing fields,Missing: name
+DEF-1524,QC01,Required fields present,High,13377506090,,17.3620634,78.5515025,No missing fields,Missing: name
+DEF-1525,QC01,Required fields present,High,13377538730,,17.3642403,78.5527898,No missing fields,Missing: name
+DEF-1526,QC01,Required fields present,High,13377538733,,17.3641567,78.5527865,No missing fields,Missing: name
+DEF-1527,QC01,Required fields present,High,13377659112,,17.3645148,78.5515621,No missing fields,Missing: name
+DEF-1528,QC01,Required fields present,High,13377827944,,17.3635324,78.5394157,No missing fields,Missing: name
+DEF-1529,QC01,Required fields present,High,13377851592,,17.3651215,78.5350186,No missing fields,Missing: name
+DEF-1530,QC01,Required fields present,High,13377864205,,17.364621,78.5379668,No missing fields,Missing: name
+DEF-1531,QC01,Required fields present,High,13377864208,,17.3648118,78.5379798,No missing fields,Missing: name
+DEF-1532,QC01,Required fields present,High,13377897081,,17.3629523,78.5363106,No missing fields,Missing: name
+DEF-1533,QC01,Required fields present,High,13380392781,,17.3651524,78.5390567,No missing fields,Missing: name
+DEF-1534,QC01,Required fields present,High,13380392784,,17.3650814,78.5388088,No missing fields,Missing: name
+DEF-1535,QC01,Required fields present,High,13380524946,,17.4157739,78.3690364,No missing fields,Missing: name
+DEF-1536,QC01,Required fields present,High,13380610011,,17.4176168,78.3636219,No missing fields,Missing: name
+DEF-1537,QC01,Required fields present,High,13382803480,,17.3956395,78.4280427,No missing fields,Missing: name
+DEF-1538,QC01,Required fields present,High,13383353462,,17.409317,78.3982185,No missing fields,Missing: name
+DEF-1539,QC01,Required fields present,High,13383353466,,17.4095651,78.398381,No missing fields,Missing: name
+DEF-1540,QC01,Required fields present,High,13383871884,,17.5095696,78.369203,No missing fields,Missing: name
+DEF-1541,QC01,Required fields present,High,13383925803,,17.5056459,78.3616778,No missing fields,Missing: name
+DEF-1542,QC01,Required fields present,High,13385949063,,17.4072645,78.4054934,No missing fields,Missing: name
+DEF-1543,QC01,Required fields present,High,13385949066,,17.406195,78.4052134,No missing fields,Missing: name
+DEF-1544,QC01,Required fields present,High,13385949076,,17.4059476,78.4057568,No missing fields,Missing: name
+DEF-1545,QC01,Required fields present,High,13386391590,,17.4029528,78.4071023,No missing fields,Missing: name
+DEF-1546,QC01,Required fields present,High,13386409907,,17.4029906,78.4070197,No missing fields,Missing: name
+DEF-1547,QC01,Required fields present,High,13394695673,,17.4717424,78.3355332,No missing fields,Missing: name
+DEF-1548,QC01,Required fields present,High,13409219048,,17.4226446,78.3813482,No missing fields,Missing: name
+DEF-1549,QC01,Required fields present,High,13415354415,,17.4320937,78.5386342,No missing fields,Missing: name
+DEF-1550,QC01,Required fields present,High,13420415294,,17.4632461,78.3124263,No missing fields,Missing: name
+DEF-1551,QC01,Required fields present,High,13420479803,,17.4628861,78.3120997,No missing fields,Missing: name
+DEF-1552,QC01,Required fields present,High,13420479804,,17.4619818,78.3122812,No missing fields,Missing: name
+DEF-1553,QC01,Required fields present,High,13420479822,,17.4623232,78.3117928,No missing fields,Missing: name
+DEF-1554,QC01,Required fields present,High,13420479832,,17.4624071,78.311357,No missing fields,Missing: name
+DEF-1555,QC01,Required fields present,High,13420479857,,17.462947,78.310488,No missing fields,Missing: name
+DEF-1556,QC01,Required fields present,High,13420518837,,17.4612046,78.3045221,No missing fields,Missing: name
+DEF-1557,QC01,Required fields present,High,13420518853,,17.4622195,78.3044916,No missing fields,Missing: name
+DEF-1558,QC01,Required fields present,High,13420660933,,17.4492402,78.2902403,No missing fields,Missing: name
+DEF-1559,QC01,Required fields present,High,13426479602,,17.435739,78.537549,No missing fields,Missing: name
+DEF-1560,QC01,Required fields present,High,13428189186,,17.496419,78.4543851,No missing fields,Missing: name
+DEF-1561,QC01,Required fields present,High,13432316680,,17.4429764,78.2782652,No missing fields,Missing: name
+DEF-1562,QC01,Required fields present,High,13432316685,,17.4430921,78.2767452,No missing fields,Missing: name
+DEF-1563,QC01,Required fields present,High,13432316686,,17.443014,78.2767229,No missing fields,Missing: name
+DEF-1564,QC01,Required fields present,High,13432316687,,17.4426005,78.2781832,No missing fields,Missing: name
+DEF-1565,QC01,Required fields present,High,13432351543,,17.4550947,78.292006,No missing fields,Missing: name
+DEF-1566,QC01,Required fields present,High,13432351545,,17.4555088,78.2921634,No missing fields,Missing: name
+DEF-1567,QC01,Required fields present,High,13436938795,,17.4187837,78.499292,No missing fields,Missing: name
+DEF-1568,QC01,Required fields present,High,13436938800,,17.4210593,78.4972269,No missing fields,Missing: name
+DEF-1569,QC01,Required fields present,High,13436948477,,17.4069699,78.4998645,No missing fields,Missing: name
+DEF-1570,QC01,Required fields present,High,13436948482,,17.4058294,78.5016028,No missing fields,Missing: name
+DEF-1571,QC01,Required fields present,High,13437156192,,17.4238053,78.5033048,No missing fields,Missing: name
+DEF-1572,QC01,Required fields present,High,13503741885,,17.4074169,78.4415149,No missing fields,Missing: name
+DEF-1573,QC01,Required fields present,High,13525987901,,17.4581905,78.4081069,No missing fields,Missing: name
+DEF-1574,QC01,Required fields present,High,13525988001,,17.4581905,78.4081069,No missing fields,Missing: name
+DEF-1575,QC01,Required fields present,High,13525988101,,17.4489177,78.3754667,No missing fields,Missing: name
+DEF-1576,QC01,Required fields present,High,13525988201,,17.4499004,78.3726582,No missing fields,Missing: name
+DEF-1577,QC01,Required fields present,High,13531212091,,17.4371076,78.4422373,No missing fields,Missing: name
+DEF-1578,QC01,Required fields present,High,13531355140,,17.4572939,78.3723104,No missing fields,Missing: name
+DEF-1579,QC01,Required fields present,High,13532195603,,17.4201584,78.4486202,No missing fields,Missing: name
+DEF-1580,QC01,Required fields present,High,13532195624,,17.4328298,78.4563625,No missing fields,Missing: name
+DEF-1581,QC01,Required fields present,High,13535855581,,17.4164411,78.4806601,No missing fields,Missing: name
+DEF-1582,QC01,Required fields present,High,13535855585,,17.4155651,78.4799045,No missing fields,Missing: name
+DEF-1583,QC01,Required fields present,High,13535855586,,17.4155147,78.4800686,No missing fields,Missing: name
+DEF-1584,QC01,Required fields present,High,13535855590,,17.4141026,78.4789603,No missing fields,Missing: name
+DEF-1585,QC01,Required fields present,High,13536807335,,17.4116433,78.4498547,No missing fields,Missing: name
+DEF-1586,QC01,Required fields present,High,13536912456,,17.4354266,78.5035263,No missing fields,Missing: name
+DEF-1587,QC01,Required fields present,High,13536912463,,17.4208622,78.4843373,No missing fields,Missing: name
+DEF-1588,QC01,Required fields present,High,13536912474,,17.4305379,78.4924085,No missing fields,Missing: name
+DEF-1589,QC01,Required fields present,High,13543816904,,17.4159318,78.4605058,No missing fields,Missing: name
+DEF-1590,QC01,Required fields present,High,13611078187,,17.5039924,78.2886512,No missing fields,Missing: name
+DEF-1591,QC01,Required fields present,High,13612876303,,17.4563066,78.413025,No missing fields,Missing: name
+DEF-1592,QC01,Required fields present,High,13620840458,,17.4472951,78.348044,No missing fields,Missing: name
+DEF-1593,QC01,Required fields present,High,13620872098,,17.4470598,78.3479862,No missing fields,Missing: name
+DEF-1594,QC01,Required fields present,High,13620878679,,17.4473781,78.3481081,No missing fields,Missing: name
+DEF-1595,QC01,Required fields present,High,13620888507,,17.4474217,78.3481448,No missing fields,Missing: name
+DEF-1596,QC01,Required fields present,High,13620889281,,17.4471865,78.3479445,No missing fields,Missing: name
+DEF-1597,QC01,Required fields present,High,13620896620,,17.4470503,78.3479735,No missing fields,Missing: name
+DEF-1598,QC01,Required fields present,High,13620905842,,17.4465733,78.3474144,No missing fields,Missing: name
+DEF-1599,QC01,Required fields present,High,13620906359,,17.4467068,78.3475426,No missing fields,Missing: name
+DEF-1600,QC01,Required fields present,High,13620906360,,17.4465334,78.3473685,No missing fields,Missing: name
+DEF-1601,QC01,Required fields present,High,13620912616,,17.4458532,78.3467209,No missing fields,Missing: name
+DEF-1602,QC01,Required fields present,High,13620917337,,17.4464763,78.3473092,No missing fields,Missing: name
+DEF-1603,QC01,Required fields present,High,13620919242,,17.4465417,78.3474955,No missing fields,Missing: name
+DEF-1604,QC01,Required fields present,High,13673385133,,17.3708733,78.469148,No missing fields,Missing: name
+DEF-1605,QC01,Required fields present,High,13673486427,,17.5049151,78.4269138,No missing fields,Missing: name
+DEF-1606,QC01,Required fields present,High,13673566725,,17.5012965,78.4293736,No missing fields,Missing: name
+DEF-1607,QC01,Required fields present,High,13673574381,,17.4053368,78.4759925,No missing fields,Missing: name
+DEF-1608,QC01,Required fields present,High,13673806598,,17.502524,78.4261259,No missing fields,Missing: name
+DEF-1609,QC01,Required fields present,High,13673806599,,17.5022556,78.4262546,No missing fields,Missing: name
+DEF-1610,QC01,Required fields present,High,13673868799,,17.503617,78.4264768,No missing fields,Missing: name
+DEF-1611,QC01,Required fields present,High,13715401165,,17.4953497,78.3925671,No missing fields,Missing: name
+DEF-1612,QC06,Name formatting,Low,13715420823,THE STUDY SIP,17.493429,78.3930988,"Trimmed, not ALL CAPS",'THE STUDY SIP'
+DEF-1613,QC01,Required fields present,High,13715429715,,17.4935495,78.3927924,No missing fields,Missing: name
+DEF-1614,QC06,Name formatting,Low,13715448258,THE STUDY SIP,17.4952122,78.3927568,"Trimmed, not ALL CAPS",'THE STUDY SIP'
+DEF-1615,QC01,Required fields present,High,13715457703,,17.4925864,78.3903941,No missing fields,Missing: name
+DEF-1616,QC06,Name formatting,Low,13715467226,JNTUH UL,17.495545,78.3915124,"Trimmed, not ALL CAPS",'JNTUH UL'
+DEF-1617,QC06,Name formatting,Low,13737411702,BARBEQUE NATION,17.4572805,78.3656635,"Trimmed, not ALL CAPS",'BARBEQUE NATION'
+DEF-1618,QC01,Required fields present,High,13813182193,,17.4301046,78.5044813,No missing fields,Missing: name
+DEF-1619,QC01,Required fields present,High,13831034201,,17.4693679,78.4190217,No missing fields,Missing: name
+DEF-1620,QC01,Required fields present,High,13857640439,,17.4184232,78.3418962,No missing fields,Missing: name
+DEF-1621,QC01,Required fields present,High,14022778132,,17.4204558,78.3503077,No missing fields,Missing: name
+DEF-1622,QC01,Required fields present,High,14022778135,,17.4209777,78.3490442,No missing fields,Missing: name
+DEF-1623,QC01,Required fields present,High,14022778137,,17.4222797,78.3477658,No missing fields,Missing: name
+DEF-1624,QC01,Required fields present,High,14022786450,,17.4994484,78.3816073,No missing fields,Missing: name
+DEF-1625,QC01,Required fields present,High,14061154065,,17.3052187,78.4563404,No missing fields,Missing: name
+DEF-1626,QC01,Required fields present,High,14062412541,,17.3049868,78.457459,No missing fields,Missing: name
+DEF-1627,QC01,Required fields present,High,14062424471,,17.30504,78.4573086,No missing fields,Missing: name
+DEF-1628,QC01,Required fields present,High,14062424472,,17.3050724,78.4565736,No missing fields,Missing: name
+DEF-1629,QC01,Required fields present,High,14062424473,,17.305132,78.4565749,No missing fields,Missing: name
+DEF-1630,QC01,Required fields present,High,14062424474,,17.3052249,78.4565662,No missing fields,Missing: name
+DEF-1631,QC01,Required fields present,High,14062424475,,17.3052883,78.4565779,No missing fields,Missing: name
+DEF-1632,QC01,Required fields present,High,14062595397,,17.4010715,78.5608568,No missing fields,Missing: name
+DEF-1633,QC01,Required fields present,High,14062598902,,17.4011471,78.5674374,No missing fields,Missing: name
+DEF-1634,QC01,Required fields present,High,14076472616,,17.4877126,78.3996886,No missing fields,Missing: name
+DEF-1635,QC06,Name formatting,Low,14196853001,DTDC,17.4993119,78.3408886,"Trimmed, not ALL CAPS",'DTDC'
+DEF-1636,QC01,Required fields present,High,14202531409,,17.4330304,78.5048719,No missing fields,Missing: name
+DEF-1637,QC01,Required fields present,High,14202531416,,17.4341654,78.5032493,No missing fields,Missing: name
+DEF-1638,QC01,Required fields present,High,14253894491,,17.4184761,78.3795486,No missing fields,Missing: name
+DEF-1639,QC06,Name formatting,Low,14316417610,MASJID - E - MOTHIYA SIR NIZAMAT JUNG,17.3622382,78.5420582,"Trimmed, not ALL CAPS",'MASJID - E - MOTHIYA SIR NIZAMAT JUNG'
+DEF-1640,QC01,Required fields present,High,14335618063,,17.446189,78.3492531,No missing fields,Missing: name
+DEF-1641,QC01,Required fields present,High,14344444453,,17.3873839,78.4469325,No missing fields,Missing: name
+DEF-1642,QC04,No duplicate places,Medium,8065673328,?????????? ???????? ?›?� ??????????,17.3520554,78.45318,Unique place,Duplicate of id 8065642920 (8 m apart)
+DEF-1643,QC04,No duplicate places,Medium,10795095589,Aaromale,17.4127917,78.4065527,Unique place,Duplicate of id 10795095588 (8 m apart)
+DEF-1644,QC04,No duplicate places,Medium,7025820812,Amber,17.4367769,78.3891418,Unique place,Duplicate of id 7021303608 (0 m apart)
+DEF-1645,QC04,No duplicate places,Medium,2217968808,Apollo Pharmacy,17.4335968,78.3691605,Unique place,Duplicate of id 2217968805 (47 m apart)
+DEF-1646,QC04,No duplicate places,Medium,8113850346,Apollo Pharmacy,17.4081942,78.5698759,Unique place,Duplicate of id 8113850345 (30 m apart)
+DEF-1647,QC04,No duplicate places,Medium,14371031998,Apollo Pharmacy,17.4841362,78.4118755,Unique place,Duplicate of id 14364578291 (0 m apart)
+DEF-1648,QC04,No duplicate places,Medium,4432327795,"Bank of Baroda bank, atm",17.4057852,78.4932602,Unique place,Duplicate of id 4425032194 (4 m apart)
+DEF-1649,QC04,No duplicate places,Medium,7244238200,Bawarchi,17.4066547,78.497651,Unique place,Duplicate of id 675646784 (46 m apart)
+DEF-1650,QC04,No duplicate places,Medium,14065837228,Bawarchi,17.4062451,78.4976285,Unique place,Duplicate of id 675646784 (24 m apart)
+DEF-1651,QC04,No duplicate places,Medium,14065837228,Bawarchi,17.4062451,78.4976285,Unique place,Duplicate of id 7244238200 (46 m apart)
+DEF-1652,QC04,No duplicate places,Medium,5536020505,Boats to Budha Statue,17.410965,78.4729424,Unique place,Duplicate of id 3612573966 (47 m apart)
+DEF-1653,QC04,No duplicate places,Medium,11422123669,Bronzy Fried Chicken,17.4261044,78.4569305,Unique place,Duplicate of id 11015823658 (6 m apart)
+DEF-1654,QC04,No duplicate places,Medium,5405056431,Cafe Coffee Day,17.442773,78.3556843,Unique place,Duplicate of id 4729107489 (16 m apart)
+DEF-1655,QC04,No duplicate places,Medium,6209984886,Coronation Cafe,17.4063217,78.4653375,Unique place,Duplicate of id 6134655288 (40 m apart)
+DEF-1656,QC04,No duplicate places,Medium,4433014293,"Corporation bank, atm",17.4083614,78.4897461,Unique place,Duplicate of id 4422081998 (4 m apart)
+DEF-1657,QC04,No duplicate places,Medium,7180113797,cream stone,17.4929223,78.4044302,Unique place,Duplicate of id 3388784598 (9 m apart)
+DEF-1658,QC04,No duplicate places,Medium,6468200843,DCB Bank,17.4946467,78.3268106,Unique place,Duplicate of id 6468199886 (2 m apart)
+DEF-1659,QC04,No duplicate places,Medium,11420427272,Dezy,17.4263767,78.457579,Unique place,Duplicate of id 11015846005 (14 m apart)
+DEF-1660,QC04,No duplicate places,Medium,12422483854,Domino's,17.4061379,78.4513106,Unique place,Duplicate of id 6218855685 (18 m apart)
+DEF-1661,QC04,No duplicate places,Medium,13715452783,Durgamma Temple,17.4961828,78.3943759,Unique place,Duplicate of id 11736376196 (12 m apart)
+DEF-1662,QC04,No duplicate places,Medium,13715470798,Fast Food,17.494254,78.3927976,Unique place,Duplicate of id 13715414721 (33 m apart)
+DEF-1663,QC04,No duplicate places,Medium,13715470799,Fast Food,17.4942356,78.3928192,Unique place,Duplicate of id 13715414721 (31 m apart)
+DEF-1664,QC04,No duplicate places,Medium,13715470799,Fast Food,17.4942356,78.3928192,Unique place,Duplicate of id 13715470798 (3 m apart)
+DEF-1665,QC04,No duplicate places,Medium,13715457332,Food Court,17.4941211,78.392778,Unique place,Duplicate of id 13715401163 (9 m apart)
+DEF-1666,QC04,No duplicate places,Medium,7021303601,HDFC Bank,17.4502911,78.3858209,Unique place,Duplicate of id 5160665780 (14 m apart)
+DEF-1667,QC04,No duplicate places,Medium,6241052755,HDFC Bank,17.4282665,78.4132693,Unique place,Duplicate of id 6241052084 (29 m apart)
+DEF-1668,QC04,No duplicate places,Medium,11868150776,HP,17.4367392,78.5176824,Unique place,Duplicate of id 817353582 (29 m apart)
+DEF-1669,QC04,No duplicate places,Medium,5405056027,ICICI bank,17.4411479,78.3603676,Unique place,Duplicate of id 5405055778 (8 m apart)
+DEF-1670,QC04,No duplicate places,Medium,9887230608,ICICI Bank,17.5044669,78.3876252,Unique place,Duplicate of id 9887230607 (5 m apart)
+DEF-1671,QC04,No duplicate places,Medium,4432270596,"Indian bank, atm",17.4044775,78.4895371,Unique place,Duplicate of id 4422081997 (8 m apart)
+DEF-1672,QC04,No duplicate places,Medium,5037865323,Indian Culinary Academy,17.4367875,78.4583664,Unique place,Duplicate of id 5037840121 (9 m apart)
+DEF-1673,QC04,No duplicate places,Medium,13715450844,IndusInd Bank,17.4953573,78.395372,Unique place,Duplicate of id 11736396272 (48 m apart)
+DEF-1674,QC04,No duplicate places,Medium,5973773086,Istanbul authentic doner kebab,17.3968157,78.4238638,Unique place,Duplicate of id 5973746985 (5 m apart)
+DEF-1675,QC04,No duplicate places,Medium,5973773088,ISTANBUL AUTHENTIC DONER KEBAB,17.4306478,78.4080256,Unique place,Duplicate of id 5973746986 (5 m apart)
+DEF-1676,QC04,No duplicate places,Medium,13715482751,Jntu Hospital,17.491566,78.3910771,Unique place,Duplicate of id 11736376192 (2 m apart)
+DEF-1677,QC04,No duplicate places,Medium,6468200845,Kotak Mahindra Bank,17.494643,78.326853,Unique place,Duplicate of id 6468196052 (4 m apart)
+DEF-1678,QC04,No duplicate places,Medium,11420427271,Madhushala Bar,17.4264881,78.4576837,Unique place,Duplicate of id 11015836511 (19 m apart)
+DEF-1679,QC04,No duplicate places,Medium,4431246690,Med plus,17.4044822,78.4893121,Unique place,Duplicate of id 4417145293 (12 m apart)
+DEF-1680,QC04,No duplicate places,Medium,11690850945,MedPlus,17.4739603,78.5510183,Unique place,Duplicate of id 11690766694 (37 m apart)
+DEF-1681,QC04,No duplicate places,Medium,10112896286,Mythri Hospital,17.3836203,78.4292848,Unique place,Duplicate of id 6502946680 (7 m apart)
+DEF-1682,QC04,No duplicate places,Medium,12538717585,Naga Bhushana Mess,17.4739189,78.5702751,Unique place,Duplicate of id 12536226041 (0 m apart)
+DEF-1683,QC04,No duplicate places,Medium,7113998091,Naturals,17.438583,78.3992291,Unique place,Duplicate of id 5215853462 (2 m apart)
+DEF-1684,QC04,No duplicate places,Medium,5405056231,Paradise,17.4424212,78.3564904,Unique place,Duplicate of id 4705398998 (16 m apart)
+DEF-1685,QC04,No duplicate places,Medium,6375056793,rajeevgandhi nagar,17.3600361,78.5575549,Unique place,Duplicate of id 6375006568 (42 m apart)
+DEF-1686,QC04,No duplicate places,Medium,8107751448,Sai Darshini,17.442097,78.4408275,Unique place,Duplicate of id 6684817721 (48 m apart)
+DEF-1687,QC04,No duplicate places,Medium,7062983765,Sai Krishna Pharmacy,17.5063443,78.3549405,Unique place,Duplicate of id 3010422049 (30 m apart)
+DEF-1688,QC04,No duplicate places,Medium,6847914860,Siva Sai Biryani Point,17.495959,78.452407,Unique place,Duplicate of id 6822126528 (1 m apart)
+DEF-1689,QC04,No duplicate places,Medium,9094249117,Sri Chaitanya Jr. College,17.4423913,78.4437506,Unique place,Duplicate of id 9094232220 (32 m apart)
+DEF-1690,QC04,No duplicate places,Medium,9094260817,Sri Chaitanya Jr. College,17.4427025,78.4436167,Unique place,Duplicate of id 9094232220 (17 m apart)
+DEF-1691,QC04,No duplicate places,Medium,9094260817,Sri Chaitanya Jr. College,17.4427025,78.4436167,Unique place,Duplicate of id 9094249117 (37 m apart)
+DEF-1692,QC04,No duplicate places,Medium,12596396172,sri kara hospital,17.3445439,78.5484408,Unique place,Duplicate of id 6549210041 (5 m apart)
+DEF-1693,QC04,No duplicate places,Medium,12541130567,Sri Lakshmi Restaurant,17.4735501,78.5700593,Unique place,Duplicate of id 12536257515 (8 m apart)
+DEF-1694,QC04,No duplicate places,Medium,4431245791,St Anthony high school,17.4031177,78.4885756,Unique place,Duplicate of id 4416373791 (9 m apart)
+DEF-1695,QC04,No duplicate places,Medium,4431984890,St Anthony high school,17.4030771,78.4885458,Unique place,Duplicate of id 4416373791 (13 m apart)
+DEF-1696,QC04,No duplicate places,Medium,4431984890,St Anthony high school,17.4030771,78.4885458,Unique place,Duplicate of id 4431245791 (6 m apart)
+DEF-1697,QC04,No duplicate places,Medium,2676394805,State Bank of India,17.4507673,78.3809375,Unique place,Duplicate of id 349015541 (10 m apart)
+DEF-1698,QC04,No duplicate places,Medium,8891813163,State Bank of India,17.4255085,78.4331953,Unique place,Duplicate of id 1883490650 (15 m apart)
+DEF-1699,QC04,No duplicate places,Medium,4769496365,State Bank of India,17.4413364,78.3600412,Unique place,Duplicate of id 2217968807 (4 m apart)
+DEF-1700,QC04,No duplicate places,Medium,7358397112,SunRise High School,17.3893911,78.4428517,Unique place,Duplicate of id 7358397111 (37 m apart)
+DEF-1701,QC04,No duplicate places,Medium,4431245490,Telangana Grameena Bank,17.4010068,78.4881937,Unique place,Duplicate of id 4418621799 (2 m apart)
+DEF-1702,QC04,No duplicate places,Medium,13715448258,THE STUDY SIP,17.4952122,78.3927568,Unique place,Duplicate of id 13715402826 (23 m apart)
+DEF-1703,QC04,No duplicate places,Medium,11964121050,Thukaram Gate,17.4406181,78.5225118,Unique place,Duplicate of id 11964110734 (1 m apart)
+DEF-1704,QC04,No duplicate places,Medium,6822126618,Union Bank of India,17.4019032,78.558203,Unique place,Duplicate of id 2431967237 (25 m apart)
+DEF-1705,QC04,No duplicate places,Medium,10992500570,VIDYANAGAR BUS STOP,17.4043258,78.5104757,Unique place,Duplicate of id 10992500569 (20 m apart)
+DEF-1706,QC04,No duplicate places,Medium,5701849550,Visitor parking,17.4190949,78.3375235,Unique place,Duplicate of id 5701849549 (12 m apart)
+DEF-1707,QC04,No duplicate places,Medium,7244140658,Vistara,17.4957046,78.3951187,Unique place,Duplicate of id 6249185487 (15 m apart)

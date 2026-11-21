@@ -1,0 +1,7 @@
+Check_ID,Check_Name,Records_Checked,Failures,Result
+QC01,Required fields present,8327,1392,FAIL
+QC02,Valid coordinates,8327,0,PASS
+QC03,Inside Hyderabad bounds,8327,0,PASS
+QC04,No duplicate places,8327,66,FAIL
+QC05,Consistent category labels,8327,0,PASS
+QC06,Name formatting,8327,249,FAIL
