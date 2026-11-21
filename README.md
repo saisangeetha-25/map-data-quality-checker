@@ -65,12 +65,12 @@ Displays the results of all six data validation checks.
 ### 5. Python Validation Implementation
 Shows the Python code used for data validation and defect identification.
 
-![Python Validation Code](screenshots\05-project-configuration.png)
+![Python Validation Code](screenshots/05-project-configuration.png)
 
 ### 6. Map Visualization Implementation
 Shows the code used to generate the interactive geographical map.
 
-![Map Visualization Code](screenshots\06-sample-data-generation.png)
+![Map Visualization Code](screenshots/06-sample-data-generation.png)
 
 ## 👩‍💻 About the Developer
 
