@@ -71,3 +71,24 @@ Shows the Python code used for data validation and defect identification.
 Shows the code used to generate the interactive geographical map.
 
 ![Map Visualization Code](screenshots/06-map-visualization-code.png)
+
+## 👩‍💻 About the Developer
+
+**Sai Sangeetha Padakanti**
+
+Computer Science and Engineering Graduate (2026)  
+Vaageswari College of Engineering, JNTUH  
+Hyderabad, Telangana, India
+
+I am an aspiring IT professional interested in software quality, manual testing, data validation, and technology-driven solutions.
+
+This project demonstrates my practical understanding of Python programming, data validation, defect identification, test case documentation, and map-based data visualization.
+
+### Connect with Me
+
+- **Email:** saisangeetha4925@gmail.com
+- **LinkedIn:** https://linkedin.com/in/saisangeethapadakanti
+- **GitHub:** https://github.com/saisangeetha-25
+
+---
+*Developed as a portfolio project to demonstrate practical skills in map data quality validation and testing.*
